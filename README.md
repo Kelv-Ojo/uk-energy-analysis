@@ -14,6 +14,22 @@ An analysis of the DESNZ Energy Consumption in the UK 2025 workbook, developed f
 
 ![Long-term sector changes](reports/sector_changes.png)
 
+## Worked example: long-term demand
+
+**Question:** How much did total final consumption change from 1970 to 2024?
+
+```sql
+SELECT year, consumption_ktoe
+FROM energy
+WHERE sector = 'All final users' AND fuel = 'Total'
+  AND year IN (1970, 2024)
+ORDER BY year;
+```
+
+**Result:** 145,977 ktoe in 1970 and 128,091.8 ktoe in 2024, a **12.3% decline**. Calculate `(2024 value / 1970 value - 1) * 100`; do not sum the aggregate sector with its components. The in-memory energy table is populated in `src/analyze.py`.
+
+**Interpretation:** overall demand declined across these endpoints. The comparison alone cannot identify the contributions of efficiency, weather or economic structure. [Full SQL comparison](sql/sector_changes.sql).
+
 ## Reproduce
 
 From this repository's root, using Python 3.10 or later:
@@ -50,3 +66,7 @@ Windows: activate with `.venv\Scripts\activate`. The source workbook is included
 [DESNZ: Energy consumption in the UK 2025](https://www.gov.uk/government/statistics/energy-consumption-in-the-uk-2025), Table C1, 1970–2024. The included local workbook snapshot is fingerprinted in the manifest; this is not a claim to use the newest release. Government data is attributed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 These are descriptive comparisons, not causal estimates or forecasts. Weather, economic activity and efficiency could explain changes but are not measured here. Electricity consumption does not identify renewable generation. This project does not claim emissions reductions, client work or commercial impact.
+
+## Automated validation
+
+[Validation runs](https://github.com/Kelv-Ojo/uk-energy-analysis/actions/workflows/validate.yml) rebuild the analysis and check source fingerprints and fixed-snapshot totals. See [reproduction instructions and dependency pins](REPRODUCIBILITY.md). Python checks do not certify native Excel or Power BI behaviour.
