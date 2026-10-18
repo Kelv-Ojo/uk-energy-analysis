@@ -1,0 +1,2861 @@
+year,sector,fuel,consumption_ktoe,consumption_twh,status,source_cell
+1970,Industry,Coal,12681.0,147.48003,reported,B7
+1970,Industry,Coke and breeze,9655.0,112.28765,reported,C7
+1970,Industry,Other solid fuels,209.0,2.43067,reported,D7
+1970,Industry,Coke oven gas,1164.0,13.53732,reported,E7
+1970,Industry,Town gas,1778.0,20.67814,reported,F7
+1970,Industry,Natural gas,1788.0,20.794439999999998,reported,G7
+1970,Industry,Electricity,6275.0,72.97825,reported,H7
+1970,Industry,Heat,,,unavailable,I7
+1970,Industry,Bioenergy & waste,,,unavailable,J7
+1970,Industry,Petroleum products,28397.0,330.25711,reported,K7
+1970,Industry,Total,62333.0,724.93279,reported,L7
+1971,Industry,Coal,10232.0,118.99816,reported,B8
+1971,Industry,Coke and breeze,8298.0,96.50574,reported,C8
+1971,Industry,Other solid fuels,176.0,2.04688,reported,D8
+1971,Industry,Coke oven gas,1118.0,13.00234,reported,E8
+1971,Industry,Town gas,1038.0,12.07194,reported,F8
+1971,Industry,Natural gas,5194.0,60.40622,reported,G8
+1971,Industry,Electricity,6313.0,73.42019,reported,H8
+1971,Industry,Heat,,,unavailable,I8
+1971,Industry,Bioenergy & waste,,,unavailable,J8
+1971,Industry,Petroleum products,28130.0,327.1519,reported,K8
+1971,Industry,Total,60746.0,706.4759799999999,reported,L8
+1972,Industry,Coal,7675.0,89.26025,reported,B9
+1972,Industry,Coke and breeze,7832.0,91.08615999999999,reported,C9
+1972,Industry,Other solid fuels,252.0,2.93076,reported,D9
+1972,Industry,Coke oven gas,1111.0,12.92093,reported,E9
+1972,Industry,Town gas,1154.0,13.42102,reported,F9
+1972,Industry,Natural gas,8136.0,94.62168,reported,G9
+1972,Industry,Electricity,6292.0,73.17596,reported,H9
+1972,Industry,Heat,,,unavailable,I9
+1972,Industry,Bioenergy & waste,,,unavailable,J9
+1972,Industry,Petroleum products,28674.0,333.47862,reported,K9
+1972,Industry,Total,61307.0,713.00041,reported,L9
+1973,Industry,Coal,7950.0,92.4585,reported,B10
+1973,Industry,Coke and breeze,8340.0,96.99419999999999,reported,C10
+1973,Industry,Other solid fuels,226.0,2.62838,reported,D10
+1973,Industry,Coke oven gas,1290.0,15.002699999999999,reported,E10
+1973,Industry,Town gas,788.0,9.164439999999999,reported,F10
+1973,Industry,Natural gas,10791.0,125.49933,reported,G10
+1973,Industry,Electricity,6884.0,80.06092,reported,H10
+1973,Industry,Heat,,,unavailable,I10
+1973,Industry,Bioenergy & waste,,,unavailable,J10
+1973,Industry,Petroleum products,28691.0,333.67633,reported,K10
+1973,Industry,Total,65149.0,757.68287,reported,L10
+1974,Industry,Coal,7290.0,84.78269999999999,reported,B11
+1974,Industry,Coke and breeze,7167.0,83.35221,reported,C11
+1974,Industry,Other solid fuels,201.0,2.33763,reported,D11
+1974,Industry,Coke oven gas,975.0,11.33925,reported,E11
+1974,Industry,Town gas,494.0,5.74522,reported,F11
+1974,Industry,Natural gas,12320.0,143.2816,reported,G11
+1974,Industry,Electricity,6517.0,75.79271,reported,H11
+1974,Industry,Heat,,,unavailable,I11
+1974,Industry,Bioenergy & waste,,,unavailable,J11
+1974,Industry,Petroleum products,24968.0,290.37784,reported,K11
+1974,Industry,Total,60058.0,698.4745399999999,reported,L11
+1975,Industry,Coal,6373.0,74.11798999999999,reported,B12
+1975,Industry,Coke and breeze,6338.0,73.71094,reported,C12
+1975,Industry,Other solid fuels,199.0,2.31437,reported,D12
+1975,Industry,Coke oven gas,1038.0,12.07194,reported,E12
+1975,Industry,Town gas,222.0,2.58186,reported,F12
+1975,Industry,Natural gas,12555.0,146.01465,reported,G12
+1975,Industry,Electricity,6479.0,75.35077,reported,H12
+1975,Industry,Heat,,,unavailable,I12
+1975,Industry,Bioenergy & waste,,,unavailable,J12
+1975,Industry,Petroleum products,22145.0,257.54635,reported,K12
+1975,Industry,Total,55444.0,644.81372,reported,L12
+1976,Industry,Coal,5902.0,68.64026,reported,B13
+1976,Industry,Coke and breeze,7129.0,82.91027,reported,C13
+1976,Industry,Other solid fuels,131.0,1.52353,reported,D13
+1976,Industry,Coke oven gas,1091.0,12.68833,reported,E13
+1976,Industry,Town gas,68.0,0.79084,reported,F13
+1976,Industry,Natural gas,14237.0,165.57631,reported,G13
+1976,Industry,Electricity,6950.0,80.82849999999999,reported,H13
+1976,Industry,Heat,,,unavailable,I13
+1976,Industry,Bioenergy & waste,,,unavailable,J13
+1976,Industry,Petroleum products,21966.0,255.46457999999998,reported,K13
+1976,Industry,Total,57584.0,669.70192,reported,L13
+1977,Industry,Coal,5947.0,69.16360999999999,reported,B14
+1977,Industry,Coke and breeze,6368.0,74.05984,reported,C14
+1977,Industry,Other solid fuels,158.0,1.83754,reported,D14
+1977,Industry,Coke oven gas,1010.0,11.7463,reported,E14
+1977,Industry,Town gas,30.0,0.3489,reported,F14
+1977,Industry,Natural gas,14940.0,173.7522,reported,G14
+1977,Industry,Electricity,7053.0,82.02638999999999,reported,H14
+1977,Industry,Heat,,,unavailable,I14
+1977,Industry,Bioenergy & waste,,,unavailable,J14
+1977,Industry,Petroleum products,21978.0,255.60414,reported,K14
+1977,Industry,Total,57574.0,669.58562,reported,L14
+1978,Industry,Coal,5627.0,65.44201,reported,B15
+1978,Industry,Coke and breeze,5932.0,68.98916,reported,C15
+1978,Industry,Other solid fuels,179.0,2.08177,reported,D15
+1978,Industry,Coke oven gas,899.0,10.45537,reported,E15
+1978,Industry,Town gas,15.0,0.17445,reported,F15
+1978,Industry,Natural gas,15149.0,176.18287,reported,G15
+1978,Industry,Electricity,7222.0,83.99186,reported,H15
+1978,Industry,Heat,,,unavailable,I15
+1978,Industry,Bioenergy & waste,,,unavailable,J15
+1978,Industry,Petroleum products,21570.0,250.85909999999998,reported,K15
+1978,Industry,Total,56673.0,659.10699,reported,L15
+1979,Industry,Coal,6081.0,70.72203,reported,B16
+1979,Industry,Coke and breeze,6512.0,75.73456,reported,C16
+1979,Industry,Other solid fuels,148.0,1.7212399999999999,reported,D16
+1979,Industry,Coke oven gas,977.0,11.36251,reported,E16
+1979,Industry,Town gas,18.0,0.20934,reported,F16
+1979,Industry,Natural gas,15663.0,182.16069,reported,G16
+1979,Industry,Electricity,7527.0,87.53901,reported,H16
+1979,Industry,Heat,,,unavailable,I16
+1979,Industry,Bioenergy & waste,,,unavailable,J16
+1979,Industry,Petroleum products,21590.0,251.0917,reported,K16
+1979,Industry,Total,58564.0,681.09932,reported,L16
+1980,Industry,Coal,5083.0,59.11529,reported,B17
+1980,Industry,Coke and breeze,3335.0,38.786049999999996,reported,C17
+1980,Industry,Other solid fuels,133.0,1.5467899999999999,reported,D17
+1980,Industry,Coke oven gas,642.0,7.46646,reported,E17
+1980,Industry,Town gas,13.0,0.15119,reported,F17
+1980,Industry,Natural gas,15258.0,177.45054,reported,G17
+1980,Industry,Electricity,6854.0,79.71202,reported,H17
+1980,Industry,Heat,,,unavailable,I17
+1980,Industry,Bioenergy & waste,,,unavailable,J17
+1980,Industry,Petroleum products,16938.0,196.98893999999999,reported,K17
+1980,Industry,Total,48291.0,561.62433,reported,L17
+1981,Industry,Coal,4534.0,52.730419999999995,reported,B18
+1981,Industry,Coke and breeze,4564.0,53.079319999999996,reported,C18
+1981,Industry,Other solid fuels,116.0,1.34908,reported,D18
+1981,Industry,Coke oven gas,665.0,7.73395,reported,E18
+1981,Industry,Town gas,13.0,0.15119,reported,F18
+1981,Industry,Natural gas,14489.0,168.50707,reported,G18
+1981,Industry,Electricity,6622.0,77.01386,reported,H18
+1981,Industry,Heat,,,unavailable,I18
+1981,Industry,Bioenergy & waste,,,unavailable,J18
+1981,Industry,Petroleum products,14761.0,171.67042999999998,reported,K18
+1981,Industry,Total,45776.0,532.37488,reported,L18
+1982,Industry,Coal,4668.0,54.28884,reported,B19
+1982,Industry,Coke and breeze,4083.0,47.48529,reported,C19
+1982,Industry,Other solid fuels,144.0,1.67472,reported,D19
+1982,Industry,Coke oven gas,605.0,7.03615,reported,E19
+1982,Industry,Town gas,8.0,0.09304,reported,F19
+1982,Industry,Natural gas,14588.0,169.65843999999998,reported,G19
+1982,Industry,Electricity,6353.0,73.88539,reported,H19
+1982,Industry,Heat,,,unavailable,I19
+1982,Industry,Bioenergy & waste,,,unavailable,J19
+1982,Industry,Petroleum products,13530.0,157.3539,reported,K19
+1982,Industry,Total,44007.0,511.80141,reported,L19
+1983,Industry,Coal,4708.0,54.754039999999996,reported,B20
+1983,Industry,Coke and breeze,4307.0,50.09041,reported,C20
+1983,Industry,Other solid fuels,126.0,1.46538,reported,D20
+1983,Industry,Coke oven gas,635.0,7.38505,reported,E20
+1983,Industry,Town gas,5.0,0.05815,reported,F20
+1983,Industry,Natural gas,14021.0,163.06423,reported,G20
+1983,Industry,Electricity,6376.0,74.15288,reported,H20
+1983,Industry,Heat,,,unavailable,I20
+1983,Industry,Bioenergy & waste,,,unavailable,J20
+1983,Industry,Petroleum products,11988.0,139.42043999999999,reported,K20
+1983,Industry,Total,42191.0,490.68133,reported,L20
+1984,Industry,Coal,3796.0,44.14748,reported,B21
+1984,Industry,Coke and breeze,4408.0,51.26504,reported,C21
+1984,Industry,Other solid fuels,68.0,0.79084,reported,D21
+1984,Industry,Coke oven gas,537.0,6.24531,reported,E21
+1984,Industry,Town gas,5.0,0.05815,reported,F21
+1984,Industry,Natural gas,14686.0,170.79818,reported,G21
+1984,Industry,Electricity,6758.0,78.59554,reported,H21
+1984,Industry,Heat,,,unavailable,I21
+1984,Industry,Bioenergy & waste,,,unavailable,J21
+1984,Industry,Petroleum products,10859.0,126.29017,reported,K21
+1984,Industry,Total,41138.0,478.43494,reported,L21
+1985,Industry,Coal,4708.0,54.754039999999996,reported,B22
+1985,Industry,Coke and breeze,4655.0,54.13765,reported,C22
+1985,Industry,Other solid fuels,151.0,1.75613,reported,D22
+1985,Industry,Coke oven gas,768.0,8.93184,reported,E22
+1985,Industry,Town gas,3.0,0.03489,reported,F22
+1985,Industry,Natural gas,14865.0,172.87995,reported,G22
+1985,Industry,Electricity,6837.0,79.51431,reported,H22
+1985,Industry,Heat,,,unavailable,I22
+1985,Industry,Bioenergy & waste,,,unavailable,J22
+1985,Industry,Petroleum products,9701.0,112.82263,reported,K22
+1985,Industry,Total,41702.0,484.99426,reported,L22
+1986,Industry,Coal,5242.0,60.964459999999995,reported,B23
+1986,Industry,Coke and breeze,4144.0,48.19472,reported,C23
+1986,Industry,Other solid fuels,98.0,1.13974,reported,D23
+1986,Industry,Coke oven gas,778.0,9.04814,reported,E23
+1986,Industry,Town gas,3.0,0.03489,reported,F23
+1986,Industry,Natural gas,13542.0,157.49346,reported,G23
+1986,Industry,Electricity,6884.0,80.06092,reported,H23
+1986,Industry,Heat,,,unavailable,I23
+1986,Industry,Bioenergy & waste,,,unavailable,J23
+1986,Industry,Petroleum products,10240.0,119.0912,reported,K23
+1986,Industry,Total,40931.0,476.02753,reported,L23
+1987,Industry,Coal,4048.0,47.07824,reported,B24
+1987,Industry,Coke and breeze,4660.0,54.1958,reported,C24
+1987,Industry,Other solid fuels,80.0,0.9304,reported,D24
+1987,Industry,Coke oven gas,821.0,9.54823,reported,E24
+1987,Industry,Town gas,3.0,0.03489,reported,F24
+1987,Industry,Natural gas,14137.0,164.41331,reported,G24
+1987,Industry,Electricity,8005.0,93.09815,reported,H24
+1987,Industry,Heat,,,unavailable,I24
+1987,Industry,Bioenergy & waste,,,unavailable,J24
+1987,Industry,Petroleum products,8456.0,98.34328,reported,K24
+1987,Industry,Total,40211.0,467.65393,reported,L24
+1988,Industry,Coal,4166.0,48.45058,reported,B25
+1988,Industry,Coke and breeze,5041.0,58.62683,reported,C25
+1988,Industry,Other solid fuels,55.0,0.6396499999999999,reported,D25
+1988,Industry,Coke oven gas,771.0,8.96673,reported,E25
+1988,Industry,Town gas,0.0,0.0,reported,F25
+1988,Industry,Natural gas,12883.0,149.82929,reported,G25
+1988,Industry,Electricity,8350.0,97.1105,reported,H25
+1988,Industry,Heat,,,unavailable,I25
+1988,Industry,Bioenergy & waste,100.0,1.163,reported,J25
+1988,Industry,Petroleum products,9441.0,109.79883,reported,K25
+1988,Industry,Total,40807.0,474.58540999999997,reported,L25
+1989,Industry,Coal,4489.0,52.20707,reported,B26
+1989,Industry,Coke and breeze,4286.0,49.84618,reported,C26
+1989,Industry,Other solid fuels,30.0,0.3489,reported,D26
+1989,Industry,Coke oven gas,613.0,7.1291899999999995,reported,E26
+1989,Industry,Town gas,0.0,0.0,reported,F26
+1989,Industry,Natural gas,12515.0,145.54945,reported,G26
+1989,Industry,Electricity,8550.0,99.4365,reported,H26
+1989,Industry,Heat,,,unavailable,I26
+1989,Industry,Bioenergy & waste,101.8,1.183934,reported,J26
+1989,Industry,Petroleum products,8820.0,102.5766,reported,K26
+1989,Industry,Total,39404.8,458.277824,reported,L26
+1990,Industry,Coal,4172.0,48.52036,reported,B27
+1990,Industry,Coke and breeze,3951.0,45.95013,reported,C27
+1990,Industry,Other solid fuels,42.0,0.48846,reported,D27
+1990,Industry,Coke oven gas,602.0,7.00126,reported,E27
+1990,Industry,Town gas,0.0,0.0,reported,F27
+1990,Industry,Natural gas,12889.0,149.89907,reported,G27
+1990,Industry,Electricity,8655.0,100.65765,reported,H27
+1990,Industry,Heat,,,unavailable,I27
+1990,Industry,Bioenergy & waste,106.6,1.239758,reported,J27
+1990,Industry,Petroleum products,8242.0,95.85446,reported,K27
+1990,Industry,Total,38659.6,449.61114799999996,reported,L27
+1991,Industry,Coal,4270.0,49.6601,reported,B28
+1991,Industry,Coke and breeze,3691.0,42.92633,reported,C28
+1991,Industry,Other solid fuels,14.0,0.16282,reported,D28
+1991,Industry,Coke oven gas,570.0,6.6291,reported,E28
+1991,Industry,Town gas,0.0,0.0,reported,F28
+1991,Industry,Natural gas,12311.0,143.17693,reported,G28
+1991,Industry,Electricity,8563.0,99.58769,reported,H28
+1991,Industry,Heat,,,unavailable,I28
+1991,Industry,Bioenergy & waste,108.7,1.264181,reported,J28
+1991,Industry,Petroleum products,8729.0,101.51827,reported,K28
+1991,Industry,Total,38256.7,444.925421,reported,L28
+1992,Industry,Coal,4375.0,50.88125,reported,B29
+1992,Industry,Coke and breeze,3601.0,41.87963,reported,C29
+1992,Industry,Other solid fuels,14.0,0.16282,reported,D29
+1992,Industry,Coke oven gas,534.0,6.21042,reported,E29
+1992,Industry,Town gas,0.0,0.0,reported,F29
+1992,Industry,Natural gas,11380.0,132.3494,reported,G29
+1992,Industry,Electricity,8194.0,95.29621999999999,reported,H29
+1992,Industry,Heat,,,unavailable,I29
+1992,Industry,Bioenergy & waste,278.6,3.2401180000000003,reported,J29
+1992,Industry,Petroleum products,8334.0,96.92442,reported,K29
+1992,Industry,Total,36710.6,426.944278,reported,L29
+1993,Industry,Coal,3553.0,41.32139,reported,B30
+1993,Industry,Coke and breeze,3613.0,42.01919,reported,C30
+1993,Industry,Other solid fuels,7.0,0.08141,reported,D30
+1993,Industry,Coke oven gas,560.0,6.5127999999999995,reported,E30
+1993,Industry,Town gas,0.0,0.0,reported,F30
+1993,Industry,Natural gas,11521.0,133.98923,reported,G30
+1993,Industry,Electricity,8328.0,96.85464,reported,H30
+1993,Industry,Heat,,,unavailable,I30
+1993,Industry,Bioenergy & waste,265.8,3.091254,reported,J30
+1993,Industry,Petroleum products,8592.0,99.92496,reported,K30
+1993,Industry,Total,36439.8,423.79487400000005,reported,L30
+1994,Industry,Coal,3402.0,39.56526,reported,B31
+1994,Industry,Coke and breeze,3818.0,44.40334,reported,C31
+1994,Industry,Other solid fuels,194.0,2.25622,reported,D31
+1994,Industry,Coke oven gas,590.0,6.8617,reported,E31
+1994,Industry,Town gas,0.0,0.0,reported,F31
+1994,Industry,Natural gas,12885.0,149.85255,reported,G31
+1994,Industry,Electricity,8082.0,93.99365999999999,reported,H31
+1994,Industry,Heat,,,unavailable,I31
+1994,Industry,Bioenergy & waste,487.3,5.667299,reported,J31
+1994,Industry,Petroleum products,8253.0,95.98239,reported,K31
+1994,Industry,Total,37711.3,438.582419,reported,L31
+1995,Industry,Coal,2840.0,33.029199999999996,reported,B32
+1995,Industry,Coke and breeze,3750.0,43.6125,reported,C32
+1995,Industry,Other solid fuels,184.0,2.13992,reported,D32
+1995,Industry,Coke oven gas,576.49,6.7045787,reported,E32
+1995,Industry,Town gas,0.0,0.0,reported,F32
+1995,Industry,Natural gas,12679.621668099731,147.46399999999988,reported,G32
+1995,Industry,Electricity,8654.445399828033,100.65120000000003,reported,H32
+1995,Industry,Heat,,,unavailable,I32
+1995,Industry,Bioenergy & waste,525.9,6.116217,reported,J32
+1995,Industry,Petroleum products,7066.0,82.17757999999999,reported,K32
+1995,Industry,Total,36276.45706792777,421.89519569999993,reported,L32
+1996,Industry,Coal,1959.4604401333877,22.7885249187513,reported,B33
+1996,Industry,Coke and breeze,855.2974777873316,9.947109666666666,reported,C33
+1996,Industry,Other solid fuels,232.80261775102701,2.707494444444444,reported,D33
+1996,Industry,Coke oven gas,439.09986000000004,5.1067313718000005,reported,E33
+1996,Industry,Town gas,0.0,0.0,reported,F33
+1996,Industry,Natural gas,14080.851246775579,163.76029999999997,reported,G33
+1996,Industry,Electricity,9004.083539999998,104.71749157019997,reported,H33
+1996,Industry,Heat,,,unavailable,I33
+1996,Industry,Bioenergy & waste,532.5,6.192975,reported,J33
+1996,Industry,Petroleum products,7058.04144714498,82.08502203029612,reported,K33
+1996,Industry,Total,34470.202969592305,400.8884605363585,reported,L33
+1997,Industry,Coal,1963.1071607044119,22.830936278992308,reported,B34
+1997,Industry,Coke and breeze,787.2687016337059,9.155935,reported,C34
+1997,Industry,Other solid fuels,248.8871178074496,2.894557180100639,reported,D34
+1997,Industry,Coke oven gas,457.17970765262254,5.317,reported,E34
+1997,Industry,Town gas,0.0,0.0,reported,F34
+1997,Industry,Natural gas,14754.084264832329,171.58999999999997,reported,G34
+1997,Industry,Electricity,9188.65004299226,106.86399999999998,reported,H34
+1997,Industry,Heat,,,unavailable,I34
+1997,Industry,Bioenergy & waste,532.0,6.1871599999999995,reported,J34
+1997,Industry,Petroleum products,6314.660869809178,73.43950591588073,reported,K34
+1997,Industry,Total,34577.48016981717,402.1360943749737,reported,L34
+1998,Industry,Coal,1607.0,18.68941,reported,B35
+1998,Industry,Coke and breeze,803.214865768606,9.341388888888888,reported,C35
+1998,Industry,Other solid fuels,242.79659883443207,2.823724444444445,reported,D35
+1998,Industry,Coke oven gas,384.8667239896818,4.475999999999999,reported,E35
+1998,Industry,Town gas,0.0,0.0,reported,F35
+1998,Industry,Natural gas,15140.0,176.0782,reported,G35
+1998,Industry,Electricity,9216.0,107.18208,reported,H35
+1998,Industry,Heat,,,unavailable,I35
+1998,Industry,Bioenergy & waste,461.0,5.3614299999999995,reported,J35
+1998,Industry,Petroleum products,6379.16,74.1896308,reported,K35
+1998,Industry,Total,34512.15,401.3763045,reported,L35
+1999,Industry,Coal,1353.0,15.735389999999999,reported,B36
+1999,Industry,Coke and breeze,819.6904557179707,9.533,reported,C36
+1999,Industry,Other solid fuels,215.26268271711092,2.503505,reported,D36
+1999,Industry,Coke oven gas,205.073086844368,2.385,reported,E36
+1999,Industry,Town gas,0.0,0.0,reported,F36
+1999,Industry,Natural gas,15203.0,176.81089,reported,G36
+1999,Industry,Electricity,9542.0,110.97346,reported,H36
+1999,Industry,Heat,1086.0,12.63018,reported,I36
+1999,Industry,Bioenergy & waste,283.0,3.29129,reported,J36
+1999,Industry,Petroleum products,5374.29,62.5029927,reported,K36
+1999,Industry,Total,34221.87,398.0003481,reported,L36
+2000,Industry,Coal,1227.74,14.2786162,reported,B37
+2000,Industry,Coke and breeze,753.4489347473011,8.762611111111111,reported,C37
+2000,Industry,Other solid fuels,224.94387121429247,2.6160972222222214,reported,D37
+2000,Industry,Coke oven gas,216.2510748065348,2.5149999999999997,reported,E37
+2000,Industry,Town gas,0.0,0.0,reported,F37
+2000,Industry,Natural gas,15773.09,183.44103669999998,reported,G37
+2000,Industry,Electricity,9811.95,114.11297850000001,reported,H37
+2000,Industry,Heat,1099.42,12.786254600000001,reported,I37
+2000,Industry,Bioenergy & waste,264.06,3.0710178,reported,J37
+2000,Industry,Petroleum products,6039.47,70.2390361,reported,K37
+2000,Industry,Total,35506.16,412.9366408,reported,L37
+2001,Industry,Coal,1194.96,13.8973848,reported,B38
+2001,Industry,Coke and breeze,718.5917645934842,8.357222222222221,reported,C38
+2001,Industry,Other solid fuels,210.29304003057223,2.445708055555555,reported,D38
+2001,Industry,Coke oven gas,154.25623387790196,1.7939999999999998,reported,E38
+2001,Industry,Town gas,0.0,0.0,reported,F38
+2001,Industry,Natural gas,15463.71,179.8429473,reported,G38
+2001,Industry,Electricity,9573.34,111.3379442,reported,H38
+2001,Industry,Heat,1001.23,11.6443049,reported,I38
+2001,Industry,Bioenergy & waste,243.07,2.8269040999999997,reported,J38
+2001,Industry,Petroleum products,6611.05,76.8865115,reported,K38
+2001,Industry,Total,35442.64,412.1979032,reported,L38
+2002,Industry,Coal,1185.68,13.789458400000001,reported,B39
+2002,Industry,Coke and breeze,610.4147006206151,7.0991229682177535,reported,C39
+2002,Industry,Other solid fuels,169.9778064871698,1.9768418894457847,reported,D39
+2002,Industry,Coke oven gas,78.18235628542743,0.909260803599521,reported,E39
+2002,Industry,Town gas,0.0,0.0,reported,F39
+2002,Industry,Natural gas,14201.69,165.1656547,reported,G39
+2002,Industry,Electricity,9472.72,110.16773359999999,reported,H39
+2002,Industry,Heat,1320.64,15.3590432,reported,I39
+2002,Industry,Bioenergy & waste,250.03,2.9078489,reported,J39
+2002,Industry,Petroleum products,6248.26,72.6672638,reported,K39
+2002,Industry,Total,33763.89,392.6740407,reported,L39
+2003,Industry,Coal,1247.97,14.5138911,reported,B40
+2003,Industry,Coke and breeze,588.6011583287374,6.845431471363216,reported,C40
+2003,Industry,Other solid fuels,165.57056122429356,1.925585627038534,reported,D40
+2003,Industry,Coke oven gas,53.189439497637615,0.6185931813575254,reported,E40
+2003,Industry,Town gas,0.0,0.0,reported,F40
+2003,Industry,Natural gas,14292.02,166.2161926,reported,G40
+2003,Industry,Electricity,9396.25,109.2783875,reported,H40
+2003,Industry,Heat,1128.31,13.1222453,reported,I40
+2003,Industry,Bioenergy & waste,266.69,3.1016046999999998,reported,J40
+2003,Industry,Petroleum products,6899.22,80.2379286,reported,K40
+2003,Industry,Total,34074.19,396.28282970000004,reported,L40
+2004,Industry,Coal,1235.25,14.3659575,reported,B41
+2004,Industry,Coke and breeze,559.2062943993291,6.503569203864197,reported,C41
+2004,Industry,Other solid fuels,157.39210071900084,1.8304701313619798,reported,D41
+2004,Industry,Coke oven gas,90.27189421926056,1.0498621297700004,reported,E41
+2004,Industry,Town gas,0.0,0.0,reported,F41
+2004,Industry,Natural gas,13237.6,153.953288,reported,G41
+2004,Industry,Electricity,9584.47,111.46738609999998,reported,H41
+2004,Industry,Heat,832.34,9.6801142,reported,I41
+2004,Industry,Bioenergy & waste,265.24,3.0847412,reported,J41
+2004,Industry,Petroleum products,6918.42,80.4612246,reported,K41
+2004,Industry,Total,32912.44,382.7716772,reported,L41
+2005,Industry,Coal,1179.92,13.7224696,reported,B42
+2005,Industry,Coke and breeze,534.7364358922808,6.218984749427226,reported,C42
+2005,Industry,Other solid fuels,150.42873299773316,1.7494861647636366,reported,D42
+2005,Industry,Coke oven gas,98.78234624290366,1.1488386868049696,reported,E42
+2005,Industry,Town gas,0.0,0.0,reported,F42
+2005,Industry,Natural gas,13021.58,151.44097539999999,reported,G42
+2005,Industry,Electricity,9976.27,116.0240201,reported,H42
+2005,Industry,Heat,830.51,9.6588313,reported,I42
+2005,Industry,Bioenergy & waste,200.76,2.3348388,reported,J42
+2005,Industry,Petroleum products,6282.18,73.0617534,reported,K42
+2005,Industry,Total,32303.19,375.6860997,reported,L42
+2006,Industry,Coal,1163.65,13.5332495,reported,B43
+2006,Industry,Coke and breeze,487.618744627156,5.671006000013824,reported,C43
+2006,Industry,Other solid fuels,161.08061817243794,1.873367589345453,reported,D43
+2006,Industry,Coke oven gas,122.9469389907359,1.4298729004622586,reported,E43
+2006,Industry,Town gas,0.0,0.0,reported,F43
+2006,Industry,Natural gas,12428.29,144.5410127,reported,G43
+2006,Industry,Electricity,9879.3,114.89625899999999,reported,H43
+2006,Industry,Heat,808.93,9.4078559,reported,I43
+2006,Industry,Bioenergy & waste,213.49,2.4828887,reported,J43
+2006,Industry,Petroleum products,6099.35,70.9354405,reported,K43
+2006,Industry,Total,31442.2,365.672786,reported,L43
+2007,Industry,Coal,1268.41,14.751608300000001,reported,B44
+2007,Industry,Coke and breeze,513.0506114417373,5.966778611067404,reported,C44
+2007,Industry,Other solid fuels,158.0084344625967,1.8376380927999998,reported,D44
+2007,Industry,Coke oven gas,120.299685117157,1.3990853379125359,reported,E44
+2007,Industry,Town gas,0.0,0.0,reported,F44
+2007,Industry,Natural gas,11466.08,133.3505104,reported,G44
+2007,Industry,Electricity,9699.01,112.7994863,reported,H44
+2007,Industry,Heat,895.84,10.4186192,reported,I44
+2007,Industry,Bioenergy & waste,276.33,3.2137179,reported,J44
+2007,Industry,Petroleum products,6095.35,70.8889205,reported,K44
+2007,Industry,Total,30540.28,355.18345639999995,reported,L44
+2008,Industry,Coal,1296.16,15.0743408,reported,B45
+2008,Industry,Coke and breeze,442.7704420589167,5.149420241145201,reported,C45
+2008,Industry,Other solid fuels,156.12992781570955,1.815791060496702,reported,D45
+2008,Industry,Coke oven gas,109.89766626425057,1.2781098586532342,reported,E45
+2008,Industry,Town gas,0.0,0.0,reported,F45
+2008,Industry,Natural gas,11029.71,128.2755273,reported,G45
+2008,Industry,Electricity,9815.21,114.15089229999998,reported,H45
+2008,Industry,Heat,1020.7,11.870741,reported,I45
+2008,Industry,Bioenergy & waste,414.2,4.817146,reported,J45
+2008,Industry,Petroleum products,5895.15,68.5605945,reported,K45
+2008,Industry,Total,30219.55,351.45336649999996,reported,L45
+2009,Industry,Coal,1151.76,13.3949688,reported,B46
+2009,Industry,Coke and breeze,387.2713339884535,4.503965614285714,reported,C46
+2009,Industry,Other solid fuels,0.0,0.0,reported,D46
+2009,Industry,Coke oven gas,68.25293102292329,0.7937815877965979,reported,E46
+2009,Industry,Town gas,0.0,0.0,reported,F46
+2009,Industry,Natural gas,9145.62,106.36356060000001,reported,G46
+2009,Industry,Electricity,8575.92,99.7379496,reported,H46
+2009,Industry,Heat,762.84,8.8718292,reported,I46
+2009,Industry,Bioenergy & waste,414.77,4.8237751,reported,J46
+2009,Industry,Petroleum products,2388.03,27.772788900000002,reported,K46
+2009,Industry,Total,22923.47,266.5999561,reported,L46
+2010,Industry,Coal,1311.22,15.2494886,reported,B47
+2010,Industry,Coke and breeze,338.78946430277466,3.9401214698412694,reported,C47
+2010,Industry,Other solid fuels,0.0,0.0,reported,D47
+2010,Industry,Coke oven gas,113.60946196941845,1.3212780427043365,reported,E47
+2010,Industry,Town gas,0.0,0.0,reported,F47
+2010,Industry,Natural gas,9395.43,109.2688509,reported,G47
+2010,Industry,Electricity,8988.61,104.5375343,reported,H47
+2010,Industry,Heat,822.15,9.5616045,reported,I47
+2010,Industry,Bioenergy & waste,471.9,5.4881969999999995,reported,J47
+2010,Industry,Petroleum products,2398.07,27.8895541,reported,K47
+2010,Industry,Total,23926.63,278.26670690000003,reported,L47
+2011,Industry,Coal,1193.62,13.881800599999998,reported,B48
+2011,Industry,Coke and breeze,306.2765982884985,3.561996838095238,reported,C48
+2011,Industry,Other solid fuels,0.0,0.0,reported,D48
+2011,Industry,Coke oven gas,76.629218663454,0.89119781305597,reported,E48
+2011,Industry,Town gas,0.0,0.0,reported,F48
+2011,Industry,Natural gas,9007.31,104.7550153,reported,G48
+2011,Industry,Electricity,8806.15,102.41552449999999,reported,H48
+2011,Industry,Heat,769.35,8.9475405,reported,I48
+2011,Industry,Bioenergy & waste,530.86,6.1739018,reported,J48
+2011,Industry,Petroleum products,2275.89,26.468600699999996,reported,K48
+2011,Industry,Total,23030.19,267.8411097,reported,L48
+2012,Industry,Coal,1212.4,14.100212,reported,B49
+2012,Industry,Coke and breeze,375.18478196781723,4.363399014285714,reported,C49
+2012,Industry,Other solid fuels,0.0,0.0,reported,D49
+2012,Industry,Coke oven gas,60.30521151746626,0.7013496099481326,reported,E49
+2012,Industry,Town gas,0.0,0.0,reported,F49
+2012,Industry,Natural gas,8821.48,102.59381239999999,reported,G49
+2012,Industry,Electricity,8465.67,98.4557421,reported,H49
+2012,Industry,Heat,757.92,8.814609599999999,reported,I49
+2012,Industry,Bioenergy & waste,488.18,5.6775334,reported,J49
+2012,Industry,Petroleum products,2209.85,25.700555499999997,reported,K49
+2012,Industry,Total,22416.78,260.7071514,reported,L49
+2013,Industry,Coal,1555.2,18.086976,reported,B50
+2013,Industry,Coke and breeze,504.4599183823757,5.8668688507870295,reported,C50
+2013,Industry,Other solid fuels,0.0,0.0,reported,D50
+2013,Industry,Coke oven gas,76.5111522375519,0.8898247005227286,reported,E50
+2013,Industry,Town gas,0.0,0.0,reported,F50
+2013,Industry,Natural gas,9029.65,105.01482949999999,reported,G50
+2013,Industry,Electricity,8338.85,96.98082550000001,reported,H50
+2013,Industry,Heat,739.46,8.5999198,reported,I50
+2013,Industry,Bioenergy & waste,575.69,6.695274700000001,reported,J50
+2013,Industry,Petroleum products,2236.32,26.008401600000003,reported,K50
+2013,Industry,Total,23068.73,268.2893299,reported,L50
+2014,Industry,Coal,1626.99,18.9218937,reported,B51
+2014,Industry,Coke and breeze,482.7075127270742,5.613888373015873,reported,C51
+2014,Industry,Other solid fuels,0.0,0.0,reported,D51
+2014,Industry,Coke oven gas,69.12934036934627,0.803974228495497,reported,E51
+2014,Industry,Town gas,0.0,0.0,reported,F51
+2014,Industry,Natural gas,8653.15,100.6361345,reported,G51
+2014,Industry,Electricity,7996.98,93.0048774,reported,H51
+2014,Industry,Heat,626.81,7.2898003,reported,I51
+2014,Industry,Bioenergy & waste,593.17,6.898567099999999,reported,J51
+2014,Industry,Petroleum products,2198.28,25.565996400000003,reported,K51
+2014,Industry,Total,22261.01,258.8955463,reported,L51
+2015,Industry,Coal,1380.17,16.0513771,reported,B52
+2015,Industry,Coke and breeze,395.45200726091537,4.599106844444446,reported,C52
+2015,Industry,Other solid fuels,0.0,0.0,reported,D52
+2015,Industry,Coke oven gas,88.2534945238859,1.026388141312793,reported,E52
+2015,Industry,Town gas,0.0,0.0,reported,F52
+2015,Industry,Natural gas,8418.04,97.90180520000001,reported,G52
+2015,Industry,Electricity,7991.26,92.9383538,reported,H52
+2015,Industry,Heat,678.41,7.889908299999999,reported,I52
+2015,Industry,Bioenergy & waste,1112.68,12.9404684,reported,J52
+2015,Industry,Petroleum products,2216.95,25.783128499999997,reported,K52
+2015,Industry,Total,22307.72,259.4387836,reported,L52
+2016,Industry,Coal,1304.19,15.1677297,reported,B53
+2016,Industry,Coke and breeze,224.84028620562586,2.6148925285714286,reported,C53
+2016,Industry,Other solid fuels,0.0,0.0,reported,D53
+2016,Industry,Coke oven gas,66.6042706967014,0.7746076682026374,reported,E53
+2016,Industry,Town gas,0.0,0.0,reported,F53
+2016,Industry,Natural gas,8268.65,96.16439949999999,reported,G53
+2016,Industry,Electricity,8023.73,93.31597989999999,reported,H53
+2016,Industry,Heat,666.96,7.7567448,reported,I53
+2016,Industry,Bioenergy & waste,1194.14,13.8878482,reported,J53
+2016,Industry,Petroleum products,2146.44,24.9630972,reported,K53
+2016,Industry,Total,21918.48,254.91192239999998,reported,L53
+2017,Industry,Coal,1124.85,13.0820055,reported,B54
+2017,Industry,Coke and breeze,210.3337984004149,2.446182075396825,reported,C54
+2017,Industry,Other solid fuels,0.0,0.0,reported,D54
+2017,Industry,Coke oven gas,65.00632827932517,0.7560235978885518,reported,E54
+2017,Industry,Town gas,0.0,0.0,reported,F54
+2017,Industry,Natural gas,8495.93,98.8076659,reported,G54
+2017,Industry,Electricity,7928.53,92.20880389999999,reported,H54
+2017,Industry,Heat,709.08,8.2466004,reported,I54
+2017,Industry,Bioenergy & waste,1232.86,14.338161799999998,reported,J54
+2017,Industry,Petroleum products,2116.0,24.60908,reported,K54
+2017,Industry,Total,21903.22,254.7344486,reported,L54
+2018,Industry,Coal,1071.67,12.4635221,reported,B55
+2018,Industry,Coke and breeze,192.92275723703065,2.2436916666666664,reported,C55
+2018,Industry,Other solid fuels,0.0,0.0,reported,D55
+2018,Industry,Coke oven gas,63.48658864733898,0.7383490259685523,reported,E55
+2018,Industry,Town gas,0.0,0.0,reported,F55
+2018,Industry,Natural gas,8971.98,104.34412739999999,reported,G55
+2018,Industry,Electricity,7902.49,91.9059587,reported,H55
+2018,Industry,Heat,704.88,8.197754399999999,reported,I55
+2018,Industry,Bioenergy & waste,1432.5,16.659975,reported,J55
+2018,Industry,Petroleum products,2123.26,24.6935138,reported,K55
+2018,Industry,Total,22472.4,261.354012,reported,L55
+2019,Industry,Coal,930.57,10.8225291,reported,B56
+2019,Industry,Coke and breeze,198.43605617655493,2.307811333333334,reported,C56
+2019,Industry,Other solid fuels,0.0,0.0,reported,D56
+2019,Industry,Coke oven gas,86.11340896892105,1.0014989463085517,reported,E56
+2019,Industry,Town gas,0.0,0.0,reported,F56
+2019,Industry,Natural gas,8718.42,101.39522459999999,reported,G56
+2019,Industry,Electricity,7941.25,92.3567375,reported,H56
+2019,Industry,Heat,689.47,8.0185361,reported,I56
+2019,Industry,Bioenergy & waste,1522.03,17.701208899999997,reported,J56
+2019,Industry,Petroleum products,2098.78,24.4088114,reported,K56
+2019,Industry,Total,22274.12,259.0480156,reported,L56
+2020,Industry,Coal,799.09,9.2934167,reported,B57
+2020,Industry,Coke and breeze,207.73734594439665,2.415985333333333,reported,C57
+2020,Industry,Other solid fuels,0.0,0.0,reported,D57
+2020,Industry,Coke oven gas,101.19092498500395,1.1768504575755958,reported,E57
+2020,Industry,Town gas,0.0,0.0,reported,F57
+2020,Industry,Natural gas,8239.9,95.83003699999999,reported,G57
+2020,Industry,Electricity,7371.54,85.7310102,reported,H57
+2020,Industry,Heat,653.59,7.601251700000001,reported,I57
+2020,Industry,Bioenergy & waste,1774.55,20.6380165,reported,J57
+2020,Industry,Petroleum products,2102.15,24.4480045,reported,K57
+2020,Industry,Total,21345.74,248.25095620000002,reported,L57
+2021,Industry,Coal,754.99,8.7805337,reported,B58
+2021,Industry,Coke and breeze,221.61881627973634,2.5774268333333334,reported,C58
+2021,Industry,Other solid fuels,0.0,0.0,reported,D58
+2021,Industry,Coke oven gas,104.41833053482375,1.2143851841200002,reported,E58
+2021,Industry,Town gas,0.0,0.0,reported,F58
+2021,Industry,Natural gas,8201.22,95.3801886,reported,G58
+2021,Industry,Electricity,7578.79,88.14132769999999,reported,H58
+2021,Industry,Heat,644.72,7.4980936,reported,I58
+2021,Industry,Bioenergy & waste,1749.75,20.3495925,reported,J58
+2021,Industry,Petroleum products,2139.5,24.882385,reported,K58
+2021,Industry,Total,21501.89,250.0669807,reported,L58
+2022,Industry,Coal,713.72,8.3005636,reported,B59
+2022,Industry,Coke and breeze,237.58289863380145,2.763089111111111,reported,C59
+2022,Industry,Other solid fuels,0.0,0.0,reported,D59
+2022,Industry,Coke oven gas,95.4262949372313,1.10980781012,reported,E59
+2022,Industry,Town gas,0.0,0.0,reported,F59
+2022,Industry,Natural gas,7267.97,84.5264911,reported,G59
+2022,Industry,Electricity,7369.24,85.70426119999999,reported,H59
+2022,Industry,Heat,600.77,6.986955099999999,reported,I59
+2022,Industry,Bioenergy & waste,1716.46,19.9624298,reported,J59
+2022,Industry,Petroleum products,1960.5,22.800615,reported,K59
+2022,Industry,Total,20026.41,232.9071483,reported,L59
+2023,Industry,Coal,672.17,7.8173371,reported,B60
+2023,Industry,Coke and breeze,157.17741950893284,1.827973388888889,reported,C60
+2023,Industry,Other solid fuels,0.0,0.0,reported,D60
+2023,Industry,Coke oven gas,62.12893831126397,0.7225595525599999,reported,E60
+2023,Industry,Town gas,0.0,0.0,reported,F60
+2023,Industry,Natural gas,7127.8,82.896314,reported,G60
+2023,Industry,Electricity,7271.31,84.5653353,reported,H60
+2023,Industry,Heat,573.45,6.6692235,reported,I60
+2023,Industry,Bioenergy & waste,1733.63,20.1621169,reported,J60
+2023,Industry,Petroleum products,2080.63,24.1977269,reported,K60
+2023,Industry,Total,19753.43,229.73239089999998,reported,L60
+2024,Industry,Coal,457.16,5.3167708000000005,reported,B61
+2024,Industry,Coke and breeze,138.41184675647276,1.6097297777777781,reported,C61
+2024,Industry,Other solid fuels,0.0,0.0,reported,D61
+2024,Industry,Coke oven gas,20.8373220241405,0.24233805514075402,reported,E61
+2024,Industry,Town gas,0.0,0.0,reported,F61
+2024,Industry,Natural gas,7308.02,84.9922726,reported,G61
+2024,Industry,Electricity,7071.56,82.2422428,reported,H61
+2024,Industry,Heat,614.15,7.1425645,reported,I61
+2024,Industry,Bioenergy & waste,1757.44,20.4390272,reported,J61
+2024,Industry,Petroleum products,2127.9,24.747477,reported,K61
+2024,Industry,Total,19518.25,226.9972475,reported,L61
+1970,Transport,Rail - coal,88.0,1.02344,reported,N7
+1970,Transport,Rail - coke and breeze,35.0,0.40704999999999997,reported,O7
+1970,Transport,Rail - electricity,234.0,2.7214199999999997,reported,P7
+1970,Transport,Rail - petroleum,1254.0,14.584019999999999,reported,Q7
+1970,Transport,Road - electricity,,,unavailable,R7
+1970,Transport,Road - petroleum,21406.0,248.95177999999999,reported,S7
+1970,Transport,Road - bioenergy & waste,,,unavailable,T7
+1970,Transport,Road - natural gas,,,unavailable,U7
+1970,Transport,Water - coal,103.0,1.19789,reported,V7
+1970,Transport,Water - petroleum,1184.0,13.769919999999999,reported,W7
+1970,Transport,Air - petroleum,3869.0,44.99647,reported,X7
+1970,Transport,Air - bioenergy & waste,,,unavailable,Y7
+1970,Transport,Total,28174.0,327.66362,reported,Z7
+1971,Transport,Rail - coal,68.0,0.79084,reported,N8
+1971,Transport,Rail - coke and breeze,13.0,0.15119,reported,O8
+1971,Transport,Rail - electricity,237.0,2.75631,reported,P8
+1971,Transport,Rail - petroleum,1186.0,13.79318,reported,Q8
+1971,Transport,Road - electricity,,,unavailable,R8
+1971,Transport,Road - petroleum,22412.0,260.65156,reported,S8
+1971,Transport,Road - bioenergy & waste,,,unavailable,T8
+1971,Transport,Road - natural gas,,,unavailable,U8
+1971,Transport,Water - coal,63.0,0.73269,reported,V8
+1971,Transport,Water - petroleum,1081.0,12.57203,reported,W8
+1971,Transport,Air - petroleum,4247.0,49.39261,reported,X8
+1971,Transport,Air - bioenergy & waste,,,unavailable,Y8
+1971,Transport,Total,29306.0,340.82878,reported,Z8
+1972,Transport,Rail - coal,53.0,0.61639,reported,N9
+1972,Transport,Rail - coke and breeze,5.0,0.05815,reported,O9
+1972,Transport,Rail - electricity,229.0,2.66327,reported,P9
+1972,Transport,Rail - petroleum,1121.0,13.03723,reported,Q9
+1972,Transport,Road - electricity,,,unavailable,R9
+1972,Transport,Road - petroleum,23535.0,273.71205,reported,S9
+1972,Transport,Road - bioenergy & waste,,,unavailable,T9
+1972,Transport,Road - natural gas,,,unavailable,U9
+1972,Transport,Water - coal,23.0,0.26749,reported,V9
+1972,Transport,Water - petroleum,962.0,11.18806,reported,W9
+1972,Transport,Air - petroleum,4514.0,52.49782,reported,X9
+1972,Transport,Air - bioenergy & waste,,,unavailable,Y9
+1972,Transport,Total,30442.0,354.04046,reported,Z9
+1973,Transport,Rail - coal,58.0,0.67454,reported,N10
+1973,Transport,Rail - coke and breeze,0.0,0.0,reported,O10
+1973,Transport,Rail - electricity,224.0,2.60512,reported,P10
+1973,Transport,Rail - petroleum,1123.0,13.06049,reported,Q10
+1973,Transport,Road - electricity,,,unavailable,R10
+1973,Transport,Road - petroleum,25125.0,292.20375,reported,S10
+1973,Transport,Road - bioenergy & waste,,,unavailable,T10
+1973,Transport,Road - natural gas,,,unavailable,U10
+1973,Transport,Water - coal,10.0,0.1163,reported,V10
+1973,Transport,Water - petroleum,1088.0,12.65344,reported,W10
+1973,Transport,Air - petroleum,4806.0,55.89378,reported,X10
+1973,Transport,Air - bioenergy & waste,,,unavailable,Y10
+1973,Transport,Total,32435.0,377.21905,reported,Z10
+1974,Transport,Rail - coal,50.0,0.5815,reported,N11
+1974,Transport,Rail - coke and breeze,0.0,0.0,reported,O11
+1974,Transport,Rail - electricity,234.0,2.7214199999999997,reported,P11
+1974,Transport,Rail - petroleum,1048.0,12.18824,reported,Q11
+1974,Transport,Road - electricity,,,unavailable,R11
+1974,Transport,Road - petroleum,24465.0,284.52795,reported,S11
+1974,Transport,Road - bioenergy & waste,,,unavailable,T11
+1974,Transport,Road - natural gas,,,unavailable,U11
+1974,Transport,Water - coal,10.0,0.1163,reported,V11
+1974,Transport,Water - petroleum,1239.0,14.40957,reported,W11
+1974,Transport,Air - petroleum,4219.0,49.06697,reported,X11
+1974,Transport,Air - bioenergy & waste,,,unavailable,Y11
+1974,Transport,Total,31266.0,363.62358,reported,Z11
+1975,Transport,Rail - coal,40.0,0.4652,reported,N12
+1975,Transport,Rail - coke and breeze,0.0,0.0,reported,O12
+1975,Transport,Rail - electricity,249.0,2.89587,reported,P12
+1975,Transport,Rail - petroleum,1000.0,11.629999999999999,reported,Q12
+1975,Transport,Road - electricity,,,unavailable,R12
+1975,Transport,Road - petroleum,23948.0,278.51524,reported,S12
+1975,Transport,Road - bioenergy & waste,,,unavailable,T12
+1975,Transport,Road - natural gas,,,unavailable,U12
+1975,Transport,Water - coal,8.0,0.09304,reported,V12
+1975,Transport,Water - petroleum,1300.0,15.119,reported,W12
+1975,Transport,Air - petroleum,4340.0,50.474199999999996,reported,X12
+1975,Transport,Air - bioenergy & waste,,,unavailable,Y12
+1975,Transport,Total,30885.0,359.19255,reported,Z12
+1976,Transport,Rail - coal,43.0,0.50009,reported,N13
+1976,Transport,Rail - coke and breeze,3.0,0.03489,reported,O13
+1976,Transport,Rail - electricity,247.0,2.87261,reported,P13
+1976,Transport,Rail - petroleum,945.0,10.99035,reported,Q13
+1976,Transport,Road - electricity,,,unavailable,R13
+1976,Transport,Road - petroleum,24994.0,290.68022,reported,S13
+1976,Transport,Road - bioenergy & waste,,,unavailable,T13
+1976,Transport,Road - natural gas,,,unavailable,U13
+1976,Transport,Water - coal,8.0,0.09304,reported,V13
+1976,Transport,Water - petroleum,1317.0,15.31671,reported,W13
+1976,Transport,Air - petroleum,4476.0,52.05588,reported,X13
+1976,Transport,Air - bioenergy & waste,,,unavailable,Y13
+1976,Transport,Total,32032.0,372.53216,reported,Z13
+1977,Transport,Rail - coal,40.0,0.4652,reported,N14
+1977,Transport,Rail - coke and breeze,3.0,0.03489,reported,O14
+1977,Transport,Rail - electricity,252.0,2.93076,reported,P14
+1977,Transport,Rail - petroleum,950.0,11.048499999999999,reported,Q14
+1977,Transport,Road - electricity,,,unavailable,R14
+1977,Transport,Road - petroleum,25633.0,298.11179,reported,S14
+1977,Transport,Road - bioenergy & waste,,,unavailable,T14
+1977,Transport,Road - natural gas,,,unavailable,U14
+1977,Transport,Water - coal,8.0,0.09304,reported,V14
+1977,Transport,Water - petroleum,1312.0,15.25856,reported,W14
+1977,Transport,Air - petroleum,4678.0,54.405139999999996,reported,X14
+1977,Transport,Air - bioenergy & waste,,,unavailable,Y14
+1977,Transport,Total,32875.0,382.33625,reported,Z14
+1978,Transport,Rail - coal,45.0,0.52335,reported,N15
+1978,Transport,Rail - coke and breeze,3.0,0.03489,reported,O15
+1978,Transport,Rail - electricity,254.0,2.95402,reported,P15
+1978,Transport,Rail - petroleum,967.0,11.24621,reported,Q15
+1978,Transport,Road - electricity,,,unavailable,R15
+1978,Transport,Road - petroleum,26946.0,313.38198,reported,S15
+1978,Transport,Road - bioenergy & waste,,,unavailable,T15
+1978,Transport,Road - natural gas,,,unavailable,U15
+1978,Transport,Water - coal,5.0,0.05815,reported,V15
+1978,Transport,Water - petroleum,1300.0,15.119,reported,W15
+1978,Transport,Air - petroleum,5051.0,58.74313,reported,X15
+1978,Transport,Air - bioenergy & waste,,,unavailable,Y15
+1978,Transport,Total,34571.0,402.06073,reported,Z15
+1979,Transport,Rail - coal,43.0,0.50009,reported,N16
+1979,Transport,Rail - coke and breeze,3.0,0.03489,reported,O16
+1979,Transport,Rail - electricity,254.0,2.95402,reported,P16
+1979,Transport,Rail - petroleum,947.0,11.01361,reported,Q16
+1979,Transport,Road - electricity,,,unavailable,R16
+1979,Transport,Road - petroleum,27520.0,320.0576,reported,S16
+1979,Transport,Road - bioenergy & waste,,,unavailable,T16
+1979,Transport,Road - natural gas,,,unavailable,U16
+1979,Transport,Water - coal,5.0,0.05815,reported,V16
+1979,Transport,Water - petroleum,1363.0,15.85169,reported,W16
+1979,Transport,Air - petroleum,5224.0,60.75512,reported,X16
+1979,Transport,Air - bioenergy & waste,,,unavailable,Y16
+1979,Transport,Total,35359.0,411.22517,reported,Z16
+1980,Transport,Rail - coal,38.0,0.44194,reported,N17
+1980,Transport,Rail - coke and breeze,3.0,0.03489,reported,O17
+1980,Transport,Rail - electricity,262.0,3.04706,reported,P17
+1980,Transport,Rail - petroleum,919.0,10.68797,reported,Q17
+1980,Transport,Road - electricity,,,unavailable,R17
+1980,Transport,Road - petroleum,27815.0,323.48845,reported,S17
+1980,Transport,Road - bioenergy & waste,,,unavailable,T17
+1980,Transport,Road - natural gas,,,unavailable,U17
+1980,Transport,Water - coal,5.0,0.05815,reported,V17
+1980,Transport,Water - petroleum,1257.0,14.61891,reported,W17
+1980,Transport,Air - petroleum,5242.0,60.964459999999995,reported,X17
+1980,Transport,Air - bioenergy & waste,,,unavailable,Y17
+1980,Transport,Total,35541.0,413.34183,reported,Z17
+1981,Transport,Rail - coal,38.0,0.44194,reported,N18
+1981,Transport,Rail - coke and breeze,0.0,0.0,reported,O18
+1981,Transport,Rail - electricity,259.0,3.01217,reported,P18
+1981,Transport,Rail - petroleum,877.0,10.19951,reported,Q18
+1981,Transport,Road - electricity,,,unavailable,R18
+1981,Transport,Road - petroleum,27009.0,314.11467,reported,S18
+1981,Transport,Road - bioenergy & waste,,,unavailable,T18
+1981,Transport,Road - natural gas,,,unavailable,U18
+1981,Transport,Water - coal,0.0,0.0,reported,V18
+1981,Transport,Water - petroleum,1101.0,12.80463,reported,W18
+1981,Transport,Air - petroleum,5020.0,58.3826,reported,X18
+1981,Transport,Air - bioenergy & waste,,,unavailable,Y18
+1981,Transport,Total,34304.0,398.95552,reported,Z18
+1982,Transport,Rail - coal,35.0,0.40704999999999997,reported,N19
+1982,Transport,Rail - coke and breeze,0.0,0.0,reported,O19
+1982,Transport,Rail - electricity,229.0,2.66327,reported,P19
+1982,Transport,Rail - petroleum,793.0,9.22259,reported,Q19
+1982,Transport,Road - electricity,,,unavailable,R19
+1982,Transport,Road - petroleum,27797.0,323.27911,reported,S19
+1982,Transport,Road - bioenergy & waste,,,unavailable,T19
+1982,Transport,Road - natural gas,,,unavailable,U19
+1982,Transport,Water - coal,3.0,0.03489,reported,V19
+1982,Transport,Water - petroleum,1186.0,13.79318,reported,W19
+1982,Transport,Air - petroleum,4993.0,58.06859,reported,X19
+1982,Transport,Air - bioenergy & waste,,,unavailable,Y19
+1982,Transport,Total,35037.0,407.48031,reported,Z19
+1983,Transport,Rail - coal,15.0,0.17445,reported,N20
+1983,Transport,Rail - coke and breeze,0.0,0.0,reported,O20
+1983,Transport,Rail - electricity,247.0,2.87261,reported,P20
+1983,Transport,Rail - petroleum,849.0,9.87387,reported,Q20
+1983,Transport,Road - electricity,,,unavailable,R20
+1983,Transport,Road - petroleum,28646.0,333.15298,reported,S20
+1983,Transport,Road - bioenergy & waste,,,unavailable,T20
+1983,Transport,Road - natural gas,,,unavailable,U20
+1983,Transport,Water - coal,3.0,0.03489,reported,V20
+1983,Transport,Water - petroleum,1207.0,14.03741,reported,W20
+1983,Transport,Air - petroleum,5093.0,59.23159,reported,X20
+1983,Transport,Air - bioenergy & waste,,,unavailable,Y20
+1983,Transport,Total,36059.0,419.36617,reported,Z20
+1984,Transport,Rail - coal,3.0,0.03489,reported,N21
+1984,Transport,Rail - coke and breeze,0.0,0.0,reported,O21
+1984,Transport,Rail - electricity,247.0,2.87261,reported,P21
+1984,Transport,Rail - petroleum,816.0,9.490079999999999,reported,Q21
+1984,Transport,Road - electricity,,,unavailable,R21
+1984,Transport,Road - petroleum,30006.0,348.96978,reported,S21
+1984,Transport,Road - bioenergy & waste,,,unavailable,T21
+1984,Transport,Road - natural gas,,,unavailable,U21
+1984,Transport,Water - coal,0.0,0.0,reported,V21
+1984,Transport,Water - petroleum,1328.0,15.44464,reported,W21
+1984,Transport,Air - petroleum,5383.0,62.60429,reported,X21
+1984,Transport,Air - bioenergy & waste,,,unavailable,Y21
+1984,Transport,Total,37782.0,439.40466,reported,Z21
+1985,Transport,Rail - coal,3.0,0.03489,reported,N22
+1985,Transport,Rail - coke and breeze,0.0,0.0,reported,O22
+1985,Transport,Rail - electricity,254.0,2.95402,reported,P22
+1985,Transport,Rail - petroleum,821.0,9.54823,reported,Q22
+1985,Transport,Road - electricity,,,unavailable,R22
+1985,Transport,Road - petroleum,30586.0,355.71518,reported,S22
+1985,Transport,Road - bioenergy & waste,,,unavailable,T22
+1985,Transport,Road - natural gas,,,unavailable,U22
+1985,Transport,Water - coal,0.0,0.0,reported,V22
+1985,Transport,Water - petroleum,1254.0,14.584019999999999,reported,W22
+1985,Transport,Air - petroleum,5582.0,64.91866,reported,X22
+1985,Transport,Air - bioenergy & waste,,,unavailable,Y22
+1985,Transport,Total,38500.0,447.755,reported,Z22
+1986,Transport,Rail - coal,3.0,0.03489,reported,N23
+1986,Transport,Rail - coke and breeze,0.0,0.0,reported,O23
+1986,Transport,Rail - electricity,259.0,3.01217,reported,P23
+1986,Transport,Rail - petroleum,809.0,9.408669999999999,reported,Q23
+1986,Transport,Road - electricity,,,unavailable,R23
+1986,Transport,Road - petroleum,32606.0,379.20778,reported,S23
+1986,Transport,Road - bioenergy & waste,,,unavailable,T23
+1986,Transport,Road - natural gas,,,unavailable,U23
+1986,Transport,Water - coal,0.0,0.0,reported,V23
+1986,Transport,Water - petroleum,1151.0,13.38613,reported,W23
+1986,Transport,Air - petroleum,6126.0,71.24538,reported,X23
+1986,Transport,Air - bioenergy & waste,,,unavailable,Y23
+1986,Transport,Total,40954.0,476.29501999999997,reported,Z23
+1987,Transport,Rail - coal,3.0,0.03489,reported,N24
+1987,Transport,Rail - coke and breeze,0.0,0.0,reported,O24
+1987,Transport,Rail - electricity,264.0,3.0703199999999997,reported,P24
+1987,Transport,Rail - petroleum,761.0,8.85043,reported,Q24
+1987,Transport,Road - electricity,,,unavailable,R24
+1987,Transport,Road - petroleum,34062.0,396.14106,reported,S24
+1987,Transport,Road - bioenergy & waste,,,unavailable,T24
+1987,Transport,Road - natural gas,,,unavailable,U24
+1987,Transport,Water - coal,0.0,0.0,reported,V24
+1987,Transport,Water - petroleum,1103.0,12.82789,reported,W24
+1987,Transport,Air - petroleum,6479.0,75.35077,reported,X24
+1987,Transport,Air - bioenergy & waste,,,unavailable,Y24
+1987,Transport,Total,42672.0,496.27536,reported,Z24
+1988,Transport,Rail - coal,,,unavailable,N25
+1988,Transport,Rail - coke and breeze,0.0,0.0,reported,O25
+1988,Transport,Rail - electricity,282.0,3.27966,reported,P25
+1988,Transport,Rail - petroleum,766.0,8.90858,reported,Q25
+1988,Transport,Road - electricity,,,unavailable,R25
+1988,Transport,Road - petroleum,36233.0,421.38979,reported,S25
+1988,Transport,Road - bioenergy & waste,,,unavailable,T25
+1988,Transport,Road - natural gas,,,unavailable,U25
+1988,Transport,Water - coal,0.0,0.0,reported,V25
+1988,Transport,Water - petroleum,1159.0,13.47917,reported,W25
+1988,Transport,Air - petroleum,6905.0,80.30515,reported,X25
+1988,Transport,Air - bioenergy & waste,,,unavailable,Y25
+1988,Transport,Total,45345.0,527.36235,reported,Z25
+1989,Transport,Rail - coal,3.0,0.03489,reported,N26
+1989,Transport,Rail - coke and breeze,0.0,0.0,reported,O26
+1989,Transport,Rail - electricity,272.0,3.16336,reported,P26
+1989,Transport,Rail - petroleum,702.0,8.16426,reported,Q26
+1989,Transport,Road - electricity,,,unavailable,R26
+1989,Transport,Road - petroleum,37801.0,439.62563,reported,S26
+1989,Transport,Road - bioenergy & waste,,,unavailable,T26
+1989,Transport,Road - natural gas,,,unavailable,U26
+1989,Transport,Water - coal,0.0,0.0,reported,V26
+1989,Transport,Water - petroleum,1355.0,15.75865,reported,W26
+1989,Transport,Air - petroleum,7308.0,84.99204,reported,X26
+1989,Transport,Air - bioenergy & waste,,,unavailable,Y26
+1989,Transport,Total,47442.0,551.75046,reported,Z26
+1990,Transport,Rail - coal,2.0,0.02326,reported,N27
+1990,Transport,Rail - coke and breeze,0.0,0.0,reported,O27
+1990,Transport,Rail - electricity,455.0,5.29165,reported,P27
+1990,Transport,Rail - petroleum,668.0,7.76884,reported,Q27
+1990,Transport,Road - electricity,,,unavailable,R27
+1990,Transport,Road - petroleum,38816.0,451.43008,reported,S27
+1990,Transport,Road - bioenergy & waste,,,unavailable,T27
+1990,Transport,Road - natural gas,,,unavailable,U27
+1990,Transport,Water - coal,0.0,0.0,reported,V27
+1990,Transport,Water - petroleum,1363.0,15.85169,reported,W27
+1990,Transport,Air - petroleum,7332.0,85.27116,reported,X27
+1990,Transport,Air - bioenergy & waste,,,unavailable,Y27
+1990,Transport,Total,48635.0,565.62505,reported,Z27
+1991,Transport,Rail - coal,,,unavailable,N28
+1991,Transport,Rail - coke and breeze,0.0,0.0,reported,O28
+1991,Transport,Rail - electricity,454.0,5.2800199999999995,reported,P28
+1991,Transport,Rail - petroleum,685.0,7.96655,reported,Q28
+1991,Transport,Road - electricity,,,unavailable,R28
+1991,Transport,Road - petroleum,38535.0,448.16204999999997,reported,S28
+1991,Transport,Road - bioenergy & waste,,,unavailable,T28
+1991,Transport,Road - natural gas,,,unavailable,U28
+1991,Transport,Water - coal,0.0,0.0,reported,V28
+1991,Transport,Water - petroleum,1424.0,16.56112,reported,W28
+1991,Transport,Air - petroleum,6872.0,79.92135999999999,reported,X28
+1991,Transport,Air - bioenergy & waste,,,unavailable,Y28
+1991,Transport,Total,47973.0,557.92599,reported,Z28
+1992,Transport,Rail - coal,,,unavailable,N29
+1992,Transport,Rail - coke and breeze,0.0,0.0,reported,O29
+1992,Transport,Rail - electricity,461.0,5.3614299999999995,reported,P29
+1992,Transport,Rail - petroleum,715.0,8.31545,reported,Q29
+1992,Transport,Road - electricity,,,unavailable,R29
+1992,Transport,Road - petroleum,39363.0,457.79169,reported,S29
+1992,Transport,Road - bioenergy & waste,,,unavailable,T29
+1992,Transport,Road - natural gas,,,unavailable,U29
+1992,Transport,Water - coal,0.0,0.0,reported,V29
+1992,Transport,Water - petroleum,1377.0,16.01451,reported,W29
+1992,Transport,Air - petroleum,7435.0,86.46905,reported,X29
+1992,Transport,Air - bioenergy & waste,,,unavailable,Y29
+1992,Transport,Total,49355.0,573.99865,reported,Z29
+1993,Transport,Rail - coal,,,unavailable,N30
+1993,Transport,Rail - coke and breeze,0.0,0.0,reported,O30
+1993,Transport,Rail - electricity,641.0,7.454829999999999,reported,P30
+1993,Transport,Rail - petroleum,665.0,7.73395,reported,Q30
+1993,Transport,Road - electricity,,,unavailable,R30
+1993,Transport,Road - petroleum,39502.0,459.40826,reported,S30
+1993,Transport,Road - bioenergy & waste,,,unavailable,T30
+1993,Transport,Road - natural gas,,,unavailable,U30
+1993,Transport,Water - coal,0.0,0.0,reported,V30
+1993,Transport,Water - petroleum,1341.0,15.59583,reported,W30
+1993,Transport,Air - petroleum,7871.0,91.53972999999999,reported,X30
+1993,Transport,Air - bioenergy & waste,,,unavailable,Y30
+1993,Transport,Total,50024.0,581.77912,reported,Z30
+1994,Transport,Rail - coal,,,unavailable,N31
+1994,Transport,Rail - coke and breeze,0.0,0.0,reported,O31
+1994,Transport,Rail - electricity,599.0,6.9663699999999995,reported,P31
+1994,Transport,Rail - petroleum,651.0,7.57113,reported,Q31
+1994,Transport,Road - electricity,,,unavailable,R31
+1994,Transport,Road - petroleum,39690.0,461.5947,reported,S31
+1994,Transport,Road - bioenergy & waste,,,unavailable,T31
+1994,Transport,Road - natural gas,,,unavailable,U31
+1994,Transport,Water - coal,0.0,0.0,reported,V31
+1994,Transport,Water - petroleum,1239.0,14.40957,reported,W31
+1994,Transport,Air - petroleum,8070.0,93.8541,reported,X31
+1994,Transport,Air - bioenergy & waste,,,unavailable,Y31
+1994,Transport,Total,50253.0,584.4423899999999,reported,Z31
+1995,Transport,Rail - coal,,,unavailable,N32
+1995,Transport,Rail - coke and breeze,0.0,0.0,reported,O32
+1995,Transport,Rail - electricity,636.0,7.39668,reported,P32
+1995,Transport,Rail - petroleum,654.0,7.60602,reported,Q32
+1995,Transport,Road - electricity,,,unavailable,R32
+1995,Transport,Road - petroleum,39268.0,456.68683999999996,reported,S32
+1995,Transport,Road - bioenergy & waste,,,unavailable,T32
+1995,Transport,Road - natural gas,,,unavailable,U32
+1995,Transport,Water - coal,0.0,0.0,reported,V32
+1995,Transport,Water - petroleum,1193.0,13.87459,reported,W32
+1995,Transport,Air - petroleum,8485.0,98.68055,reported,X32
+1995,Transport,Air - bioenergy & waste,,,unavailable,Y32
+1995,Transport,Total,50238.0,584.26794,reported,Z32
+1996,Transport,Rail - coal,,,unavailable,N33
+1996,Transport,Rail - coke and breeze,0.0,0.0,reported,O33
+1996,Transport,Rail - electricity,709.59294,8.2525658922,reported,P33
+1996,Transport,Rail - petroleum,628.580026991948,7.310385713916355,reported,Q33
+1996,Transport,Road - electricity,,,unavailable,R33
+1996,Transport,Road - petroleum,40771.54069910593,474.1730183306019,reported,S33
+1996,Transport,Road - bioenergy & waste,,,unavailable,T33
+1996,Transport,Road - natural gas,,,unavailable,U33
+1996,Transport,Water - coal,0.0,0.0,reported,V33
+1996,Transport,Water - petroleum,1294.4309898408392,15.05423241184896,reported,W33
+1996,Transport,Air - petroleum,8917.234541582538,103.70743771860492,reported,X33
+1996,Transport,Air - bioenergy & waste,,,unavailable,Y33
+1996,Transport,Total,52321.37919752126,608.4976400671723,reported,Z33
+1997,Transport,Rail - coal,,,unavailable,N34
+1997,Transport,Rail - coke and breeze,0.0,0.0,reported,O34
+1997,Transport,Rail - electricity,729.1487532244196,8.479999999999999,reported,P34
+1997,Transport,Rail - petroleum,515.9434331798312,6.000422127881437,reported,Q34
+1997,Transport,Road - electricity,,,unavailable,R34
+1997,Transport,Road - petroleum,41259.44813388095,479.84738179703544,reported,S34
+1997,Transport,Road - bioenergy & waste,,,unavailable,T34
+1997,Transport,Road - natural gas,,,unavailable,U34
+1997,Transport,Water - coal,0.0,0.0,reported,V34
+1997,Transport,Water - petroleum,1255.692903505746,14.603708467771826,reported,W34
+1997,Transport,Air - petroleum,9322.297282639609,108.41831739709865,reported,X34
+1997,Transport,Air - bioenergy & waste,,,unavailable,Y34
+1997,Transport,Total,53082.53050643056,617.3498297897873,reported,Z34
+1998,Transport,Rail - coal,,,unavailable,N35
+1998,Transport,Rail - coke and breeze,0.0,0.0,reported,O35
+1998,Transport,Rail - electricity,732.0,8.51316,reported,P35
+1998,Transport,Rail - petroleum,607.62,7.0666206,reported,Q35
+1998,Transport,Road - electricity,,,unavailable,R35
+1998,Transport,Road - petroleum,41020.33,477.0664379,reported,S35
+1998,Transport,Road - bioenergy & waste,,,unavailable,T35
+1998,Transport,Road - natural gas,,,unavailable,U35
+1998,Transport,Water - coal,0.0,0.0,reported,V35
+1998,Transport,Water - petroleum,1175.26,13.6682738,reported,W35
+1998,Transport,Air - petroleum,10236.97,119.05596109999999,reported,X35
+1998,Transport,Air - bioenergy & waste,,,unavailable,Y35
+1998,Transport,Total,53771.99,625.3682437,reported,Z35
+1999,Transport,Rail - coal,,,unavailable,N36
+1999,Transport,Rail - coke and breeze,0.0,0.0,reported,O36
+1999,Transport,Rail - electricity,738.0,8.582939999999999,reported,P36
+1999,Transport,Rail - petroleum,632.31,7.353765299999999,reported,Q36
+1999,Transport,Road - electricity,,,unavailable,R36
+1999,Transport,Road - petroleum,41398.59,481.4656016999999,reported,S36
+1999,Transport,Road - bioenergy & waste,,,unavailable,T36
+1999,Transport,Road - natural gas,,,unavailable,U36
+1999,Transport,Water - coal,0.0,0.0,reported,V36
+1999,Transport,Water - petroleum,1067.24,12.4120012,reported,W36
+1999,Transport,Air - petroleum,11017.29,128.1310827,reported,X36
+1999,Transport,Air - bioenergy & waste,,,unavailable,Y36
+1999,Transport,Total,54853.1,637.941553,reported,Z36
+2000,Transport,Rail - coal,,,unavailable,N37
+2000,Transport,Rail - coke and breeze,0.0,0.0,reported,O37
+2000,Transport,Rail - electricity,741.44,8.6229472,reported,P37
+2000,Transport,Rail - petroleum,638.84,7.4297092000000005,reported,Q37
+2000,Transport,Road - electricity,,,unavailable,R37
+2000,Transport,Road - petroleum,41070.66,477.65177580000005,reported,S37
+2000,Transport,Road - bioenergy & waste,,,unavailable,T37
+2000,Transport,Road - natural gas,,,unavailable,U37
+2000,Transport,Water - coal,0.0,0.0,reported,V37
+2000,Transport,Water - petroleum,1032.45,12.007393500000001,reported,W37
+2000,Transport,Air - petroleum,11977.72,139.3008836,reported,X37
+2000,Transport,Air - bioenergy & waste,,,unavailable,Y37
+2000,Transport,Total,55461.12,645.0128256,reported,Z37
+2001,Transport,Rail - coal,,,unavailable,N38
+2001,Transport,Rail - coke and breeze,0.0,0.0,reported,O38
+2001,Transport,Rail - electricity,759.07,8.8279841,reported,P38
+2001,Transport,Rail - petroleum,664.26,7.7253438,reported,Q38
+2001,Transport,Road - electricity,,,unavailable,R38
+2001,Transport,Road - petroleum,41096.56,477.95299279999995,reported,S38
+2001,Transport,Road - bioenergy & waste,,,unavailable,T38
+2001,Transport,Road - natural gas,,,unavailable,U38
+2001,Transport,Water - coal,0.0,0.0,reported,V38
+2001,Transport,Water - petroleum,843.89,9.8144407,reported,W38
+2001,Transport,Air - petroleum,11773.51,136.9259213,reported,X38
+2001,Transport,Air - bioenergy & waste,,,unavailable,Y38
+2001,Transport,Total,55137.28,641.2465664,reported,Z38
+2002,Transport,Rail - coal,,,unavailable,N39
+2002,Transport,Rail - coke and breeze,0.0,0.0,reported,O39
+2002,Transport,Rail - electricity,726.94,8.4543122,reported,P39
+2002,Transport,Rail - petroleum,661.62,7.6946406,reported,Q39
+2002,Transport,Road - electricity,,,unavailable,R39
+2002,Transport,Road - petroleum,41936.08,487.71661040000004,reported,S39
+2002,Transport,Road - bioenergy & waste,,,unavailable,T39
+2002,Transport,Road - natural gas,,,unavailable,U39
+2002,Transport,Water - coal,0.0,0.0,reported,V39
+2002,Transport,Water - petroleum,702.46,8.1696098,reported,W39
+2002,Transport,Air - petroleum,11657.75,135.5796325,reported,X39
+2002,Transport,Air - bioenergy & waste,,,unavailable,Y39
+2002,Transport,Total,55684.85,647.6148055,reported,Z39
+2003,Transport,Rail - coal,,,unavailable,N40
+2003,Transport,Rail - coke and breeze,0.0,0.0,reported,O40
+2003,Transport,Rail - electricity,706.14,8.2124082,reported,P40
+2003,Transport,Rail - petroleum,666.91,7.7561633,reported,Q40
+2003,Transport,Road - electricity,,,unavailable,R40
+2003,Transport,Road - petroleum,41822.64,486.39730319999995,reported,S40
+2003,Transport,Road - bioenergy & waste,,,unavailable,T40
+2003,Transport,Road - natural gas,,,unavailable,U40
+2003,Transport,Water - coal,0.0,0.0,reported,V40
+2003,Transport,Water - petroleum,1234.31,14.3550253,reported,W40
+2003,Transport,Air - petroleum,11935.78,138.8131214,reported,X40
+2003,Transport,Air - bioenergy & waste,,,unavailable,Y40
+2003,Transport,Total,56365.79,655.5341377,reported,Z40
+2004,Transport,Rail - coal,,,unavailable,N41
+2004,Transport,Rail - coke and breeze,0.0,0.0,reported,O41
+2004,Transport,Rail - electricity,347.28,4.0388664,reported,P41
+2004,Transport,Rail - petroleum,699.94,8.1403022,reported,Q41
+2004,Transport,Road - electricity,1.62,0.018840600000000002,reported,R41
+2004,Transport,Road - petroleum,42220.85,491.0284855,reported,S41
+2004,Transport,Road - bioenergy & waste,,,unavailable,T41
+2004,Transport,Road - natural gas,,,unavailable,U41
+2004,Transport,Water - coal,0.0,0.0,reported,V41
+2004,Transport,Water - petroleum,1195.98,13.9092474,reported,W41
+2004,Transport,Air - petroleum,12908.48,150.1256224,reported,X41
+2004,Transport,Air - bioenergy & waste,,,unavailable,Y41
+2004,Transport,Total,57374.14,667.2612482,reported,Z41
+2005,Transport,Rail - coal,2.92,0.0339596,reported,N42
+2005,Transport,Rail - coke and breeze,0.0,0.0,reported,O42
+2005,Transport,Rail - electricity,347.4,4.040261999999999,reported,P42
+2005,Transport,Rail - petroleum,633.79,7.370977699999999,reported,Q42
+2005,Transport,Road - electricity,1.65,0.019189499999999998,reported,R42
+2005,Transport,Road - petroleum,42506.76,494.3536188,reported,S42
+2005,Transport,Road - bioenergy & waste,74.05,0.8612015,reported,T42
+2005,Transport,Road - natural gas,,,unavailable,U42
+2005,Transport,Water - coal,0.0,0.0,reported,V42
+2005,Transport,Water - petroleum,1370.31,15.9367053,reported,W42
+2005,Transport,Air - petroleum,13856.29,161.1486527,reported,X42
+2005,Transport,Air - bioenergy & waste,,,unavailable,Y42
+2005,Transport,Total,58793.17,683.7645670999999,reported,Z42
+2006,Transport,Rail - coal,13.71,0.15944730000000001,reported,N43
+2006,Transport,Rail - coke and breeze,0.0,0.0,reported,O43
+2006,Transport,Rail - electricity,342.48,3.9830424,reported,P43
+2006,Transport,Rail - petroleum,631.88,7.348764399999999,reported,Q43
+2006,Transport,Road - electricity,1.61,0.0187243,reported,R43
+2006,Transport,Road - petroleum,42512.64,494.4220032,reported,S43
+2006,Transport,Road - bioenergy & waste,187.79,2.1839977,reported,T43
+2006,Transport,Road - natural gas,,,unavailable,U43
+2006,Transport,Water - coal,0.0,0.0,reported,V43
+2006,Transport,Water - petroleum,1812.29,21.0769327,reported,W43
+2006,Transport,Air - petroleum,13999.05,162.80895149999998,reported,X43
+2006,Transport,Air - bioenergy & waste,,,unavailable,Y43
+2006,Transport,Total,59501.45,692.0018634999999,reported,Z43
+2007,Transport,Rail - coal,13.71,0.15944730000000001,reported,N44
+2007,Transport,Rail - coke and breeze,0.0,0.0,reported,O44
+2007,Transport,Rail - electricity,339.05,3.9431515,reported,P44
+2007,Transport,Rail - petroleum,646.36,7.5171668,reported,Q44
+2007,Transport,Road - electricity,1.58,0.0183754,reported,R44
+2007,Transport,Road - petroleum,42884.4,498.745572,reported,S44
+2007,Transport,Road - bioenergy & waste,361.69,4.2064547,reported,T44
+2007,Transport,Road - natural gas,,,unavailable,U44
+2007,Transport,Water - coal,0.0,0.0,reported,V44
+2007,Transport,Water - petroleum,1618.17,18.8193171,reported,W44
+2007,Transport,Air - petroleum,13905.96,161.72631479999998,reported,X44
+2007,Transport,Air - bioenergy & waste,,,unavailable,Y44
+2007,Transport,Total,59770.93,695.1359159,reported,Z44
+2008,Transport,Rail - coal,13.51,0.1571213,reported,N45
+2008,Transport,Rail - coke and breeze,0.0,0.0,reported,O45
+2008,Transport,Rail - electricity,338.39,3.9354756999999996,reported,P45
+2008,Transport,Rail - petroleum,657.64,7.6483532,reported,Q45
+2008,Transport,Road - electricity,1.57,0.0182591,reported,R45
+2008,Transport,Road - petroleum,41097.67,477.9659021,reported,S45
+2008,Transport,Road - bioenergy & waste,844.51,9.8216513,reported,T45
+2008,Transport,Road - natural gas,,,unavailable,U45
+2008,Transport,Water - coal,0.0,0.0,reported,V45
+2008,Transport,Water - petroleum,1013.93,11.7920059,reported,W45
+2008,Transport,Air - petroleum,13426.09,156.1454267,reported,X45
+2008,Transport,Air - bioenergy & waste,,,unavailable,Y45
+2008,Transport,Total,57393.31,667.4841953,reported,Z45
+2009,Transport,Rail - coal,13.48,0.1567724,reported,N46
+2009,Transport,Rail - coke and breeze,0.0,0.0,reported,O46
+2009,Transport,Rail - electricity,346.77,4.0329350999999996,reported,P46
+2009,Transport,Rail - petroleum,656.16,7.6311408,reported,Q46
+2009,Transport,Road - electricity,1.55,0.0180265,reported,R46
+2009,Transport,Road - petroleum,39716.73,461.90556990000005,reported,S46
+2009,Transport,Road - bioenergy & waste,1038.49,12.0776387,reported,T46
+2009,Transport,Road - natural gas,,,unavailable,U46
+2009,Transport,Water - coal,0.0,0.0,reported,V46
+2009,Transport,Water - petroleum,1020.61,11.869694299999999,reported,W46
+2009,Transport,Air - petroleum,13036.33,151.6125179,reported,X46
+2009,Transport,Air - bioenergy & waste,,,unavailable,Y46
+2009,Transport,Total,55830.12,649.3042956,reported,Z46
+2010,Transport,Rail - coal,13.61,0.1582843,reported,N47
+2010,Transport,Rail - coke and breeze,0.0,0.0,reported,O47
+2010,Transport,Rail - electricity,348.19,4.0494497,reported,P47
+2010,Transport,Rail - petroleum,659.76,7.6730088,reported,Q47
+2010,Transport,Road - electricity,1.55,0.0180265,reported,R47
+2010,Transport,Road - petroleum,39285.72,456.8929236,reported,S47
+2010,Transport,Road - bioenergy & waste,1217.57,14.160339099999998,reported,T47
+2010,Transport,Road - natural gas,,,unavailable,U47
+2010,Transport,Water - coal,0.0,0.0,reported,V47
+2010,Transport,Water - petroleum,980.2,11.399726,reported,W47
+2010,Transport,Air - petroleum,12826.39,149.1709157,reported,X47
+2010,Transport,Air - bioenergy & waste,,,unavailable,Y47
+2010,Transport,Total,55332.99,643.5226736999999,reported,Z47
+2011,Transport,Rail - coal,11.07,0.1287441,reported,N48
+2011,Transport,Rail - coke and breeze,0.0,0.0,reported,O48
+2011,Transport,Rail - electricity,359.78,4.1842413999999994,reported,P48
+2011,Transport,Rail - petroleum,650.59,7.5663617,reported,Q48
+2011,Transport,Road - electricity,1.82,0.0211666,reported,R48
+2011,Transport,Road - petroleum,38646.01,449.4530963,reported,S48
+2011,Transport,Road - bioenergy & waste,1127.52,13.1130576,reported,T48
+2011,Transport,Road - natural gas,,,unavailable,U48
+2011,Transport,Water - coal,0.0,0.0,reported,V48
+2011,Transport,Water - petroleum,976.79,11.3600677,reported,W48
+2011,Transport,Air - petroleum,12884.21,149.8433623,reported,X48
+2011,Transport,Air - bioenergy & waste,,,unavailable,Y48
+2011,Transport,Total,54657.8,635.670214,reported,Z48
+2012,Transport,Rail - coal,11.6,0.134908,reported,N49
+2012,Transport,Rail - coke and breeze,0.0,0.0,reported,O49
+2012,Transport,Rail - electricity,382.96,4.4538248,reported,P49
+2012,Transport,Rail - petroleum,672.62,7.8225706,reported,Q49
+2012,Transport,Road - electricity,2.27,0.0264001,reported,R49
+2012,Transport,Road - petroleum,38644.37,449.43402310000005,reported,S49
+2012,Transport,Road - bioenergy & waste,957.76,11.1387488,reported,T49
+2012,Transport,Road - natural gas,,,unavailable,U49
+2012,Transport,Water - coal,0.0,0.0,reported,V49
+2012,Transport,Water - petroleum,959.91,11.1637533,reported,W49
+2012,Transport,Air - petroleum,12457.59,144.8817717,reported,X49
+2012,Transport,Air - bioenergy & waste,,,unavailable,Y49
+2012,Transport,Total,54089.08,629.0560004,reported,Z49
+2013,Transport,Rail - coal,9.88,0.1149044,reported,N50
+2013,Transport,Rail - coke and breeze,0.0,0.0,reported,O50
+2013,Transport,Rail - electricity,371.4,4.319382,reported,P50
+2013,Transport,Rail - petroleum,667.42,7.762094599999999,reported,Q50
+2013,Transport,Road - electricity,2.83,0.0329129,reported,R50
+2013,Transport,Road - petroleum,38176.91,443.99746330000005,reported,S50
+2013,Transport,Road - bioenergy & waste,1091.58,12.695075399999999,reported,T50
+2013,Transport,Road - natural gas,,,unavailable,U50
+2013,Transport,Water - coal,0.0,0.0,reported,V50
+2013,Transport,Water - petroleum,979.26,11.3887938,reported,W50
+2013,Transport,Air - petroleum,12672.21,147.37780229999998,reported,X50
+2013,Transport,Air - bioenergy & waste,,,unavailable,Y50
+2013,Transport,Total,53971.49,627.6884286999999,reported,Z50
+2014,Transport,Rail - coal,9.36,0.10885679999999999,reported,N51
+2014,Transport,Rail - coke and breeze,0.0,0.0,reported,O51
+2014,Transport,Rail - electricity,381.49,4.4367287,reported,P51
+2014,Transport,Rail - petroleum,675.78,7.8593214,reported,Q51
+2014,Transport,Road - electricity,5.81,0.0675703,reported,R51
+2014,Transport,Road - petroleum,38838.66,451.69361580000003,reported,S51
+2014,Transport,Road - bioenergy & waste,1242.67,14.4522521,reported,T51
+2014,Transport,Road - natural gas,,,unavailable,U51
+2014,Transport,Water - coal,0.0,0.0,reported,V51
+2014,Transport,Water - petroleum,1044.93,12.1525359,reported,W51
+2014,Transport,Air - petroleum,12419.73,144.44145989999998,reported,X51
+2014,Transport,Air - bioenergy & waste,,,unavailable,Y51
+2014,Transport,Total,54618.43,635.2123409,reported,Z51
+2015,Transport,Rail - coal,9.36,0.10885679999999999,reported,N52
+2015,Transport,Rail - coke and breeze,0.0,0.0,reported,O52
+2015,Transport,Rail - electricity,380.0,4.4193999999999996,reported,P52
+2015,Transport,Rail - petroleum,673.67,7.834782099999999,reported,Q52
+2015,Transport,Road - electricity,8.35,0.09711049999999999,reported,R52
+2015,Transport,Road - petroleum,39028.02,453.89587259999996,reported,S52
+2015,Transport,Road - bioenergy & waste,997.79,11.6042977,reported,T52
+2015,Transport,Road - natural gas,,,unavailable,U52
+2015,Transport,Water - coal,0.0,0.0,reported,V52
+2015,Transport,Water - petroleum,997.2,11.597436,reported,W52
+2015,Transport,Air - petroleum,12522.91,145.6414433,reported,X52
+2015,Transport,Air - bioenergy & waste,,,unavailable,Y52
+2015,Transport,Total,54617.3,635.199199,reported,Z52
+2016,Transport,Rail - coal,10.8,0.125604,reported,N53
+2016,Transport,Rail - coke and breeze,0.0,0.0,reported,O53
+2016,Transport,Rail - electricity,391.84,4.5570992,reported,P53
+2016,Transport,Rail - petroleum,666.41,7.7503483,reported,Q53
+2016,Transport,Road - electricity,11.43,0.1329309,reported,R53
+2016,Transport,Road - petroleum,40309.27,468.79681009999996,reported,S53
+2016,Transport,Road - bioenergy & waste,1009.54,11.740950199999999,reported,T53
+2016,Transport,Road - natural gas,,,unavailable,U53
+2016,Transport,Water - coal,0.0,0.0,reported,V53
+2016,Transport,Water - petroleum,995.23,11.5745249,reported,W53
+2016,Transport,Air - petroleum,12691.07,147.59714409999998,reported,X53
+2016,Transport,Air - bioenergy & waste,,,unavailable,Y53
+2016,Transport,Total,56085.6,652.275528,reported,Z53
+2017,Transport,Rail - coal,10.77,0.12525509999999998,reported,N54
+2017,Transport,Rail - coke and breeze,0.0,0.0,reported,O54
+2017,Transport,Rail - electricity,400.21,4.6544422999999995,reported,P54
+2017,Transport,Rail - petroleum,661.42,7.6923146,reported,Q54
+2017,Transport,Road - electricity,15.82,0.1839866,reported,R54
+2017,Transport,Road - petroleum,40592.7,472.09310099999993,reported,S54
+2017,Transport,Road - bioenergy & waste,997.12,11.5965056,reported,T54
+2017,Transport,Road - natural gas,,,unavailable,U54
+2017,Transport,Water - coal,0.0,0.0,reported,V54
+2017,Transport,Water - petroleum,1017.12,11.8291056,reported,W54
+2017,Transport,Air - petroleum,13757.92,160.0046096,reported,X54
+2017,Transport,Air - bioenergy & waste,,,unavailable,Y54
+2017,Transport,Total,57453.08,668.1793204,reported,Z54
+2018,Transport,Rail - coal,10.77,0.12525509999999998,reported,N55
+2018,Transport,Rail - coke and breeze,0.0,0.0,reported,O55
+2018,Transport,Rail - electricity,434.52,5.053467599999999,reported,P55
+2018,Transport,Rail - petroleum,577.23,6.7131849,reported,Q55
+2018,Transport,Road - electricity,52.77,0.6137151000000001,reported,R55
+2018,Transport,Road - petroleum,40151.18,466.9582234,reported,S55
+2018,Transport,Road - bioenergy & waste,1420.89,16.5249507,reported,T55
+2018,Transport,Road - natural gas,9.72,0.11304360000000001,reported,U55
+2018,Transport,Water - coal,0.0,0.0,reported,V55
+2018,Transport,Water - petroleum,1028.53,11.9618039,reported,W55
+2018,Transport,Air - petroleum,13565.43,157.7659509,reported,X55
+2018,Transport,Air - bioenergy & waste,,,unavailable,Y55
+2018,Transport,Total,57251.04,665.8295952,reported,Z55
+2019,Transport,Rail - coal,10.77,0.12525509999999998,reported,N56
+2019,Transport,Rail - coke and breeze,0.0,0.0,reported,O56
+2019,Transport,Rail - electricity,454.85,5.2899055,reported,P56
+2019,Transport,Rail - petroleum,601.17,6.9916070999999995,reported,Q56
+2019,Transport,Road - electricity,73.4,0.853642,reported,R56
+2019,Transport,Road - petroleum,38870.37,452.06240310000004,reported,S56
+2019,Transport,Road - bioenergy & waste,1907.28,22.181666399999997,reported,T56
+2019,Transport,Road - natural gas,42.73,0.49694989999999994,reported,U56
+2019,Transport,Water - coal,0.0,0.0,reported,V56
+2019,Transport,Water - petroleum,972.5,11.310175,reported,W56
+2019,Transport,Air - petroleum,13342.09,155.1685067,reported,X56
+2019,Transport,Air - bioenergy & waste,,,unavailable,Y56
+2019,Transport,Total,56275.15,654.4799945,reported,Z56
+2020,Transport,Rail - coal,9.47,0.1101361,reported,N57
+2020,Transport,Rail - coke and breeze,0.0,0.0,reported,O57
+2020,Transport,Rail - electricity,416.65,4.8456395,reported,P57
+2020,Transport,Rail - petroleum,471.87,5.4878481,reported,Q57
+2020,Transport,Road - electricity,96.91,1.1270632999999999,reported,R57
+2020,Transport,Road - petroleum,32432.89,377.19451069999997,reported,S57
+2020,Transport,Road - bioenergy & waste,1821.98,21.1896274,reported,T57
+2020,Transport,Road - natural gas,76.22,0.8864386,reported,U57
+2020,Transport,Water - coal,0.0,0.0,reported,V57
+2020,Transport,Water - petroleum,617.69,7.1837347000000005,reported,W57
+2020,Transport,Air - petroleum,5768.14,67.0834682,reported,X57
+2020,Transport,Air - bioenergy & waste,,,unavailable,Y57
+2020,Transport,Total,41711.82,485.1084666,reported,Z57
+2021,Transport,Rail - coal,10.05,0.1168815,reported,N58
+2021,Transport,Rail - coke and breeze,0.0,0.0,reported,O58
+2021,Transport,Rail - electricity,407.4,4.738061999999999,reported,P58
+2021,Transport,Rail - petroleum,498.92,5.8024396000000005,reported,Q58
+2021,Transport,Road - electricity,194.52,2.2622676,reported,R58
+2021,Transport,Road - petroleum,35323.81,410.8159103,reported,S58
+2021,Transport,Road - bioenergy & waste,1775.61,20.650344299999997,reported,T58
+2021,Transport,Road - natural gas,84.09,0.9779667,reported,U58
+2021,Transport,Water - coal,0.0,0.0,reported,V58
+2021,Transport,Water - petroleum,726.61,8.4504743,reported,W58
+2021,Transport,Air - petroleum,5341.67,62.1236221,reported,X58
+2021,Transport,Air - bioenergy & waste,16.35,0.1901505,reported,Y58
+2021,Transport,Total,44379.03,516.1281189,reported,Z58
+2022,Transport,Rail - coal,10.77,0.12525509999999998,reported,N59
+2022,Transport,Rail - coke and breeze,0.0,0.0,reported,O59
+2022,Transport,Rail - electricity,414.42,4.8197046,reported,P59
+2022,Transport,Rail - petroleum,498.41,5.7965083,reported,Q59
+2022,Transport,Road - electricity,350.96,4.0816647999999995,reported,R59
+2022,Transport,Road - petroleum,35612.29,414.1709327,reported,S59
+2022,Transport,Road - bioenergy & waste,2312.5,26.894375,reported,T59
+2022,Transport,Road - natural gas,101.76,1.1834688,reported,U59
+2022,Transport,Water - coal,0.0,0.0,reported,V59
+2022,Transport,Water - petroleum,722.33,8.4006979,reported,W59
+2022,Transport,Air - petroleum,10588.33,123.1422779,reported,X59
+2022,Transport,Air - bioenergy & waste,42.01,0.48857629999999996,reported,Y59
+2022,Transport,Total,50653.77,589.1033451,reported,Z59
+2023,Transport,Rail - coal,10.77,0.12525509999999998,reported,N60
+2023,Transport,Rail - coke and breeze,0.0,0.0,reported,O60
+2023,Transport,Rail - electricity,422.4,4.9125119999999995,reported,P60
+2023,Transport,Rail - petroleum,509.78,5.9287414,reported,Q60
+2023,Transport,Road - electricity,546.24,6.3527712,reported,R60
+2023,Transport,Road - petroleum,35212.38,409.51997939999995,reported,S60
+2023,Transport,Road - bioenergy & waste,2561.94,29.7953622,reported,T60
+2023,Transport,Road - natural gas,135.9,1.580517,reported,U60
+2023,Transport,Water - coal,0.0,0.0,reported,V60
+2023,Transport,Water - petroleum,766.07,8.9093941,reported,W60
+2023,Transport,Air - petroleum,12264.01,142.63043629999999,reported,X60
+2023,Transport,Air - bioenergy & waste,85.25,0.9914575,reported,Y60
+2023,Transport,Total,52514.73,610.7463099,reported,Z60
+2024,Transport,Rail - coal,10.77,0.12525509999999998,reported,N61
+2024,Transport,Rail - coke and breeze,0.0,0.0,reported,O61
+2024,Transport,Rail - electricity,432.7,5.0323009999999995,reported,P61
+2024,Transport,Rail - petroleum,534.93,6.221235899999999,reported,Q61
+2024,Transport,Road - electricity,767.86,8.9302118,reported,R61
+2024,Transport,Road - petroleum,35338.34,410.9848941999999,reported,S61
+2024,Transport,Road - bioenergy & waste,2466.38,28.6839994,reported,T61
+2024,Transport,Road - natural gas,155.49,1.8083487,reported,U61
+2024,Transport,Water - coal,0.0,0.0,reported,V61
+2024,Transport,Water - petroleum,797.64,9.2765532,reported,W61
+2024,Transport,Air - petroleum,13234.19,153.9136297,reported,X61
+2024,Transport,Air - bioenergy & waste,277.48,3.2270924,reported,Y61
+2024,Transport,Total,54015.77,628.2034050999999,reported,Z61
+1970,Domestic,Coal,14242.0,165.63446,reported,AB7
+1970,Domestic,Coke and breeze,1761.0,20.48043,reported,AC7
+1970,Domestic,Other solid fuels,1975.0,22.96925,reported,AD7
+1970,Domestic,Natural gas,8922.0,103.76286,reported,AE7
+1970,Domestic,Electricity,6622.0,77.01386,reported,AF7
+1970,Domestic,Heat,,,unavailable,AG7
+1970,Domestic,Bioenergy & waste,,,unavailable,AH7
+1970,Domestic,Petroleum,3363.0,39.111689999999996,reported,AI7
+1970,Domestic,Total,36884.0,428.96092,reported,AJ7
+1971,Domestic,Coal,12164.0,141.46732,reported,AB8
+1971,Domestic,Coke and breeze,1136.0,13.21168,reported,AC8
+1971,Domestic,Other solid fuels,2156.0,25.074279999999998,reported,AD8
+1971,Domestic,Natural gas,9900.0,115.137,reported,AE8
+1971,Domestic,Electricity,6937.0,80.67730999999999,reported,AF8
+1971,Domestic,Heat,,,unavailable,AG8
+1971,Domestic,Bioenergy & waste,,,unavailable,AH8
+1971,Domestic,Petroleum,3328.0,38.70464,reported,AI8
+1971,Domestic,Total,35621.0,414.27223,reported,AJ8
+1972,Domestic,Coal,10602.0,123.30126,reported,AB9
+1972,Domestic,Coke and breeze,849.0,9.87387,reported,AC9
+1972,Domestic,Other solid fuels,2144.0,24.93472,reported,AD9
+1972,Domestic,Natural gas,11359.0,132.10517,reported,AE9
+1972,Domestic,Electricity,7471.0,86.88773,reported,AF9
+1972,Domestic,Heat,,,unavailable,AG9
+1972,Domestic,Bioenergy & waste,,,unavailable,AH9
+1972,Domestic,Petroleum,3836.0,44.61268,reported,AI9
+1972,Domestic,Total,36261.0,421.71542999999997,reported,AJ9
+1973,Domestic,Coal,10565.0,122.87095,reported,AB10
+1973,Domestic,Coke and breeze,778.0,9.04814,reported,AC10
+1973,Domestic,Other solid fuels,2053.0,23.87639,reported,AD10
+1973,Domestic,Natural gas,12129.0,141.06027,reported,AE10
+1973,Domestic,Electricity,7849.0,91.28387,reported,AF10
+1973,Domestic,Heat,,,unavailable,AG10
+1973,Domestic,Bioenergy & waste,,,unavailable,AH10
+1973,Domestic,Petroleum,4202.0,48.86926,reported,AI10
+1973,Domestic,Total,37576.0,437.00888,reported,AJ10
+1974,Domestic,Coal,9968.0,115.92784,reported,AB11
+1974,Domestic,Coke and breeze,821.0,9.54823,reported,AC11
+1974,Domestic,Other solid fuels,1955.0,22.73665,reported,AD11
+1974,Domestic,Natural gas,13562.0,157.72606,reported,AE11
+1974,Domestic,Electricity,7963.0,92.60969,reported,AF11
+1974,Domestic,Heat,,,unavailable,AG11
+1974,Domestic,Bioenergy & waste,,,unavailable,AH11
+1974,Domestic,Petroleum,3733.0,43.414789999999996,reported,AI11
+1974,Domestic,Total,38002.0,441.96326,reported,AJ11
+1975,Domestic,Coal,8517.0,99.05270999999999,reported,AB12
+1975,Domestic,Coke and breeze,645.0,7.5013499999999995,reported,AC12
+1975,Domestic,Other solid fuels,1778.0,20.67814,reported,AD12
+1975,Domestic,Natural gas,14840.0,172.5892,reported,AE12
+1975,Domestic,Electricity,7670.0,89.2021,reported,AF12
+1975,Domestic,Heat,,,unavailable,AG12
+1975,Domestic,Bioenergy & waste,,,unavailable,AH12
+1975,Domestic,Petroleum,3612.0,42.00756,reported,AI12
+1975,Domestic,Total,37062.0,431.03105999999997,reported,AJ12
+1976,Domestic,Coal,7910.0,91.99329999999999,reported,AB13
+1976,Domestic,Coke and breeze,549.0,6.38487,reported,AC13
+1976,Domestic,Other solid fuels,1640.0,19.0732,reported,AD13
+1976,Domestic,Natural gas,15602.0,181.45126,reported,AE13
+1976,Domestic,Electricity,7318.0,85.10834,reported,AF13
+1976,Domestic,Heat,,,unavailable,AG13
+1976,Domestic,Bioenergy & waste,,,unavailable,AH13
+1976,Domestic,Petroleum,3615.0,42.04245,reported,AI13
+1976,Domestic,Total,36634.0,426.05342,reported,AJ13
+1977,Domestic,Coal,8136.0,94.62168,reported,AB14
+1977,Domestic,Coke and breeze,534.0,6.21042,reported,AC14
+1977,Domestic,Other solid fuels,1589.0,18.480069999999998,reported,AD14
+1977,Domestic,Natural gas,16600.0,193.058,reported,AE14
+1977,Domestic,Electricity,7386.0,85.89918,reported,AF14
+1977,Domestic,Heat,,,unavailable,AG14
+1977,Domestic,Bioenergy & waste,,,unavailable,AH14
+1977,Domestic,Petroleum,3653.0,42.48439,reported,AI14
+1977,Domestic,Total,37898.0,440.75374,reported,AJ14
+1978,Domestic,Coal,7476.0,86.94588,reported,AB15
+1978,Domestic,Coke and breeze,471.0,5.47773,reported,AC15
+1978,Domestic,Other solid fuels,1464.0,17.02632,reported,AD15
+1978,Domestic,Natural gas,18291.0,212.72432999999998,reported,AE15
+1978,Domestic,Electricity,7378.0,85.80614,reported,AF15
+1978,Domestic,Heat,,,unavailable,AG15
+1978,Domestic,Bioenergy & waste,,,unavailable,AH15
+1978,Domestic,Petroleum,3610.0,41.9843,reported,AI15
+1978,Domestic,Total,38689.0,449.95306999999997,reported,AJ15
+1979,Domestic,Coal,7688.0,89.41144,reported,AB16
+1979,Domestic,Coke and breeze,479.0,5.5707699999999996,reported,AC16
+1979,Domestic,Other solid fuels,1431.0,16.64253,reported,AD16
+1979,Domestic,Natural gas,20718.0,240.95033999999998,reported,AE16
+1979,Domestic,Electricity,7711.0,89.67893,reported,AF16
+1979,Domestic,Heat,,,unavailable,AG16
+1979,Domestic,Bioenergy & waste,,,unavailable,AH16
+1979,Domestic,Petroleum,3539.0,41.15857,reported,AI16
+1979,Domestic,Total,41566.0,483.41258,reported,AJ16
+1980,Domestic,Coal,6575.0,76.46724999999999,reported,AB17
+1980,Domestic,Coke and breeze,401.0,4.6636299999999995,reported,AC17
+1980,Domestic,Other solid fuels,1370.0,15.9331,reported,AD17
+1980,Domestic,Natural gas,21258.0,247.23054,reported,AE17
+1980,Domestic,Electricity,7403.0,86.09689,reported,AF17
+1980,Domestic,Heat,,,unavailable,AG17
+1980,Domestic,Bioenergy & waste,,,unavailable,AH17
+1980,Domestic,Petroleum,2834.0,32.95942,reported,AI17
+1980,Domestic,Total,39841.0,463.35083,reported,AJ17
+1981,Domestic,Coal,6214.0,72.26882,reported,AB18
+1981,Domestic,Coke and breeze,368.0,4.27984,reported,AC18
+1981,Domestic,Other solid fuels,1202.0,13.97926,reported,AD18
+1981,Domestic,Natural gas,22076.0,256.74388,reported,AE18
+1981,Domestic,Electricity,7260.0,84.43379999999999,reported,AF18
+1981,Domestic,Heat,,,unavailable,AG18
+1981,Domestic,Bioenergy & waste,,,unavailable,AH18
+1981,Domestic,Petroleum,2554.0,29.70302,reported,AI18
+1981,Domestic,Total,39674.0,461.40862,reported,AJ18
+1982,Domestic,Coal,6242.0,72.59446,reported,AB19
+1982,Domestic,Coke and breeze,365.0,4.24495,reported,AC19
+1982,Domestic,Other solid fuels,1146.0,13.32798,reported,AD19
+1982,Domestic,Natural gas,21963.0,255.42969,reported,AE19
+1982,Domestic,Electricity,7116.0,82.75908,reported,AF19
+1982,Domestic,Heat,,,unavailable,AG19
+1982,Domestic,Bioenergy & waste,,,unavailable,AH19
+1982,Domestic,Petroleum,2385.0,27.73755,reported,AI19
+1982,Domestic,Total,39218.0,456.10534,reported,AJ19
+1983,Domestic,Coal,5796.0,67.40747999999999,reported,AB20
+1983,Domestic,Coke and breeze,335.0,3.89605,reported,AC20
+1983,Domestic,Other solid fuels,1141.0,13.269829999999999,reported,AD20
+1983,Domestic,Natural gas,22346.0,259.88398,reported,AE20
+1983,Domestic,Electricity,7129.0,82.91027,reported,AF20
+1983,Domestic,Heat,,,unavailable,AG20
+1983,Domestic,Bioenergy & waste,,,unavailable,AH20
+1983,Domestic,Petroleum,2267.0,26.365209999999998,reported,AI20
+1983,Domestic,Total,39014.0,453.73282,reported,AJ20
+1984,Domestic,Coal,4733.0,55.04479,reported,AB21
+1984,Domestic,Coke and breeze,335.0,3.89605,reported,AC21
+1984,Domestic,Other solid fuels,728.0,8.46664,reported,AD21
+1984,Domestic,Natural gas,22502.0,261.69826,reported,AE21
+1984,Domestic,Electricity,7212.0,83.87556,reported,AF21
+1984,Domestic,Heat,,,unavailable,AG21
+1984,Domestic,Bioenergy & waste,,,unavailable,AH21
+1984,Domestic,Petroleum,2385.0,27.73755,reported,AI21
+1984,Domestic,Total,37896.0,440.73048,reported,AJ21
+1985,Domestic,Coal,6290.0,73.1527,reported,AB22
+1985,Domestic,Coke and breeze,385.0,4.47755,reported,AC22
+1985,Domestic,Other solid fuels,957.0,11.129909999999999,reported,AD22
+1985,Domestic,Natural gas,24394.0,283.70222,reported,AE22
+1985,Domestic,Electricity,7582.0,88.17866,reported,AF22
+1985,Domestic,Heat,,,unavailable,AG22
+1985,Domestic,Bioenergy & waste,,,unavailable,AH22
+1985,Domestic,Petroleum,2454.0,28.54002,reported,AI22
+1985,Domestic,Total,42062.0,489.18106,reported,AJ22
+1986,Domestic,Coal,6121.0,71.18723,reported,AB23
+1986,Domestic,Coke and breeze,335.0,3.89605,reported,AC23
+1986,Domestic,Other solid fuels,965.0,11.222949999999999,reported,AD23
+1986,Domestic,Natural gas,25797.0,300.01911,reported,AE23
+1986,Domestic,Electricity,7892.0,91.78396,reported,AF23
+1986,Domestic,Heat,,,unavailable,AG23
+1986,Domestic,Bioenergy & waste,,,unavailable,AH23
+1986,Domestic,Petroleum,2590.0,30.1217,reported,AI23
+1986,Domestic,Total,43700.0,508.231,reported,AJ23
+1987,Domestic,Coal,5189.0,60.34807,reported,AB24
+1987,Domestic,Coke and breeze,315.0,3.66345,reported,AC24
+1987,Domestic,Other solid fuels,1018.0,11.83934,reported,AD24
+1987,Domestic,Natural gas,26450.0,307.6135,reported,AE24
+1987,Domestic,Electricity,8015.0,93.21445,reported,AF24
+1987,Domestic,Heat,,,unavailable,AG24
+1987,Domestic,Bioenergy & waste,,,unavailable,AH24
+1987,Domestic,Petroleum,2474.0,28.77262,reported,AI24
+1987,Domestic,Total,43460.0,505.4398,reported,AJ24
+1988,Domestic,Coal,4741.0,55.13783,reported,AB25
+1988,Domestic,Coke and breeze,300.0,3.489,reported,AC25
+1988,Domestic,Other solid fuels,907.0,10.54841,reported,AD25
+1988,Domestic,Natural gas,25833.0,300.43779,reported,AE25
+1988,Domestic,Electricity,7940.0,92.34219999999999,reported,AF25
+1988,Domestic,Heat,,,unavailable,AG25
+1988,Domestic,Bioenergy & waste,205.0,2.38415,reported,AH25
+1988,Domestic,Petroleum,2441.0,28.38883,reported,AI25
+1988,Domestic,Total,42367.0,492.72821,reported,AJ25
+1989,Domestic,Coal,3719.0,43.25197,reported,AB26
+1989,Domestic,Coke and breeze,239.0,2.77957,reported,AC26
+1989,Domestic,Other solid fuels,815.0,9.47845,reported,AD26
+1989,Domestic,Natural gas,24988.0,290.61044,reported,AE26
+1989,Domestic,Electricity,7935.0,92.28405,reported,AF26
+1989,Domestic,Heat,,,unavailable,AG26
+1989,Domestic,Bioenergy & waste,207.1,2.408573,reported,AH26
+1989,Domestic,Petroleum,2355.0,27.38865,reported,AI26
+1989,Domestic,Total,40258.1,468.20170299999995,reported,AJ26
+1990,Domestic,Coal,3153.0,36.66939,reported,AB27
+1990,Domestic,Coke and breeze,254.0,2.95402,reported,AC27
+1990,Domestic,Other solid fuels,762.0,8.86206,reported,AD27
+1990,Domestic,Natural gas,25835.0,300.46105,reported,AE27
+1990,Domestic,Electricity,8066.0,93.80758,reported,AF27
+1990,Domestic,Heat,,,unavailable,AG27
+1990,Domestic,Bioenergy & waste,205.5,2.389965,reported,AH27
+1990,Domestic,Petroleum,2480.0,28.842399999999998,reported,AI27
+1990,Domestic,Total,40755.5,473.986465,reported,AJ27
+1991,Domestic,Coal,3582.0,41.65866,reported,AB28
+1991,Domestic,Coke and breeze,210.0,2.4423,reported,AC28
+1991,Domestic,Other solid fuels,785.0,9.12955,reported,AD28
+1991,Domestic,Natural gas,28721.0,334.02522999999997,reported,AE28
+1991,Domestic,Electricity,8436.0,98.11068,reported,AF28
+1991,Domestic,Heat,,,unavailable,AG28
+1991,Domestic,Bioenergy & waste,208.7,2.4271809999999996,reported,AH28
+1991,Domestic,Petroleum,2825.0,32.854749999999996,reported,AI28
+1991,Domestic,Total,44767.7,520.6483509999999,reported,AJ28
+1992,Domestic,Coal,3105.0,36.11115,reported,AB29
+1992,Domestic,Coke and breeze,176.0,2.04688,reported,AC29
+1992,Domestic,Other solid fuels,709.0,8.24567,reported,AD29
+1992,Domestic,Natural gas,28389.0,330.16407,reported,AE29
+1992,Domestic,Electricity,8555.0,99.49465,reported,AF29
+1992,Domestic,Heat,,,unavailable,AG29
+1992,Domestic,Bioenergy & waste,243.3,2.829579,reported,AH29
+1992,Domestic,Petroleum,2889.0,33.59907,reported,AI29
+1992,Domestic,Total,44066.3,512.491069,reported,AJ29
+1993,Domestic,Coal,3498.0,40.68174,reported,AB30
+1993,Domestic,Coke and breeze,147.0,1.7096099999999999,reported,AC30
+1993,Domestic,Other solid fuels,751.0,8.73413,reported,AD30
+1993,Domestic,Natural gas,29254.0,340.22402,reported,AE30
+1993,Domestic,Electricity,8639.0,100.47157,reported,AF30
+1993,Domestic,Heat,,,unavailable,AG30
+1993,Domestic,Bioenergy & waste,240.6,2.798178,reported,AH30
+1993,Domestic,Petroleum,3019.0,35.11097,reported,AI30
+1993,Domestic,Total,45548.6,529.7302179999999,reported,AJ30
+1994,Domestic,Coal,2957.0,34.38991,reported,AB31
+1994,Domestic,Coke and breeze,67.0,0.77921,reported,AC31
+1994,Domestic,Other solid fuels,601.0,6.98963,reported,AD31
+1994,Domestic,Natural gas,28355.0,329.76865,reported,AE31
+1994,Domestic,Electricity,8721.0,101.42523,reported,AF31
+1994,Domestic,Heat,,,unavailable,AG31
+1994,Domestic,Bioenergy & waste,241.6,2.809808,reported,AH31
+1994,Domestic,Petroleum,3004.0,34.93652,reported,AI31
+1994,Domestic,Total,43946.6,511.098958,reported,AJ31
+1995,Domestic,Coal,2077.0,24.15551,reported,AB32
+1995,Domestic,Coke and breeze,78.0,0.90714,reported,AC32
+1995,Domestic,Other solid fuels,470.0,5.4661,reported,AD32
+1995,Domestic,Natural gas,28037.0,326.07031,reported,AE32
+1995,Domestic,Electricity,8790.0,102.2277,reported,AF32
+1995,Domestic,Heat,,,unavailable,AG32
+1995,Domestic,Bioenergy & waste,241.7,2.810971,reported,AH32
+1995,Domestic,Petroleum,2997.0,34.855109999999996,reported,AI32
+1995,Domestic,Total,42690.7,496.49284099999994,reported,AJ32
+1996,Domestic,Coal,2084.431109895269,24.241933808081978,reported,AB33
+1996,Domestic,Coke and breeze,128.82869972293875,1.4982777777777776,reported,AC33
+1996,Domestic,Other solid fuels,587.8420273239706,6.836602777777777,reported,AD33
+1996,Domestic,Natural gas,32316.543422184008,375.8414,reported,AE33
+1996,Domestic,Electricity,9243.96774,107.5073448162,reported,AF33
+1996,Domestic,Heat,,,unavailable,AG33
+1996,Domestic,Bioenergy & waste,240.49999999999997,2.7970149999999996,reported,AH33
+1996,Domestic,Petroleum,3517.771823083823,40.911686302464865,reported,AI33
+1996,Domestic,Total,48119.884822210006,559.6342604823024,reported,AJ33
+1997,Domestic,Coal,1992.2624096867032,23.170011824656356,reported,AB34
+1997,Domestic,Coke and breeze,59.076144071844844,0.6870555555555555,reported,AC34
+1997,Domestic,Other solid fuels,418.5742953816757,4.8680190552888885,reported,AD34
+1997,Domestic,Natural gas,29710.404127257094,345.532,reported,AE34
+1997,Domestic,Electricity,8981.513327601031,104.45499999999998,reported,AF34
+1997,Domestic,Heat,,,unavailable,AG34
+1997,Domestic,Bioenergy & waste,224.82,2.6146566,reported,AH34
+1997,Domestic,Petroleum,3388.7388704090476,39.41103306285722,reported,AI34
+1997,Domestic,Total,44775.38917440739,520.7377760983579,reported,AJ34
+1998,Domestic,Coal,1819.0,21.15497,reported,AB35
+1998,Domestic,Coke and breeze,85.41129263399255,0.9933333333333333,reported,AC35
+1998,Domestic,Other solid fuels,439.58870736600744,5.112416666666666,reported,AD35
+1998,Domestic,Natural gas,30601.0,355.88963,reported,AE35
+1998,Domestic,Electricity,9408.0,109.41503999999999,reported,AF35
+1998,Domestic,Heat,,,unavailable,AG35
+1998,Domestic,Bioenergy & waste,230.0,2.6749,reported,AH35
+1998,Domestic,Petroleum,3543.13,41.2066019,reported,AI35
+1998,Domestic,Total,46125.89,536.4441007,reported,AJ35
+1999,Domestic,Coal,1916.0,22.283079999999998,reported,AB36
+1999,Domestic,Coke and breeze,86.12305340594249,1.001611111111111,reported,AC36
+1999,Domestic,Other solid fuels,409.87694659405753,4.766868888888889,reported,AD36
+1999,Domestic,Natural gas,30788.0,358.06444,reported,AE36
+1999,Domestic,Electricity,9485.0,110.31054999999999,reported,AF36
+1999,Domestic,Heat,44.0,0.51172,reported,AG36
+1999,Domestic,Bioenergy & waste,230.0,2.6749,reported,AH36
+1999,Domestic,Petroleum,3162.35,36.778130499999996,reported,AI36
+1999,Domestic,Total,46120.83,536.3852529,reported,AJ36
+2000,Domestic,Coal,1448.3,16.843729,reported,AB37
+2000,Domestic,Coke and breeze,94.66418266934174,1.1009444444444445,reported,AC37
+2000,Domestic,Other solid fuels,365.25581733065826,4.2479251555555555,reported,AD37
+2000,Domestic,Natural gas,31806.45,369.9090135,reported,AE37
+2000,Domestic,Electricity,9616.68,111.8419884,reported,AF37
+2000,Domestic,Heat,44.41,0.5164882999999999,reported,AG37
+2000,Domestic,Bioenergy & waste,236.02,2.7449126,reported,AH37
+2000,Domestic,Petroleum,3239.39,37.6741057,reported,AI37
+2000,Domestic,Total,46851.18,544.8792234,reported,AJ37
+2001,Domestic,Coal,1461.19,16.9936397,reported,AB38
+2001,Domestic,Coke and breeze,47.68797172064584,0.5546111111111112,reported,AC38
+2001,Domestic,Other solid fuels,328.2720282793541,3.817803688888888,reported,AD38
+2001,Domestic,Natural gas,32624.76,379.4259588,reported,AE38
+2001,Domestic,Electricity,9917.2,115.33703600000001,reported,AF38
+2001,Domestic,Heat,31.88,0.3707644,reported,AG38
+2001,Domestic,Bioenergy & waste,240.44,2.7963172,reported,AH38
+2001,Domestic,Petroleum,3526.9,41.017847,reported,AI38
+2001,Domestic,Total,48178.33,560.3139779,reported,AJ38
+2002,Domestic,Coal,1009.08,11.735600400000001,reported,AB39
+2002,Domestic,Coke and breeze,126.73296761109776,1.473904413317067,reported,AC39
+2002,Domestic,Other solid fuels,289.25703238890225,3.364059286682933,reported,AD39
+2002,Domestic,Natural gas,32362.16,376.3719208,reported,AE39
+2002,Domestic,Electricity,10319.38,120.01438939999998,reported,AF39
+2002,Domestic,Heat,33.19,0.38599969999999995,reported,AG39
+2002,Domestic,Bioenergy & waste,243.35,2.8301605,reported,AH39
+2002,Domestic,Petroleum,3087.46,35.9071598,reported,AI39
+2002,Domestic,Total,47470.61,552.0831943,reported,AJ39
+2003,Domestic,Coal,812.73,9.4520499,reported,AB40
+2003,Domestic,Coke and breeze,91.5369980417174,1.0645752872251733,reported,AC40
+2003,Domestic,Other solid fuels,254.67300195828258,2.961847012774826,reported,AD40
+2003,Domestic,Natural gas,33231.84,386.48629919999996,reported,AE40
+2003,Domestic,Electricity,10576.16,123.00074079999999,reported,AF40
+2003,Domestic,Heat,10.83,0.1259529,reported,AG40
+2003,Domestic,Bioenergy & waste,247.06,2.8733078,reported,AH40
+2003,Domestic,Petroleum,3068.18,35.682933399999996,reported,AI40
+2003,Domestic,Total,48293.03,561.6479389,reported,AJ40
+2004,Domestic,Coal,732.89,8.5235107,reported,AB41
+2004,Domestic,Coke and breeze,36.14488076462997,0.4203649632926465,reported,AC41
+2004,Domestic,Other solid fuels,230.36511923537003,2.6791463367073534,reported,AD41
+2004,Domestic,Natural gas,34085.19,396.4107597,reported,AE41
+2004,Domestic,Electricity,10679.32,124.20049159999999,reported,AF41
+2004,Domestic,Heat,51.93,0.6039459,reported,AG41
+2004,Domestic,Bioenergy & waste,251.65,2.9266895,reported,AH41
+2004,Domestic,Petroleum,3265.33,37.9757879,reported,AI41
+2004,Domestic,Total,49332.81,573.7405802999999,reported,AJ41
+2005,Domestic,Coal,473.78,5.5100614,reported,AB42
+2005,Domestic,Coke and breeze,24.483345324877696,0.2847413061283276,reported,AC42
+2005,Domestic,Other solid fuels,198.97665467512232,2.3140984938716724,reported,AD42
+2005,Domestic,Natural gas,32835.68,381.8789584,reported,AE42
+2005,Domestic,Electricity,10809.21,125.71111229999998,reported,AF42
+2005,Domestic,Heat,51.93,0.6039459,reported,AG42
+2005,Domestic,Bioenergy & waste,317.8,3.696014,reported,AH42
+2005,Domestic,Petroleum,3093.55,35.9779865,reported,AI42
+2005,Domestic,Total,47805.42,555.9770345999999,reported,AJ42
+2006,Domestic,Coal,426.03,4.954728899999999,reported,AB43
+2006,Domestic,Coke and breeze,15.896465078352609,0.18487588886124084,reported,AC43
+2006,Domestic,Other solid fuels,199.86353492164739,2.3244129111387593,reported,AD43
+2006,Domestic,Natural gas,31550.13,366.9280119,reported,AE43
+2006,Domestic,Electricity,10722.61,124.7039543,reported,AF43
+2006,Domestic,Heat,51.93,0.6039459,reported,AG43
+2006,Domestic,Bioenergy & waste,357.91,4.1624933,reported,AH43
+2006,Domestic,Petroleum,3250.77,37.8064551,reported,AI43
+2006,Domestic,Total,46575.15,541.6689945,reported,AJ43
+2007,Domestic,Coal,487.1,5.664973,reported,AB44
+2007,Domestic,Coke and breeze,10.585306204197554,0.12310711115481755,reported,AC44
+2007,Domestic,Other solid fuels,182.44469379580244,2.1218317888451823,reported,AD44
+2007,Domestic,Natural gas,30341.18,352.8679234,reported,AE44
+2007,Domestic,Electricity,10582.63,123.07598689999999,reported,AF44
+2007,Domestic,Heat,51.93,0.6039459,reported,AG44
+2007,Domestic,Bioenergy & waste,399.73,4.6488599,reported,AH44
+2007,Domestic,Petroleum,2876.83,33.4575329,reported,AI44
+2007,Domestic,Total,44932.42,522.5640446,reported,AJ44
+2008,Domestic,Coal,514.72,5.9861936,reported,AB45
+2008,Domestic,Coke and breeze,8.794960236532122,0.10228538755086856,reported,AC45
+2008,Domestic,Other solid fuels,229.1650397634679,2.6651894124491315,reported,AD45
+2008,Domestic,Natural gas,30916.06,359.55377780000003,reported,AE45
+2008,Domestic,Electricity,10300.95,119.8000485,reported,AF45
+2008,Domestic,Heat,51.93,0.6039459,reported,AG45
+2008,Domestic,Bioenergy & waste,298.73,3.4742299,reported,AH45
+2008,Domestic,Petroleum,3033.46,35.2791398,reported,AI45
+2008,Domestic,Total,45353.82,527.4649266,reported,AJ45
+2009,Domestic,Coal,514.24,5.9806112,reported,AB46
+2009,Domestic,Coke and breeze,7.331135951084356,0.08526111111111105,reported,AC46
+2009,Domestic,Other solid fuels,191.77886404891566,2.230388188888889,reported,AD46
+2009,Domestic,Natural gas,29681.8,345.19933399999996,reported,AE46
+2009,Domestic,Electricity,10192.67,118.54075209999999,reported,AF46
+2009,Domestic,Heat,51.93,0.6039459,reported,AG46
+2009,Domestic,Bioenergy & waste,329.41,3.8310383000000003,reported,AH46
+2009,Domestic,Petroleum,2897.53,33.698273900000004,reported,AI46
+2009,Domestic,Total,43866.69,510.16960470000004,reported,AJ46
+2010,Domestic,Coal,536.74,6.2422862,reported,AB47
+2010,Domestic,Coke and breeze,7.331135951084362,0.08526111111111113,reported,AC47
+2010,Domestic,Other solid fuels,221.25886404891565,2.573240588888889,reported,AD47
+2010,Domestic,Natural gas,33499.18,389.59546339999997,reported,AE47
+2010,Domestic,Electricity,10217.71,118.83196729999999,reported,AF47
+2010,Domestic,Heat,51.93,0.6039459,reported,AG47
+2010,Domestic,Bioenergy & waste,449.37,5.2261731,reported,AH47
+2010,Domestic,Petroleum,3355.08,39.019580399999995,reported,AI47
+2010,Domestic,Total,48338.61,562.1780343,reported,AJ47
+2011,Domestic,Coal,530.1,6.165063,reported,AB48
+2011,Domestic,Coke and breeze,6.1923187159644595,0.07201666666666666,reported,AC48
+2011,Domestic,Other solid fuels,191.84768128403553,2.231188533333333,reported,AD48
+2011,Domestic,Natural gas,26555.52,308.8406976,reported,AE48
+2011,Domestic,Electricity,9594.7,111.58636100000001,reported,AF48
+2011,Domestic,Heat,51.93,0.6039459,reported,AG48
+2011,Domestic,Bioenergy & waste,419.46,4.8783198,reported,AH48
+2011,Domestic,Petroleum,2750.77,31.9914551,reported,AI48
+2011,Domestic,Total,40100.53,466.3691639,reported,AJ48
+2012,Domestic,Coal,506.35,5.8888505,reported,AB49
+2012,Domestic,Coke and breeze,4.982325403649566,0.057944444444444444,reported,AC49
+2012,Domestic,Other solid fuels,179.80767459635044,2.0911632555555557,reported,AD49
+2012,Domestic,Natural gas,29508.18,343.1801334,reported,AE49
+2012,Domestic,Electricity,9859.21,114.66261229999999,reported,AF49
+2012,Domestic,Heat,51.93,0.6039459,reported,AG49
+2012,Domestic,Bioenergy & waste,510.97,5.9425811,reported,AH49
+2012,Domestic,Petroleum,2790.2,32.450025999999994,reported,AI49
+2012,Domestic,Total,43411.63,504.87725689999996,reported,AJ49
+2013,Domestic,Coal,486.01,5.6522963,reported,AB50
+2013,Domestic,Coke and breeze,4.057036400114671,0.047183333333333626,reported,AC50
+2013,Domestic,Other solid fuels,216.47296359988533,2.517580566666666,reported,AD50
+2013,Domestic,Natural gas,29621.75,344.5009525,reported,AE50
+2013,Domestic,Electricity,9751.72,113.4125036,reported,AF50
+2013,Domestic,Heat,51.93,0.6039459,reported,AG50
+2013,Domestic,Bioenergy & waste,601.8,6.998933999999999,reported,AH50
+2013,Domestic,Petroleum,2938.09,34.1699867,reported,AI50
+2013,Domestic,Total,43671.83,507.9033829,reported,AJ50
+2014,Domestic,Coal,414.98,4.8262174,reported,AB51
+2014,Domestic,Coke and breeze,4.1282124773096465,0.048011111111111185,reported,AC51
+2014,Domestic,Other solid fuels,177.82178752269033,2.0680673888888883,reported,AD51
+2014,Domestic,Natural gas,24393.03,283.6909389,reported,AE51
+2014,Domestic,Electricity,9292.87,108.0760781,reported,AF51
+2014,Domestic,Heat,51.93,0.6039459,reported,AG51
+2014,Domestic,Bioenergy & waste,582.93,6.7794758999999996,reported,AH51
+2014,Domestic,Petroleum,2626.52,30.546427599999998,reported,AI51
+2014,Domestic,Total,37544.22,436.6392786,reported,AJ51
+2015,Domestic,Coal,417.8,4.859014,reported,AB52
+2015,Domestic,Coke and breeze,1.8505780070698052,0.021522222222221835,reported,AC52
+2015,Domestic,Other solid fuels,165.1094219929302,1.9202225777777784,reported,AD52
+2015,Domestic,Natural gas,25587.42,297.5816946,reported,AE52
+2015,Domestic,Electricity,9266.02,107.76381260000001,reported,AF52
+2015,Domestic,Heat,260.44,3.0289172,reported,AG52
+2015,Domestic,Bioenergy & waste,685.52,7.972597599999999,reported,AH52
+2015,Domestic,Petroleum,2642.43,30.7314609,reported,AI52
+2015,Domestic,Total,39026.6,453.87935799999997,reported,AJ52
+2016,Domestic,Coal,400.95,4.6630484999999995,reported,AB53
+2016,Domestic,Coke and breeze,0.0,0.0,reported,AC53
+2016,Domestic,Other solid fuels,167.62,1.9494206,reported,AD53
+2016,Domestic,Natural gas,25999.57,302.37499909999997,reported,AE53
+2016,Domestic,Electricity,9288.48,108.0250224,reported,AF53
+2016,Domestic,Heat,260.44,3.0289172,reported,AG53
+2016,Domestic,Bioenergy & waste,747.7,8.695751,reported,AH53
+2016,Domestic,Petroleum,2663.68,30.978598399999996,reported,AI53
+2016,Domestic,Total,39528.44,459.71575720000004,reported,AJ53
+2017,Domestic,Coal,370.53,4.3092638999999995,reported,AB54
+2017,Domestic,Coke and breeze,0.0,0.0,reported,AC54
+2017,Domestic,Other solid fuels,172.41,2.0051283,reported,AD54
+2017,Domestic,Natural gas,25431.94,295.7734622,reported,AE54
+2017,Domestic,Electricity,9056.1,105.322443,reported,AF54
+2017,Domestic,Heat,268.56,3.1233528,reported,AG54
+2017,Domestic,Bioenergy & waste,781.67,9.090822099999999,reported,AH54
+2017,Domestic,Petroleum,2537.51,29.511241300000002,reported,AI54
+2017,Domestic,Total,38618.73,449.13582990000003,reported,AJ54
+2018,Domestic,Coal,358.49,4.1692387,reported,AB55
+2018,Domestic,Coke and breeze,0.0,0.0,reported,AC55
+2018,Domestic,Other solid fuels,170.87,1.9872181,reported,AD55
+2018,Domestic,Natural gas,26044.91,302.90230329999997,reported,AE55
+2018,Domestic,Electricity,9111.03,105.96127890000001,reported,AF55
+2018,Domestic,Heat,269.86,3.1384718,reported,AG55
+2018,Domestic,Bioenergy & waste,879.19,10.2249797,reported,AH55
+2018,Domestic,Petroleum,2595.95,30.190898499999996,reported,AI55
+2018,Domestic,Total,39430.29,458.5742727,reported,AJ55
+2019,Domestic,Coal,336.98,3.9190774,reported,AB56
+2019,Domestic,Coke and breeze,0.0,0.0,reported,AC56
+2019,Domestic,Other solid fuels,142.02,1.6516926,reported,AD56
+2019,Domestic,Natural gas,25144.35,292.4287905,reported,AE56
+2019,Domestic,Electricity,8940.58,103.9789454,reported,AF56
+2019,Domestic,Heat,260.44,3.0289172,reported,AG56
+2019,Domestic,Bioenergy & waste,941.52,10.949877599999999,reported,AH56
+2019,Domestic,Petroleum,2572.89,29.922710699999996,reported,AI56
+2019,Domestic,Total,38338.78,445.8800114,reported,AJ56
+2020,Domestic,Coal,320.85,3.7314855000000002,reported,AB57
+2020,Domestic,Coke and breeze,0.0,0.0,reported,AC57
+2020,Domestic,Other solid fuels,140.85,1.6380854999999999,reported,AD57
+2020,Domestic,Natural gas,25813.03,300.20553889999996,reported,AE57
+2020,Domestic,Electricity,9249.64,107.57331319999999,reported,AF57
+2020,Domestic,Heat,272.24,3.1661512,reported,AG57
+2020,Domestic,Bioenergy & waste,1021.5,11.880044999999999,reported,AH57
+2020,Domestic,Petroleum,2572.43,29.9173609,reported,AI57
+2020,Domestic,Total,39390.54,458.1119802,reported,AJ57
+2021,Domestic,Coal,323.4,3.7611419999999995,reported,AB58
+2021,Domestic,Coke and breeze,0.0,0.0,reported,AC58
+2021,Domestic,Other solid fuels,150.88,1.7547343999999998,reported,AD58
+2021,Domestic,Natural gas,27411.55,318.79632649999996,reported,AE58
+2021,Domestic,Electricity,9166.46,106.60592979999998,reported,AF58
+2021,Domestic,Heat,272.38,3.1677793999999997,reported,AG58
+2021,Domestic,Bioenergy & waste,1147.02,13.339842599999999,reported,AH58
+2021,Domestic,Petroleum,2453.1,28.529553,reported,AI58
+2021,Domestic,Total,40924.79,475.9553077,reported,AJ58
+2022,Domestic,Coal,304.32,3.5392416,reported,AB59
+2022,Domestic,Coke and breeze,0.0,0.0,reported,AC59
+2022,Domestic,Other solid fuels,159.92,1.8598696,reported,AD59
+2022,Domestic,Natural gas,22321.6,259.60020799999995,reported,AE59
+2022,Domestic,Electricity,8258.25,96.0434475,reported,AF59
+2022,Domestic,Heat,271.21,3.1541722999999995,reported,AG59
+2022,Domestic,Bioenergy & waste,1170.91,13.617683300000001,reported,AH59
+2022,Domestic,Petroleum,1907.43,22.183410900000002,reported,AI59
+2022,Domestic,Total,34393.64,399.9980332,reported,AJ59
+2023,Domestic,Coal,139.84,1.6263392,reported,AB60
+2023,Domestic,Coke and breeze,0.0,0.0,reported,AC60
+2023,Domestic,Other solid fuels,127.42,1.4818946,reported,AD60
+2023,Domestic,Natural gas,20888.36,242.9316268,reported,AE60
+2023,Domestic,Electricity,7968.09,92.6688867,reported,AF60
+2023,Domestic,Heat,270.84,3.1498691999999995,reported,AG60
+2023,Domestic,Bioenergy & waste,1277.5,14.857325,reported,AH60
+2023,Domestic,Petroleum,2065.15,24.0176945,reported,AI60
+2023,Domestic,Total,32737.19,380.7335197,reported,AJ60
+2024,Domestic,Coal,28.58,0.3323854,reported,AB61
+2024,Domestic,Coke and breeze,0.0,0.0,reported,AC61
+2024,Domestic,Other solid fuels,142.28,1.6547163999999999,reported,AD61
+2024,Domestic,Natural gas,21753.64,252.9948332,reported,AE61
+2024,Domestic,Electricity,8115.11,94.37872929999999,reported,AF61
+2024,Domestic,Heat,272.65,3.1709194999999997,reported,AG61
+2024,Domestic,Bioenergy & waste,1346.26,15.6570038,reported,AH61
+2024,Domestic,Petroleum,2335.19,27.1582597,reported,AI61
+2024,Domestic,Total,33993.71,395.3468473,reported,AJ61
+1970,Services,Coal,2723.0,31.66849,reported,AL7
+1970,Services,Coke and breeze,1499.0,17.43337,reported,AM7
+1970,Services,Natural gas,1919.0,22.31797,reported,AN7
+1970,Services,Electricity,3408.0,39.63504,reported,AO7
+1970,Services,Heat,,,unavailable,AP7
+1970,Services,Bioenergy & waste,,,unavailable,AQ7
+1970,Services,Petroleum,9038.0,105.11194,reported,AR7
+1970,Services,Total,18586.0,216.15518,reported,AS7
+1971,Services,Coal,2328.0,27.07464,reported,AL8
+1971,Services,Coke and breeze,688.0,8.00144,reported,AM8
+1971,Services,Natural gas,2181.0,25.36503,reported,AN8
+1971,Services,Electricity,3534.0,41.10042,reported,AO8
+1971,Services,Heat,,,unavailable,AP8
+1971,Services,Bioenergy & waste,,,unavailable,AQ8
+1971,Services,Petroleum,9184.0,106.80991999999999,reported,AR8
+1971,Services,Total,17915.0,208.35145,reported,AS8
+1972,Services,Coal,2013.0,23.411189999999998,reported,AL9
+1972,Services,Coke and breeze,537.0,6.24531,reported,AM9
+1972,Services,Natural gas,2509.0,29.179669999999998,reported,AN9
+1972,Services,Electricity,3650.0,42.4495,reported,AO9
+1972,Services,Heat,,,unavailable,AP9
+1972,Services,Bioenergy & waste,,,unavailable,AQ9
+1972,Services,Petroleum,9487.0,110.33381,reported,AR9
+1972,Services,Total,18195.0,211.60784999999998,reported,AS9
+1973,Services,Coal,1731.0,20.131529999999998,reported,AL10
+1973,Services,Coke and breeze,602.0,7.00126,reported,AM10
+1973,Services,Natural gas,2728.0,31.72664,reported,AN10
+1973,Services,Electricity,3940.0,45.8222,reported,AO10
+1973,Services,Heat,,,unavailable,AP10
+1973,Services,Bioenergy & waste,,,unavailable,AQ10
+1973,Services,Petroleum,9585.0,111.47355,reported,AR10
+1973,Services,Total,18586.0,216.15518,reported,AS10
+1974,Services,Coal,1685.0,19.59655,reported,AL11
+1974,Services,Coke and breeze,567.0,6.5942099999999995,reported,AM11
+1974,Services,Natural gas,3197.0,37.18111,reported,AN11
+1974,Services,Electricity,3642.0,42.35646,reported,AO11
+1974,Services,Heat,,,unavailable,AP11
+1974,Services,Bioenergy & waste,,,unavailable,AQ11
+1974,Services,Petroleum,8401.0,97.70363,reported,AR11
+1974,Services,Total,17492.0,203.43196,reported,AS11
+1975,Services,Coal,1234.0,14.35142,reported,AL12
+1975,Services,Coke and breeze,408.0,4.7450399999999995,reported,AM12
+1975,Services,Natural gas,3393.0,39.460589999999996,reported,AN12
+1975,Services,Electricity,3894.0,45.28722,reported,AO12
+1975,Services,Heat,,,unavailable,AP12
+1975,Services,Bioenergy & waste,,,unavailable,AQ12
+1975,Services,Petroleum,8431.0,98.05253,reported,AR12
+1975,Services,Total,17360.0,201.89679999999998,reported,AS12
+1976,Services,Coal,1300.0,15.119,reported,AL13
+1976,Services,Coke and breeze,335.0,3.89605,reported,AM13
+1976,Services,Natural gas,3831.0,44.55453,reported,AN13
+1976,Services,Electricity,4023.0,46.78749,reported,AO13
+1976,Services,Heat,,,unavailable,AP13
+1976,Services,Bioenergy & waste,,,unavailable,AQ13
+1976,Services,Petroleum,8668.0,100.80884,reported,AR13
+1976,Services,Total,18157.0,211.16591,reported,AS13
+1977,Services,Coal,1370.0,15.9331,reported,AL14
+1977,Services,Coke and breeze,315.0,3.66345,reported,AM14
+1977,Services,Natural gas,3998.0,46.496739999999996,reported,AN14
+1977,Services,Electricity,4257.0,49.50891,reported,AO14
+1977,Services,Heat,,,unavailable,AP14
+1977,Services,Bioenergy & waste,,,unavailable,AQ14
+1977,Services,Petroleum,9157.0,106.49591,reported,AR14
+1977,Services,Total,19097.0,222.09811,reported,AS14
+1978,Services,Coal,1300.0,15.119,reported,AL15
+1978,Services,Coke and breeze,275.0,3.19825,reported,AM15
+1978,Services,Natural gas,4393.0,51.09059,reported,AN15
+1978,Services,Electricity,4481.0,52.11403,reported,AO15
+1978,Services,Heat,,,unavailable,AP15
+1978,Services,Bioenergy & waste,,,unavailable,AQ15
+1978,Services,Petroleum,8764.0,101.92532,reported,AR15
+1978,Services,Total,19213.0,223.44719,reported,AS15
+1979,Services,Coal,1307.0,15.20041,reported,AL16
+1979,Services,Coke and breeze,285.0,3.31455,reported,AM16
+1979,Services,Natural gas,4955.0,57.62665,reported,AN16
+1979,Services,Electricity,4731.0,55.02153,reported,AO16
+1979,Services,Heat,,,unavailable,AP16
+1979,Services,Bioenergy & waste,,,unavailable,AQ16
+1979,Services,Petroleum,8754.0,101.80902,reported,AR16
+1979,Services,Total,20031.0,232.96053,reported,AS16
+1980,Services,Coal,1154.0,13.42102,reported,AL17
+1980,Services,Coke and breeze,237.0,2.75631,reported,AM17
+1980,Services,Natural gas,5194.0,60.40622,reported,AN17
+1980,Services,Electricity,4733.0,55.04479,reported,AO17
+1980,Services,Heat,,,unavailable,AP17
+1980,Services,Bioenergy & waste,,,unavailable,AQ17
+1980,Services,Petroleum,7403.0,86.09689,reported,AR17
+1980,Services,Total,18721.0,217.72522999999998,reported,AS17
+1981,Services,Coal,1174.0,13.65362,reported,AL18
+1981,Services,Coke and breeze,204.0,2.3725199999999997,reported,AM18
+1981,Services,Natural gas,5315.0,61.813449999999996,reported,AN18
+1981,Services,Electricity,4804.0,55.87052,reported,AO18
+1981,Services,Heat,,,unavailable,AP18
+1981,Services,Bioenergy & waste,,,unavailable,AQ18
+1981,Services,Petroleum,7096.0,82.52647999999999,reported,AR18
+1981,Services,Total,18592.0,216.22495999999998,reported,AS18
+1982,Services,Coal,1222.0,14.21186,reported,AL19
+1982,Services,Coke and breeze,212.0,2.46556,reported,AM19
+1982,Services,Natural gas,5486.0,63.80218,reported,AN19
+1982,Services,Electricity,4867.0,56.60321,reported,AO19
+1982,Services,Heat,,,unavailable,AP19
+1982,Services,Bioenergy & waste,,,unavailable,AQ19
+1982,Services,Petroleum,6678.0,77.66514,reported,AR19
+1982,Services,Total,18464.0,214.73632,reported,AS19
+1983,Services,Coal,1166.0,13.56058,reported,AL20
+1983,Services,Coke and breeze,257.0,2.9889099999999997,reported,AM20
+1983,Services,Natural gas,5915.0,68.79145,reported,AN20
+1983,Services,Electricity,5106.0,59.38278,reported,AO20
+1983,Services,Heat,,,unavailable,AP20
+1983,Services,Bioenergy & waste,,,unavailable,AQ20
+1983,Services,Petroleum,6403.0,74.46688999999999,reported,AR20
+1983,Services,Total,18847.0,219.19061,reported,AS20
+1984,Services,Coal,1141.0,13.269829999999999,reported,AL21
+1984,Services,Coke and breeze,252.0,2.93076,reported,AM21
+1984,Services,Natural gas,6101.0,70.95463,reported,AN21
+1984,Services,Electricity,5063.0,58.88269,reported,AO21
+1984,Services,Heat,,,unavailable,AP21
+1984,Services,Bioenergy & waste,,,unavailable,AQ21
+1984,Services,Petroleum,6381.0,74.21103,reported,AR21
+1984,Services,Total,18938.0,220.24894,reported,AS21
+1985,Services,Coal,1123.0,13.06049,reported,AL22
+1985,Services,Coke and breeze,297.0,3.45411,reported,AM22
+1985,Services,Natural gas,6718.0,78.13034,reported,AN22
+1985,Services,Electricity,5446.0,63.33698,reported,AO22
+1985,Services,Heat,,,unavailable,AP22
+1985,Services,Bioenergy & waste,,,unavailable,AQ22
+1985,Services,Petroleum,6018.0,69.98934,reported,AR22
+1985,Services,Total,19603.0,227.98289,reported,AS22
+1986,Services,Coal,982.0,11.42066,reported,AL23
+1986,Services,Coke and breeze,390.0,4.5357,reported,AM23
+1986,Services,Natural gas,7308.0,84.99204,reported,AN23
+1986,Services,Electricity,5731.0,66.65153,reported,AO23
+1986,Services,Heat,,,unavailable,AP23
+1986,Services,Bioenergy & waste,,,unavailable,AQ23
+1986,Services,Petroleum,5723.0,66.55848999999999,reported,AR23
+1986,Services,Total,20135.0,234.17005,reported,AS23
+1987,Services,Coal,935.0,10.87405,reported,AL24
+1987,Services,Coke and breeze,368.0,4.27984,reported,AM24
+1987,Services,Natural gas,7534.0,87.62042,reported,AN24
+1987,Services,Electricity,5965.0,69.37295,reported,AO24
+1987,Services,Heat,,,unavailable,AP24
+1987,Services,Bioenergy & waste,,,unavailable,AQ24
+1987,Services,Petroleum,4988.0,58.010439999999996,reported,AR24
+1987,Services,Total,19790.0,230.1577,reported,AS24
+1988,Services,Coal,831.0,9.66453,reported,AL25
+1988,Services,Coke and breeze,264.0,3.0703199999999997,reported,AM25
+1988,Services,Natural gas,7569.0,88.02747,reported,AN25
+1988,Services,Electricity,6240.0,72.5712,reported,AO25
+1988,Services,Heat,,,unavailable,AP25
+1988,Services,Bioenergy & waste,138.0,1.60494,reported,AQ25
+1988,Services,Petroleum,5008.0,58.24304,reported,AR25
+1988,Services,Total,20050.0,233.1815,reported,AS25
+1989,Services,Coal,698.0,8.11774,reported,AL26
+1989,Services,Coke and breeze,119.0,1.38397,reported,AM26
+1989,Services,Natural gas,7278.0,84.64314,reported,AN26
+1989,Services,Electricity,6497.0,75.56011,reported,AO26
+1989,Services,Heat,,,unavailable,AP26
+1989,Services,Bioenergy & waste,138.3,1.608429,reported,AQ26
+1989,Services,Petroleum,4345.0,50.53235,reported,AR26
+1989,Services,Total,19075.3,221.84573899999998,reported,AS26
+1990,Services,Coal,795.0,9.245849999999999,reported,AL27
+1990,Services,Coke and breeze,127.0,1.47701,reported,AM27
+1990,Services,Natural gas,7329.0,85.23627,reported,AN27
+1990,Services,Electricity,6426.0,74.73438,reported,AO27
+1990,Services,Heat,,,unavailable,AP27
+1990,Services,Bioenergy & waste,138.6,1.611918,reported,AQ27
+1990,Services,Petroleum,4402.0,51.19526,reported,AR27
+1990,Services,Total,19217.6,223.50068799999997,reported,AS27
+1991,Services,Coal,753.0,8.75739,reported,AL28
+1991,Services,Coke and breeze,105.0,1.22115,reported,AM28
+1991,Services,Natural gas,8640.0,100.4832,reported,AN28
+1991,Services,Electricity,6717.0,78.11871,reported,AO28
+1991,Services,Heat,,,unavailable,AP28
+1991,Services,Bioenergy & waste,149.1,1.734033,reported,AQ28
+1991,Services,Petroleum,4456.0,51.82328,reported,AR28
+1991,Services,Total,20820.1,242.13776299999998,reported,AS28
+1992,Services,Coal,622.0,7.23386,reported,AL29
+1992,Services,Coke and breeze,88.0,1.02344,reported,AM29
+1992,Services,Natural gas,8585.0,99.84355,reported,AN29
+1992,Services,Electricity,6996.0,81.36348,reported,AO29
+1992,Services,Heat,,,unavailable,AP29
+1992,Services,Bioenergy & waste,150.2,1.7468259999999998,reported,AQ29
+1992,Services,Petroleum,4518.0,52.54434,reported,AR29
+1992,Services,Total,20959.2,243.755496,reported,AS29
+1993,Services,Coal,566.0,6.58258,reported,AL30
+1993,Services,Coke and breeze,74.0,0.8606199999999999,reported,AM30
+1993,Services,Natural gas,8504.0,98.90151999999999,reported,AN30
+1993,Services,Electricity,6999.0,81.39837,reported,AO30
+1993,Services,Heat,,,unavailable,AP30
+1993,Services,Bioenergy & waste,145.5,1.692165,reported,AQ30
+1993,Services,Petroleum,4446.0,51.70698,reported,AR30
+1993,Services,Total,20734.5,241.142235,reported,AS30
+1994,Services,Coal,496.0,5.76848,reported,AL31
+1994,Services,Coke and breeze,34.0,0.39542,reported,AM31
+1994,Services,Natural gas,8695.0,101.12285,reported,AN31
+1994,Services,Electricity,6951.0,80.84013,reported,AO31
+1994,Services,Heat,,,unavailable,AP31
+1994,Services,Bioenergy & waste,172.0,2.00036,reported,AQ31
+1994,Services,Petroleum,4289.0,49.88107,reported,AR31
+1994,Services,Total,20637.0,240.00831,reported,AS31
+1995,Services,Coal,362.0,4.2100599999999995,reported,AL32
+1995,Services,Coke and breeze,39.0,0.45357,reported,AM32
+1995,Services,Natural gas,9374.0,109.01962,reported,AN32
+1995,Services,Electricity,7199.0,83.72437,reported,AO32
+1995,Services,Heat,,,unavailable,AP32
+1995,Services,Bioenergy & waste,188.8,2.195744,reported,AQ32
+1995,Services,Petroleum,4016.0,46.70608,reported,AR32
+1995,Services,Total,21178.8,246.30944399999998,reported,AS32
+1996,Services,Coal,384.6847976015233,4.473884196105716,reported,AL33
+1996,Services,Coke and breeze,0.0,0.0,reported,AM33
+1996,Services,Natural gas,10138.22871883061,117.9076,reported,AN33
+1996,Services,Electricity,7494.8766,87.16541485799999,reported,AO33
+1996,Services,Heat,,,unavailable,AP33
+1996,Services,Bioenergy & waste,181.30000000000004,2.1085190000000003,reported,AQ33
+1996,Services,Petroleum,3908.670189990327,45.457834309587504,reported,AR33
+1996,Services,Total,22107.76030642246,257.1132523636932,reported,AS33
+1997,Services,Coal,375.4288246741428,4.36623723096028,reported,AL34
+1997,Services,Coke and breeze,0.0,0.0,reported,AM34
+1997,Services,Natural gas,9697.076526225286,112.77700000000007,reported,AN34
+1997,Services,Electricity,7859.329320722267,91.40399999999997,reported,AO34
+1997,Services,Heat,,,unavailable,AP34
+1997,Services,Bioenergy & waste,173.63439380911439,2.019368,reported,AQ34
+1997,Services,Petroleum,3361.516395428313,39.09443567883128,reported,AR34
+1997,Services,Total,21466.985460859127,249.66104090979164,reported,AS34
+1998,Services,Coal,290.83,3.3823529,reported,AL35
+1998,Services,Coke and breeze,0.0,0.0,reported,AM35
+1998,Services,Natural gas,10113.710000000001,117.6224473,reported,AN35
+1998,Services,Electricity,7788.19,90.57664969999999,reported,AO35
+1998,Services,Heat,,,unavailable,AP35
+1998,Services,Bioenergy & waste,174.33999999999997,2.0275741999999997,reported,AQ35
+1998,Services,Petroleum,3144.0499999999997,36.5653015,reported,AR35
+1998,Services,Total,21511.13,250.1744419,reported,AS35
+1999,Services,Coal,188.69,2.1944646999999997,reported,AL36
+1999,Services,Coke and breeze,0.0,0.0,reported,AM36
+1999,Services,Natural gas,9156.15,106.4860245,reported,AN36
+1999,Services,Electricity,7985.71,92.8738073,reported,AO36
+1999,Services,Heat,1368.55,15.916236499999998,reported,AP36
+1999,Services,Bioenergy & waste,174.8,2.032924,reported,AQ36
+1999,Services,Petroleum,2463.9700000000003,28.655971100000002,reported,AR36
+1999,Services,Total,21337.9,248.15977700000002,reported,AS36
+2000,Services,Coal,57.150000000000006,0.6646545,reported,AL37
+2000,Services,Coke and breeze,0.0,0.0,reported,AM37
+2000,Services,Natural gas,9497.51,110.4560413,reported,AN37
+2000,Services,Electricity,8154.94,94.8419522,reported,AO37
+2000,Services,Heat,1371.0900000000001,15.945776700000001,reported,AP37
+2000,Services,Bioenergy & waste,171.98000000000002,2.0001274,reported,AQ37
+2000,Services,Petroleum,2294.21,26.6816623,reported,AR37
+2000,Services,Total,21546.89,250.59033069999998,reported,AS37
+2001,Services,Coal,47.459999999999994,0.5519597999999999,reported,AL38
+2001,Services,Coke and breeze,0.0,0.0,reported,AM38
+2001,Services,Natural gas,9725.800000000001,113.11105400000001,reported,AN38
+2001,Services,Electricity,8359.33,97.2190079,reported,AO38
+2001,Services,Heat,1293.97,15.0488711,reported,AP38
+2001,Services,Bioenergy & waste,172.53,2.0065239,reported,AQ38
+2001,Services,Petroleum,2568.29,29.8692127,reported,AR38
+2001,Services,Total,22167.49,257.8079087,reported,AS38
+2002,Services,Coal,14.48,0.1684024,reported,AL39
+2002,Services,Coke and breeze,0.0,0.0,reported,AM39
+2002,Services,Natural gas,8670.130000000001,100.83361190000001,reported,AN39
+2002,Services,Electricity,8148.3099999999995,94.76484529999999,reported,AO39
+2002,Services,Heat,730.01,8.490016299999999,reported,AP39
+2002,Services,Bioenergy & waste,188.27,2.1895801,reported,AQ39
+2002,Services,Petroleum,1805.0800000000002,20.9930804,reported,AR39
+2002,Services,Total,19556.32,227.4400016,reported,AS39
+2003,Services,Coal,17.340000000000003,0.20166420000000004,reported,AL40
+2003,Services,Coke and breeze,0.0,0.0,reported,AM40
+2003,Services,Natural gas,9177.48,106.7340924,reported,AN40
+2003,Services,Electricity,8231.029999999999,95.72687889999999,reported,AO40
+2003,Services,Heat,647.74,7.5332162,reported,AP40
+2003,Services,Bioenergy & waste,196.02,2.2797126,reported,AQ40
+2003,Services,Petroleum,1144.52,13.3107676,reported,AR40
+2003,Services,Total,19414.14,225.7864482,reported,AS40
+2004,Services,Coal,19.41,0.2257383,reported,AL41
+2004,Services,Coke and breeze,0.0,0.0,reported,AM41
+2004,Services,Natural gas,9757.09,113.47495669999999,reported,AN41
+2004,Services,Electricity,8531.57,99.2221591,reported,AO41
+2004,Services,Heat,373.31,4.3415953,reported,AP41
+2004,Services,Bioenergy & waste,197.68,2.2990184,reported,AQ41
+2004,Services,Petroleum,1437.79,16.7214977,reported,AR41
+2004,Services,Total,20316.84,236.2848492,reported,AS41
+2005,Services,Coal,38.09,0.4429867,reported,AL42
+2005,Services,Coke and breeze,0.0,0.0,reported,AM42
+2005,Services,Natural gas,9526.330000000002,110.79121790000002,reported,AN42
+2005,Services,Electricity,8846.1,102.880143,reported,AO42
+2005,Services,Heat,385.53999999999996,4.4838302,reported,AP42
+2005,Services,Bioenergy & waste,204.89,2.3828707,reported,AQ42
+2005,Services,Petroleum,1773.48,20.6255724,reported,AR42
+2005,Services,Total,20774.430000000004,241.60662090000005,reported,AS42
+2006,Services,Coal,23.880000000000003,0.27772440000000004,reported,AL43
+2006,Services,Coke and breeze,0.0,0.0,reported,AM43
+2006,Services,Natural gas,8654.65,100.65357949999999,reported,AN43
+2006,Services,Electricity,8738.37,101.6272431,reported,AO43
+2006,Services,Heat,383.9,4.464757,reported,AP43
+2006,Services,Bioenergy & waste,192.02,2.2331926,reported,AQ43
+2006,Services,Petroleum,1529.65,17.7898295,reported,AR43
+2006,Services,Total,19522.879999999997,227.05109439999995,reported,AS43
+2007,Services,Coal,18.56,0.21585279999999998,reported,AL44
+2007,Services,Coke and breeze,0.0,0.0,reported,AM44
+2007,Services,Natural gas,8153.669999999999,94.82718209999999,reported,AN44
+2007,Services,Electricity,8754.89,101.8193707,reported,AO44
+2007,Services,Heat,390.2,4.5380259999999994,reported,AP44
+2007,Services,Bioenergy & waste,197.25,2.2940175,reported,AQ44
+2007,Services,Petroleum,1500.7999999999997,17.454303999999997,reported,AR44
+2007,Services,Total,19015.78,221.1535214,reported,AS44
+2008,Services,Coal,20.78,0.2416714,reported,AL45
+2008,Services,Coke and breeze,0.0,0.0,reported,AM45
+2008,Services,Natural gas,9556.57,111.1429091,reported,AN45
+2008,Services,Electricity,8935.300000000001,103.917539,reported,AO45
+2008,Services,Heat,392.83,4.5686129,reported,AP45
+2008,Services,Bioenergy & waste,955.9300000000001,11.117465900000001,reported,AQ45
+2008,Services,Petroleum,1411.1100000000001,16.4112093,reported,AR45
+2008,Services,Total,21272.51,247.3992913,reported,AS45
+2009,Services,Coal,53.09,0.6174367000000001,reported,AL46
+2009,Services,Coke and breeze,0.0,0.0,reported,AM46
+2009,Services,Natural gas,8000.1900000000005,93.0422097,reported,AN46
+2009,Services,Electricity,8548.44,99.4183572,reported,AO46
+2009,Services,Heat,391.56,4.5538428,reported,AP46
+2009,Services,Bioenergy & waste,968.1500000000001,11.2595845,reported,AQ46
+2009,Services,Petroleum,4013.83,46.680842899999995,reported,AR46
+2009,Services,Total,21975.27,255.5723901,reported,AS46
+2010,Services,Coal,27.599999999999998,0.32098799999999994,reported,AL47
+2010,Services,Coke and breeze,0.0,0.0,reported,AM47
+2010,Services,Natural gas,8735.840000000002,101.59781920000002,reported,AN47
+2010,Services,Electricity,8718.859999999999,101.40034179999998,reported,AO47
+2010,Services,Heat,392.3,4.562449,reported,AP47
+2010,Services,Bioenergy & waste,1062.47,12.3565261,reported,AQ47
+2010,Services,Petroleum,4289.37,49.885373099999995,reported,AR47
+2010,Services,Total,23226.440000000002,270.12349720000003,reported,AS47
+2011,Services,Coal,28.060000000000002,0.3263378,reported,AL48
+2011,Services,Coke and breeze,0.0,0.0,reported,AM48
+2011,Services,Natural gas,7344.44,85.4158372,reported,AN48
+2011,Services,Electricity,8569.689999999999,99.66549469999998,reported,AO48
+2011,Services,Heat,384.77000000000004,4.4748751,reported,AP48
+2011,Services,Bioenergy & waste,1040.64,12.102643200000001,reported,AQ48
+2011,Services,Petroleum,3946.83,45.901632899999996,reported,AR48
+2011,Services,Total,21314.430000000004,247.88682090000003,reported,AS48
+2012,Services,Coal,16.97,0.19736109999999998,reported,AL49
+2012,Services,Coke and breeze,0.0,0.0,reported,AM49
+2012,Services,Natural gas,8523.44,99.1276072,reported,AN49
+2012,Services,Electricity,8656.320000000002,100.67300160000002,reported,AO49
+2012,Services,Heat,397.79,4.6262977,reported,AP49
+2012,Services,Bioenergy & waste,1086.29,12.6335527,reported,AQ49
+2012,Services,Petroleum,4039.7200000000003,46.9819436,reported,AR49
+2012,Services,Total,22720.530000000002,264.2397639,reported,AS49
+2013,Services,Coal,25.06,0.2914478,reported,AL50
+2013,Services,Coke and breeze,0.0,0.0,reported,AM50
+2013,Services,Natural gas,8777.95,102.0875585,reported,AN50
+2013,Services,Electricity,8729.65,101.52582949999999,reported,AO50
+2013,Services,Heat,400.83,4.6616529,reported,AP50
+2013,Services,Bioenergy & waste,1257.73,14.6273999,reported,AQ50
+2013,Services,Petroleum,4145.71,48.2146073,reported,AR50
+2013,Services,Total,23336.919999999995,271.40837959999993,reported,AS50
+2014,Services,Coal,25.55,0.2971465,reported,AL51
+2014,Services,Coke and breeze,0.0,0.0,reported,AM51
+2014,Services,Natural gas,7381.2300000000005,85.8437049,reported,AN51
+2014,Services,Electricity,8357.74,97.2005162,reported,AO51
+2014,Services,Heat,476.04,5.5363452,reported,AP51
+2014,Services,Bioenergy & waste,1425.46,16.5780998,reported,AQ51
+2014,Services,Petroleum,3946.16,45.8938408,reported,AR51
+2014,Services,Total,21612.190000000002,251.34976970000002,reported,AS51
+2015,Services,Coal,26.520000000000003,0.3084276,reported,AL52
+2015,Services,Coke and breeze,0.0,0.0,reported,AM52
+2015,Services,Natural gas,7890.249999999999,91.76360749999999,reported,AN52
+2015,Services,Electricity,8448.95,98.2612885,reported,AO52
+2015,Services,Heat,297.62,3.4613206,reported,AP52
+2015,Services,Bioenergy & waste,1088.36,12.6576268,reported,AQ52
+2015,Services,Petroleum,3996.6800000000003,46.4813884,reported,AR52
+2015,Services,Total,21748.36,252.9334268,reported,AS52
+2016,Services,Coal,28.290000000000003,0.32901270000000005,reported,AL53
+2016,Services,Coke and breeze,0.0,0.0,reported,AM53
+2016,Services,Natural gas,8015.070000000001,93.2152641,reported,AN53
+2016,Services,Electricity,8426.67,98.0021721,reported,AO53
+2016,Services,Heat,311.93,3.6277459,reported,AP53
+2016,Services,Bioenergy & waste,1119.8,13.023273999999999,reported,AQ53
+2016,Services,Petroleum,3997.6499999999996,46.4926695,reported,AR53
+2016,Services,Total,21899.42,254.69025459999997,reported,AS53
+2017,Services,Coal,26.870000000000005,0.31249810000000006,reported,AL54
+2017,Services,Coke and breeze,0.0,0.0,reported,AM54
+2017,Services,Natural gas,7959.160000000001,92.5650308,reported,AN54
+2017,Services,Electricity,8336.94,96.9586122,reported,AO54
+2017,Services,Heat,293.15,3.4093344999999995,reported,AP54
+2017,Services,Bioenergy & waste,1272.5899999999997,14.800221699999996,reported,AQ54
+2017,Services,Petroleum,3922.97,45.624141099999996,reported,AR54
+2017,Services,Total,21811.690000000002,253.66995470000003,reported,AS54
+2018,Services,Coal,26.35,0.3064505,reported,AL55
+2018,Services,Coke and breeze,0.0,0.0,reported,AM55
+2018,Services,Natural gas,8408.84,97.7948092,reported,AN55
+2018,Services,Electricity,8325.87,96.82986810000001,reported,AO55
+2018,Services,Heat,309.77,3.6026250999999996,reported,AP55
+2018,Services,Bioenergy & waste,1314.49,15.2875187,reported,AQ55
+2018,Services,Petroleum,3958.88,46.0417744,reported,AR55
+2018,Services,Total,22344.210000000003,259.8631623,reported,AS55
+2019,Services,Coal,21.509999999999998,0.2501613,reported,AL56
+2019,Services,Coke and breeze,0.0,0.0,reported,AM56
+2019,Services,Natural gas,8393.84,97.6203592,reported,AN56
+2019,Services,Electricity,8139.41,94.6613383,reported,AO56
+2019,Services,Heat,290.81,3.3821203,reported,AP56
+2019,Services,Bioenergy & waste,1373.3799999999999,15.972409399999998,reported,AQ56
+2019,Services,Petroleum,3933.31,45.7443953,reported,AR56
+2019,Services,Total,22152.29,257.6311327,reported,AS56
+2020,Services,Coal,21.47,0.24969609999999998,reported,AL57
+2020,Services,Coke and breeze,0.0,0.0,reported,AM57
+2020,Services,Natural gas,7684.25,89.3678275,reported,AN57
+2020,Services,Electricity,6902.73,80.2787499,reported,AO57
+2020,Services,Heat,324.05,3.7687015,reported,AP57
+2020,Services,Bioenergy & waste,1401.6799999999998,16.3015384,reported,AQ57
+2020,Services,Petroleum,3751.46,43.6294798,reported,AR57
+2020,Services,Total,20085.64,233.59599319999998,reported,AS57
+2021,Services,Coal,21.270000000000003,0.24737010000000004,reported,AL58
+2021,Services,Coke and breeze,0.0,0.0,reported,AM58
+2021,Services,Natural gas,8472.02,98.5295926,reported,AN58
+2021,Services,Electricity,7178.08,83.4810704,reported,AO58
+2021,Services,Heat,333.34,3.8767441999999996,reported,AP58
+2021,Services,Bioenergy & waste,1476.52,17.1719276,reported,AQ58
+2021,Services,Petroleum,3742.05,43.5200415,reported,AR58
+2021,Services,Total,21223.3,246.826979,reported,AS58
+2022,Services,Coal,18.93,0.2201559,reported,AL59
+2022,Services,Coke and breeze,0.0,0.0,reported,AM59
+2022,Services,Natural gas,7857.96,91.3880748,reported,AN59
+2022,Services,Electricity,6976.53,81.1370439,reported,AO59
+2022,Services,Heat,346.27,4.027120099999999,reported,AP59
+2022,Services,Bioenergy & waste,1442.72,16.7788336,reported,AQ59
+2022,Services,Petroleum,3362.78,39.1091314,reported,AR59
+2022,Services,Total,20005.200000000004,232.66047600000005,reported,AS59
+2023,Services,Coal,9.18,0.1067634,reported,AL60
+2023,Services,Coke and breeze,0.0,0.0,reported,AM60
+2023,Services,Natural gas,7443.67,86.5698821,reported,AN60
+2023,Services,Electricity,7022.280000000001,81.66911640000001,reported,AO60
+2023,Services,Heat,350.37999999999994,4.074919399999999,reported,AP60
+2023,Services,Bioenergy & waste,1478.34,17.193094199999997,reported,AQ60
+2023,Services,Petroleum,3499.25,40.6962775,reported,AR60
+2023,Services,Total,19803.12,230.3102856,reported,AS60
+2024,Services,Coal,9.8,0.113974,reported,AL61
+2024,Services,Coke and breeze,0.0,0.0,reported,AM61
+2024,Services,Natural gas,7909.0,91.98167,reported,AN61
+2024,Services,Electricity,7031.14,81.7721582,reported,AO61
+2024,Services,Heat,336.03,3.9080288999999997,reported,AP61
+2024,Services,Bioenergy & waste,1478.55,17.1955365,reported,AQ61
+2024,Services,Petroleum,3799.56,44.1888828,reported,AR61
+2024,Services,Total,20564.06,239.16001780000002,reported,AS61
+1970,All final users,Coal,29822.0,346.82986,reported,AU7
+1970,All final users,Coke and breeze,12950.0,150.6085,reported,AV7
+1970,All final users,Other solid fuels,2184.0,25.399919999999998,reported,AW7
+1970,All final users,Coke oven gas,1164.0,13.53732,reported,AX7
+1970,All final users,Town gas,10746.0,124.97597999999999,reported,AY7
+1970,All final users,Natural gas,3662.0,42.589059999999996,reported,AZ7
+1970,All final users,Electricity,16542.0,192.38345999999999,reported,BA7
+1970,All final users,Heat,,,unavailable,BB7
+1970,All final users,Bioenergy & waste,,,unavailable,BC7
+1970,All final users,Petroleum,68511.0,796.78293,reported,BD7
+1970,All final users,Total,145977.0,1697.71251,reported,BE7
+1971,All final users,Coal,24855.0,289.06365,reported,AU8
+1971,All final users,Coke and breeze,10134.0,117.85842,reported,AV8
+1971,All final users,Other solid fuels,2333.0,27.13279,reported,AW8
+1971,All final users,Coke oven gas,1118.0,13.00234,reported,AX8
+1971,All final users,Town gas,8882.0,103.29766,reported,AY8
+1971,All final users,Natural gas,9431.0,109.68253,reported,AZ8
+1971,All final users,Electricity,17021.0,197.95423,reported,BA8
+1971,All final users,Heat,,,unavailable,BB8
+1971,All final users,Bioenergy & waste,,,unavailable,BC8
+1971,All final users,Petroleum,69568.0,809.07584,reported,BD8
+1971,All final users,Total,143589.0,1669.9400699999999,reported,BE8
+1972,All final users,Coal,20366.0,236.85658,reported,AU9
+1972,All final users,Coke and breeze,9222.0,107.25186,reported,AV9
+1972,All final users,Other solid fuels,2396.0,27.865479999999998,reported,AW9
+1972,All final users,Coke oven gas,1111.0,12.92093,reported,AX9
+1972,All final users,Town gas,8094.0,94.13322,reported,AY9
+1972,All final users,Natural gas,15063.0,175.18269,reported,AZ9
+1972,All final users,Electricity,17643.0,205.18809,reported,BA9
+1972,All final users,Heat,,,unavailable,BB9
+1972,All final users,Bioenergy & waste,,,unavailable,BC9
+1972,All final users,Petroleum,72129.0,838.86027,reported,BD9
+1972,All final users,Total,146205.0,1700.3641499999999,reported,BE9
+1973,All final users,Coal,20313.0,236.24018999999998,reported,AU10
+1973,All final users,Coke and breeze,9721.0,113.05523,reported,AV10
+1973,All final users,Other solid fuels,2280.0,26.5164,reported,AW10
+1973,All final users,Coke oven gas,1290.0,15.002699999999999,reported,AX10
+1973,All final users,Town gas,5852.0,68.05875999999999,reported,AY10
+1973,All final users,Natural gas,20584.0,239.39192,reported,AZ10
+1973,All final users,Electricity,18898.0,219.78374,reported,BA10
+1973,All final users,Heat,,,unavailable,BB10
+1973,All final users,Bioenergy & waste,,,unavailable,BC10
+1973,All final users,Petroleum,74620.0,867.8306,reported,BD10
+1973,All final users,Total,153744.0,1788.04272,reported,BE10
+1974,All final users,Coal,19003.0,221.00489,reported,AU11
+1974,All final users,Coke and breeze,8555.0,99.49465,reported,AV11
+1974,All final users,Other solid fuels,2156.0,25.074279999999998,reported,AW11
+1974,All final users,Coke oven gas,975.0,11.33925,reported,AX11
+1974,All final users,Town gas,3836.0,44.61268,reported,AY11
+1974,All final users,Natural gas,25736.0,299.30968,reported,AZ11
+1974,All final users,Electricity,18356.0,213.48028,reported,BA11
+1974,All final users,Heat,,,unavailable,BB11
+1974,All final users,Bioenergy & waste,,,unavailable,BC11
+1974,All final users,Petroleum,68072.0,791.67736,reported,BD11
+1974,All final users,Total,146818.0,1707.49334,reported,BE11
+1975,All final users,Coal,16172.0,188.08035999999998,reported,AU12
+1975,All final users,Coke and breeze,7391.0,85.95733,reported,AV12
+1975,All final users,Other solid fuels,1977.0,22.99251,reported,AW12
+1975,All final users,Coke oven gas,1038.0,12.07194,reported,AX12
+1975,All final users,Town gas,1796.0,20.88748,reported,AY12
+1975,All final users,Natural gas,29212.0,339.73555999999996,reported,AZ12
+1975,All final users,Electricity,18293.0,212.74759,reported,BA12
+1975,All final users,Heat,,,unavailable,BB12
+1975,All final users,Bioenergy & waste,,,unavailable,BC12
+1975,All final users,Petroleum,64776.0,753.34488,reported,BD12
+1975,All final users,Total,140751.0,1636.9341299999999,reported,BE12
+1976,All final users,Coal,15162.0,176.33406,reported,AU13
+1976,All final users,Coke and breeze,8016.0,93.22608,reported,AV13
+1976,All final users,Other solid fuels,1771.0,20.59673,reported,AW13
+1976,All final users,Coke oven gas,1091.0,12.68833,reported,AX13
+1976,All final users,Town gas,534.0,6.21042,reported,AY13
+1976,All final users,Natural gas,33204.0,386.16252,reported,AZ13
+1976,All final users,Electricity,18537.0,215.58531,reported,BA13
+1976,All final users,Heat,,,unavailable,BB13
+1976,All final users,Bioenergy & waste,,,unavailable,BC13
+1976,All final users,Petroleum,65981.0,767.35903,reported,BD13
+1976,All final users,Total,144407.0,1679.4534099999998,reported,BE13
+1977,All final users,Coal,15502.0,180.28826,reported,AU14
+1977,All final users,Coke and breeze,7220.0,83.9686,reported,AV14
+1977,All final users,Other solid fuels,1748.0,20.32924,reported,AW14
+1977,All final users,Coke oven gas,1010.0,11.7463,reported,AX14
+1977,All final users,Town gas,174.0,2.0236199999999998,reported,AY14
+1977,All final users,Natural gas,35393.0,411.62059,reported,AZ14
+1977,All final users,Electricity,18948.0,220.36524,reported,BA14
+1977,All final users,Heat,,,unavailable,BB14
+1977,All final users,Bioenergy & waste,,,unavailable,BC14
+1977,All final users,Petroleum,67361.0,783.40843,reported,BD14
+1977,All final users,Total,147444.0,1714.77372,reported,BE14
+1978,All final users,Coal,14454.0,168.10002,reported,AU15
+1978,All final users,Coke and breeze,6681.0,77.70003,reported,AV15
+1978,All final users,Other solid fuels,1642.0,19.09646,reported,AW15
+1978,All final users,Coke oven gas,899.0,10.45537,reported,AX15
+1978,All final users,Town gas,81.0,0.9420299999999999,reported,AY15
+1978,All final users,Natural gas,37766.0,439.21858,reported,AZ15
+1978,All final users,Electricity,19336.0,224.87768,reported,BA15
+1978,All final users,Heat,,,unavailable,BB15
+1978,All final users,Bioenergy & waste,,,unavailable,BC15
+1978,All final users,Petroleum,68208.0,793.25904,reported,BD15
+1978,All final users,Total,149146.0,1734.56798,reported,BE15
+1979,All final users,Coal,15124.0,175.89212,reported,AU16
+1979,All final users,Coke and breeze,7279.0,84.65477,reported,AV16
+1979,All final users,Other solid fuels,1579.0,18.36377,reported,AW16
+1979,All final users,Coke oven gas,977.0,11.36251,reported,AX16
+1979,All final users,Town gas,91.0,1.05833,reported,AY16
+1979,All final users,Natural gas,41262.0,479.87706,reported,AZ16
+1979,All final users,Electricity,20223.0,235.19349,reported,BA16
+1979,All final users,Heat,,,unavailable,BB16
+1979,All final users,Bioenergy & waste,,,unavailable,BC16
+1979,All final users,Petroleum,68937.0,801.73731,reported,BD16
+1979,All final users,Total,155521.0,1808.70923,reported,BE16
+1980,All final users,Coal,12854.0,149.49202,reported,AU17
+1980,All final users,Coke and breeze,3975.0,46.22925,reported,AV17
+1980,All final users,Other solid fuels,1504.0,17.49152,reported,AW17
+1980,All final users,Coke oven gas,642.0,7.46646,reported,AX17
+1980,All final users,Town gas,76.0,0.88388,reported,AY17
+1980,All final users,Natural gas,41647.0,484.35461,reported,AZ17
+1980,All final users,Electricity,19252.0,223.90076,reported,BA17
+1980,All final users,Heat,,,unavailable,BB17
+1980,All final users,Bioenergy & waste,,,unavailable,BC17
+1980,All final users,Petroleum,62408.0,725.80504,reported,BD17
+1980,All final users,Total,142394.0,1656.04222,reported,BE17
+1981,All final users,Coal,11960.0,139.0948,reported,AU18
+1981,All final users,Coke and breeze,5136.0,59.73168,reported,AV18
+1981,All final users,Other solid fuels,1317.0,15.31671,reported,AW18
+1981,All final users,Coke oven gas,665.0,7.73395,reported,AX18
+1981,All final users,Town gas,65.0,0.75595,reported,AY18
+1981,All final users,Natural gas,41828.0,486.45964,reported,AZ18
+1981,All final users,Electricity,18945.0,220.33034999999998,reported,BA18
+1981,All final users,Heat,,,unavailable,BB18
+1981,All final users,Bioenergy & waste,,,unavailable,BC18
+1981,All final users,Petroleum,58420.0,679.4245999999999,reported,BD18
+1981,All final users,Total,138346.0,1608.96398,reported,BE18
+1982,All final users,Coal,12169.0,141.52546999999998,reported,AU19
+1982,All final users,Coke and breeze,4660.0,54.1958,reported,AV19
+1982,All final users,Other solid fuels,1290.0,15.002699999999999,reported,AW19
+1982,All final users,Coke oven gas,605.0,7.03615,reported,AX19
+1982,All final users,Town gas,55.0,0.6396499999999999,reported,AY19
+1982,All final users,Natural gas,41990.0,488.3437,reported,AZ19
+1982,All final users,Electricity,18567.0,215.93421,reported,BA19
+1982,All final users,Heat,,,unavailable,BB19
+1982,All final users,Bioenergy & waste,,,unavailable,BC19
+1982,All final users,Petroleum,57360.0,667.0968,reported,BD19
+1982,All final users,Total,136726.0,1590.12338,reported,BE19
+1983,All final users,Coal,11688.0,135.93144,reported,AU20
+1983,All final users,Coke and breeze,4899.0,56.97537,reported,AV20
+1983,All final users,Other solid fuels,1267.0,14.73521,reported,AW20
+1983,All final users,Coke oven gas,635.0,7.38505,reported,AX20
+1983,All final users,Town gas,45.0,0.52335,reported,AY20
+1983,All final users,Natural gas,42242.0,491.27446,reported,AZ20
+1983,All final users,Electricity,18856.0,219.29528,reported,BA20
+1983,All final users,Heat,,,unavailable,BB20
+1983,All final users,Bioenergy & waste,,,unavailable,BC20
+1983,All final users,Petroleum,56453.0,656.54839,reported,BD20
+1983,All final users,Total,136111.0,1582.97093,reported,BE20
+1984,All final users,Coal,9673.0,112.49699,reported,AU21
+1984,All final users,Coke and breeze,4995.0,58.09185,reported,AV21
+1984,All final users,Other solid fuels,796.0,9.25748,reported,AW21
+1984,All final users,Coke oven gas,537.0,6.24531,reported,AX21
+1984,All final users,Town gas,43.0,0.50009,reported,AY21
+1984,All final users,Natural gas,43251.0,503.00912999999997,reported,AZ21
+1984,All final users,Electricity,19280.0,224.22639999999998,reported,BA21
+1984,All final users,Heat,,,unavailable,BB21
+1984,All final users,Bioenergy & waste,,,unavailable,BC21
+1984,All final users,Petroleum,57158.0,664.74754,reported,BD21
+1984,All final users,Total,135753.0,1578.80739,reported,BE21
+1985,All final users,Coal,12124.0,141.00212,reported,AU22
+1985,All final users,Coke and breeze,5338.0,62.08094,reported,AV22
+1985,All final users,Other solid fuels,1108.0,12.88604,reported,AW22
+1985,All final users,Coke oven gas,768.0,8.93184,reported,AX22
+1985,All final users,Town gas,40.0,0.4652,reported,AY22
+1985,All final users,Natural gas,45940.0,534.2822,reported,AZ22
+1985,All final users,Electricity,20118.0,233.97234,reported,BA22
+1985,All final users,Heat,,,unavailable,BB22
+1985,All final users,Bioenergy & waste,,,unavailable,BC22
+1985,All final users,Petroleum,56416.0,656.11808,reported,BD22
+1985,All final users,Total,141867.0,1649.91321,reported,BE22
+1986,All final users,Coal,12348.0,143.60724,reported,AU23
+1986,All final users,Coke and breeze,4869.0,56.62647,reported,AV23
+1986,All final users,Other solid fuels,1063.0,12.362689999999999,reported,AW23
+1986,All final users,Coke oven gas,778.0,9.04814,reported,AX23
+1986,All final users,Town gas,28.0,0.32564,reported,AY23
+1986,All final users,Natural gas,46622.0,542.21386,reported,AZ23
+1986,All final users,Electricity,20763.0,241.47369,reported,BA23
+1986,All final users,Heat,,,unavailable,BB23
+1986,All final users,Bioenergy & waste,,,unavailable,BC23
+1986,All final users,Petroleum,59245.0,689.01935,reported,BD23
+1986,All final users,Total,145719.0,1694.71197,reported,BE23
+1987,All final users,Coal,10174.0,118.32361999999999,reported,AU24
+1987,All final users,Coke and breeze,5343.0,62.139089999999996,reported,AV24
+1987,All final users,Other solid fuels,1098.0,12.76974,reported,AW24
+1987,All final users,Coke oven gas,821.0,9.54823,reported,AX24
+1987,All final users,Town gas,28.0,0.32564,reported,AY24
+1987,All final users,Natural gas,48096.0,559.35648,reported,AZ24
+1987,All final users,Electricity,22252.0,258.79076,reported,BA24
+1987,All final users,Heat,,,unavailable,BB24
+1987,All final users,Bioenergy & waste,,,unavailable,BC24
+1987,All final users,Petroleum,58325.0,678.31975,reported,BD24
+1987,All final users,Total,146132.0,1699.51516,reported,BE24
+1988,All final users,Coal,9738.0,113.25294,reported,AU25
+1988,All final users,Coke and breeze,5605.0,65.18615,reported,AV25
+1988,All final users,Other solid fuels,962.0,11.18806,reported,AW25
+1988,All final users,Coke oven gas,771.0,8.96673,reported,AX25
+1988,All final users,Town gas,8.0,0.09304,reported,AY25
+1988,All final users,Natural gas,46277.0,538.20151,reported,AZ25
+1988,All final users,Electricity,22811.0,265.29193,reported,BA25
+1988,All final users,Heat,,,unavailable,BB25
+1988,All final users,Bioenergy & waste,443.0,5.15209,reported,BC25
+1988,All final users,Petroleum,61952.0,720.50176,reported,BD25
+1988,All final users,Total,148569.0,1727.85747,reported,BE25
+1989,All final users,Coal,8909.0,103.61167,reported,AU26
+1989,All final users,Coke and breeze,4645.0,54.02135,reported,AV26
+1989,All final users,Other solid fuels,845.0,9.82735,reported,AW26
+1989,All final users,Coke oven gas,613.0,7.1291899999999995,reported,AX26
+1989,All final users,Town gas,0.0,0.0,reported,AY26
+1989,All final users,Natural gas,44780.0,520.7914,reported,AZ26
+1989,All final users,Electricity,23254.0,270.44401999999997,reported,BA26
+1989,All final users,Heat,,,unavailable,BB26
+1989,All final users,Bioenergy & waste,447.2,5.200936,reported,BC26
+1989,All final users,Petroleum,62685.0,729.0265499999999,reported,BD26
+1989,All final users,Total,146180.19999999998,1700.0757259999998,reported,BE26
+1990,All final users,Coal,8122.0,94.45886,reported,AU27
+1990,All final users,Coke and breeze,4333.0,50.39279,reported,AV27
+1990,All final users,Other solid fuels,804.0,9.35052,reported,AW27
+1990,All final users,Coke oven gas,602.0,7.00126,reported,AX27
+1990,All final users,Town gas,0.0,0.0,reported,AY27
+1990,All final users,Natural gas,46052.0,535.58476,reported,AZ27
+1990,All final users,Electricity,23601.0,274.47963,reported,BA27
+1990,All final users,Heat,,,unavailable,BB27
+1990,All final users,Bioenergy & waste,450.70000000000005,5.241641,reported,BC27
+1990,All final users,Petroleum,63302.0,736.20226,reported,BD27
+1990,All final users,Total,147267.7,1712.723351,reported,BE27
+1991,All final users,Coal,8605.0,100.07615,reported,AU28
+1991,All final users,Coke and breeze,4006.0,46.58978,reported,AV28
+1991,All final users,Other solid fuels,799.0,9.29237,reported,AW28
+1991,All final users,Coke oven gas,570.0,6.6291,reported,AX28
+1991,All final users,Town gas,0.0,0.0,reported,AY28
+1991,All final users,Natural gas,49676.0,577.7318799999999,reported,AZ28
+1991,All final users,Electricity,24170.0,281.0971,reported,BA28
+1991,All final users,Heat,,,unavailable,BB28
+1991,All final users,Bioenergy & waste,466.5,5.425395,reported,BC28
+1991,All final users,Petroleum,63525.0,738.79575,reported,BD28
+1991,All final users,Total,151817.5,1765.6375249999999,reported,BE28
+1992,All final users,Coal,8101.0,94.21463,reported,AU29
+1992,All final users,Coke and breeze,3866.0,44.96158,reported,AV29
+1992,All final users,Other solid fuels,723.0,8.40849,reported,AW29
+1992,All final users,Coke oven gas,534.0,6.21042,reported,AX29
+1992,All final users,Town gas,0.0,0.0,reported,AY29
+1992,All final users,Natural gas,48357.0,562.3919099999999,reported,AZ29
+1992,All final users,Electricity,24206.0,281.51578,reported,BA29
+1992,All final users,Heat,,,unavailable,BB29
+1992,All final users,Bioenergy & waste,672.1000000000001,7.816523000000001,reported,BC29
+1992,All final users,Petroleum,64632.0,751.67016,reported,BD29
+1992,All final users,Total,151091.1,1757.189493,reported,BE29
+1993,All final users,Coal,7617.0,88.58570999999999,reported,AU30
+1993,All final users,Coke and breeze,3833.0,44.57779,reported,AV30
+1993,All final users,Other solid fuels,758.0,8.81554,reported,AW30
+1993,All final users,Coke oven gas,560.0,6.5127999999999995,reported,AX30
+1993,All final users,Town gas,0.0,0.0,reported,AY30
+1993,All final users,Natural gas,49282.0,573.14966,reported,AZ30
+1993,All final users,Electricity,24607.0,286.17941,reported,BA30
+1993,All final users,Heat,,,unavailable,BB30
+1993,All final users,Bioenergy & waste,651.9,7.5815969999999995,reported,BC30
+1993,All final users,Petroleum,65437.0,761.0323099999999,reported,BD30
+1993,All final users,Total,152746.9,1776.4464469999998,reported,BE30
+1994,All final users,Coal,6855.0,79.72364999999999,reported,AU31
+1994,All final users,Coke and breeze,3919.0,45.57797,reported,AV31
+1994,All final users,Other solid fuels,795.0,9.245849999999999,reported,AW31
+1994,All final users,Coke oven gas,590.0,6.8617,reported,AX31
+1994,All final users,Town gas,0.0,0.0,reported,AY31
+1994,All final users,Natural gas,49935.0,580.74405,reported,AZ31
+1994,All final users,Electricity,24353.0,283.22539,reported,BA31
+1994,All final users,Heat,,,unavailable,BB31
+1994,All final users,Bioenergy & waste,900.9,10.477466999999999,reported,BC31
+1994,All final users,Petroleum,65196.0,758.22948,reported,BD31
+1994,All final users,Total,152547.9,1774.132077,reported,BE31
+1995,All final users,Coal,5279.0,61.39477,reported,AU32
+1995,All final users,Coke and breeze,3867.0,44.97321,reported,AV32
+1995,All final users,Other solid fuels,654.0,7.60602,reported,AW32
+1995,All final users,Coke oven gas,576.49,6.7045787,reported,AX32
+1995,All final users,Town gas,0.0,0.0,reported,AY32
+1995,All final users,Natural gas,50090.62166809973,582.5539299999998,reported,AZ32
+1995,All final users,Electricity,25279.445399828033,293.99995,reported,BA32
+1995,All final users,Heat,,,unavailable,BB32
+1995,All final users,Bioenergy & waste,956.3999999999999,11.122931999999999,reported,BC32
+1995,All final users,Petroleum,63679.0,740.58677,reported,BD32
+1995,All final users,Total,150383.95706792775,1748.9654206999996,reported,BE32
+1996,All final users,Coal,4428.57634763018,51.50434292293899,reported,AU33
+1996,All final users,Coke and breeze,984.1261775102703,11.445387444444442,reported,AV33
+1996,All final users,Other solid fuels,820.6446450749976,9.544097222222222,reported,AW33
+1996,All final users,Coke oven gas,439.09986000000004,5.1067313718000005,reported,AX33
+1996,All final users,Town gas,0.0,0.0,reported,AY33
+1996,All final users,Natural gas,56535.6233877902,657.5092999999999,reported,AZ33
+1996,All final users,Electricity,26452.520819999998,307.64281713659994,reported,BA33
+1996,All final users,Heat,,,unavailable,BB33
+1996,All final users,Bioenergy & waste,954.3000000000001,11.098509,reported,BC33
+1996,All final users,Petroleum,66096.26971774038,768.6996168173206,reported,BD33
+1996,All final users,Total,157019.227295746,1826.1336134495261,reported,BE33
+1997,All final users,Coal,4330.798395065258,50.36718533460895,reported,AU34
+1997,All final users,Coke and breeze,846.3448457055507,9.842990555555554,reported,AV34
+1997,All final users,Other solid fuels,667.4614131891253,7.762576235389528,reported,AW34
+1997,All final users,Coke oven gas,457.17970765262254,5.317,reported,AX34
+1997,All final users,Town gas,0.0,0.0,reported,AY34
+1997,All final users,Natural gas,54161.5649183147,629.899,reported,AZ34
+1997,All final users,Electricity,26758.64144453998,311.2029999999999,reported,BA34
+1997,All final users,Heat,,,unavailable,BB34
+1997,All final users,Bioenergy & waste,930.4543938091143,10.821184599999999,reported,BC34
+1997,All final users,Petroleum,65418.29788885267,760.8148044473566,reported,BD34
+1997,All final users,Total,153902.38531151426,1789.8847411729107,reported,BE34
+1998,All final users,Coal,3716.0,43.217079999999996,reported,AU35
+1998,All final users,Coke and breeze,888.6261584025985,10.33472222222222,reported,AV35
+1998,All final users,Other solid fuels,682.2214101461736,7.934234999999999,reported,AW35
+1998,All final users,Coke oven gas,384.8667239896818,4.475999999999999,reported,AX35
+1998,All final users,Town gas,0.0,0.0,reported,AY35
+1998,All final users,Natural gas,55856.0,649.60528,reported,AZ35
+1998,All final users,Electricity,27143.0,315.67309,reported,BA35
+1998,All final users,Heat,,,unavailable,BB35
+1998,All final users,Bioenergy & waste,865.0,10.05995,reported,BC35
+1998,All final users,Petroleum,66106.50440970216,768.8186462848361,reported,BD35
+1998,All final users,Total,155921.15087989485,1813.362984733177,reported,BE35
+1999,All final users,Coal,3458.0,40.21654,reported,AU36
+1999,All final users,Coke and breeze,905.8135091239133,10.534611111111111,reported,AV36
+1999,All final users,Other solid fuels,624.9509410528326,7.268179444444443,reported,AW36
+1999,All final users,Coke oven gas,205.073086844368,2.385,reported,AX36
+1999,All final users,Town gas,0.0,0.0,reported,AY36
+1999,All final users,Natural gas,55148.0,641.37124,reported,AZ36
+1999,All final users,Electricity,27751.0,322.74413,reported,BA36
+1999,All final users,Heat,2498.0,29.05174,reported,BB36
+1999,All final users,Bioenergy & waste,688.0,8.00144,reported,BC36
+1999,All final users,Petroleum,65116.05270493337,757.2996929583751,reported,BD36
+1999,All final users,Total,156533.6870217328,1820.4867800627524,reported,BE36
+2000,All final users,Coal,2733.19,31.7869997,reported,AU37
+2000,All final users,Coke and breeze,848.1131174166428,9.863555555555555,reported,AV37
+2000,All final users,Other solid fuels,590.1974300181521,6.863996111111109,reported,AW37
+2000,All final users,Coke oven gas,216.2510748065348,2.5149999999999997,reported,AX37
+2000,All final users,Town gas,0.0,0.0,reported,AY37
+2000,All final users,Natural gas,57077.05,663.8060915,reported,AZ37
+2000,All final users,Electricity,28325.02,329.41998259999997,reported,BA37
+2000,All final users,Heat,2514.92,29.2485196,reported,BB37
+2000,All final users,Bioenergy & waste,672.06,7.816057799999999,reported,BC37
+2000,All final users,Petroleum,66292.76000000001,770.9847988000001,reported,BD37
+2000,All final users,Total,159365.34,1853.4189041999998,reported,BE37
+2001,All final users,Coal,2703.61,31.4429843,reported,AU38
+2001,All final users,Coke and breeze,766.27973631413,8.911833333333332,reported,AV38
+2001,All final users,Other solid fuels,538.5635568930925,6.263494166666665,reported,AW38
+2001,All final users,Coke oven gas,154.25623387790196,1.7939999999999998,reported,AX38
+2001,All final users,Town gas,0.0,0.0,reported,AY38
+2001,All final users,Natural gas,57814.28,672.3800764,reported,AZ38
+2001,All final users,Electricity,28608.94,332.7219722,reported,BA38
+2001,All final users,Heat,2327.18,27.065103399999998,reported,BB38
+2001,All final users,Bioenergy & waste,656.04,7.6297451999999994,reported,BC38
+2001,All final users,Petroleum,67084.45000000001,780.1921535000001,reported,BD38
+2001,All final users,Total,160925.73,1871.5662399,reported,BE38
+2002,All final users,Coal,2209.23,25.6933449,reported,AU39
+2002,All final users,Coke and breeze,737.1476682317129,8.573027381534821,reported,AV39
+2002,All final users,Other solid fuels,459.2388825741617,5.340948204337501,reported,AW39
+2002,All final users,Coke oven gas,78.18235628542743,0.909260803599521,reported,AX39
+2002,All final users,Town gas,0.0,0.0,reported,AY39
+2002,All final users,Natural gas,55233.979999999996,642.3711873999999,reported,AZ39
+2002,All final users,Electricity,28667.35,333.4012805,reported,BA39
+2002,All final users,Heat,2083.89,24.235640699999998,reported,BB39
+2002,All final users,Bioenergy & waste,681.65,7.9275895,reported,BC39
+2002,All final users,Petroleum,66098.72,768.7281136,reported,BD39
+2002,All final users,Total,156475.67,1819.8120421,reported,BE39
+2003,All final users,Coal,2078.05,24.167721500000003,reported,AU40
+2003,All final users,Coke and breeze,680.1381563704548,7.910006758588389,reported,AV40
+2003,All final users,Other solid fuels,420.24770434518416,4.887480801534491,reported,AW40
+2003,All final users,Coke oven gas,53.189439497637615,0.6185931813575254,reported,AX40
+2003,All final users,Town gas,0.0,0.0,reported,AY40
+2003,All final users,Natural gas,56701.35,659.4367004999999,reported,AZ40
+2003,All final users,Electricity,28909.58,336.2184154,reported,BA40
+2003,All final users,Heat,1786.88,20.7814144,reported,BB40
+2003,All final users,Bioenergy & waste,709.77,8.2546251,reported,BC40
+2003,All final users,Petroleum,66771.56,776.5532427999999,reported,BD40
+2003,All final users,Total,158147.14,1839.2512382000002,reported,BE40
+2004,All final users,Coal,1987.54,23.115090199999997,reported,AU41
+2004,All final users,Coke and breeze,595.351175163959,6.923934167156844,reported,AV41
+2004,All final users,Other solid fuels,387.75285772524273,4.509565735344573,reported,AW41
+2004,All final users,Coke oven gas,90.27189421926056,1.0498621297700004,reported,AX41
+2004,All final users,Town gas,0.0,0.0,reported,AY41
+2004,All final users,Natural gas,57079.869999999995,663.8388881,reported,AZ41
+2004,All final users,Electricity,29144.25,338.9476275,reported,BA41
+2004,All final users,Heat,1257.59,14.625771699999998,reported,BB41
+2004,All final users,Bioenergy & waste,714.57,8.3104491,reported,BC41
+2004,All final users,Petroleum,68646.79,798.3621676999999,reported,BD41
+2004,All final users,Total,159936.22999999998,1860.0583548999998,reported,BE41
+2005,All final users,Coal,1694.72,19.7095936,reported,AU42
+2005,All final users,Coke and breeze,559.2197812171586,6.503726055555554,reported,AV42
+2005,All final users,Other solid fuels,349.41036453673667,4.063642539562247,reported,AW42
+2005,All final users,Coke oven gas,98.78234624290366,1.1488386868049696,reported,AX42
+2005,All final users,Town gas,0.0,0.0,reported,AY42
+2005,All final users,Natural gas,55383.590000000004,644.1111517,reported,AZ42
+2005,All final users,Electricity,29980.62,348.6746106,reported,BA42
+2005,All final users,Heat,1267.98,14.7466074,reported,BB42
+2005,All final users,Bioenergy & waste,797.51,9.2750413,reported,BC42
+2005,All final users,Petroleum,69516.37,808.4753830999999,reported,BD42
+2005,All final users,Total,159676.19999999998,1857.0342059999998,reported,BE42
+2006,All final users,Coal,1627.28,18.925266399999998,reported,AU43
+2006,All final users,Coke and breeze,503.5152097055086,5.855881888875065,reported,AV43
+2006,All final users,Other solid fuels,360.94410014614095,4.197779884699619,reported,AW43
+2006,All final users,Coke oven gas,122.9469389907359,1.4298729004622586,reported,AX43
+2006,All final users,Town gas,0.0,0.0,reported,AY43
+2006,All final users,Natural gas,52633.06,612.1224877999999,reported,AZ43
+2006,All final users,Electricity,29684.37,345.22922309999996,reported,BA43
+2006,All final users,Heat,1244.76,14.4765588,reported,BB43
+2006,All final users,Bioenergy & waste,951.62,11.0673406,reported,BC43
+2006,All final users,Petroleum,69835.63,812.1883769,reported,BD43
+2006,All final users,Total,157041.68,1826.3947383999998,reported,BE43
+2007,All final users,Coal,1787.76,20.7916488,reported,AU44
+2007,All final users,Coke and breeze,523.6359176459348,6.089885722222221,reported,AV44
+2007,All final users,Other solid fuels,340.45029383908945,3.95943691734861,reported,AW44
+2007,All final users,Coke oven gas,120.299685117157,1.3990853379125359,reported,AX44
+2007,All final users,Town gas,0.0,0.0,reported,AY44
+2007,All final users,Natural gas,49960.94,581.0457322,reported,AZ44
+2007,All final users,Electricity,29377.16,341.6563708,reported,BA44
+2007,All final users,Heat,1337.98,15.5607074,reported,BB44
+2007,All final users,Bioenergy & waste,1235.41,14.3678183,reported,BC44
+2007,All final users,Petroleum,69527.88,808.6092444000001,reported,BD44
+2007,All final users,Total,154259.42,1794.0370546000001,reported,BE44
+2008,All final users,Coal,1845.18,21.4594434,reported,AU45
+2008,All final users,Coke and breeze,451.5654022954488,5.25170562869607,reported,AV45
+2008,All final users,Other solid fuels,385.2938383100864,4.4809673395463046,reported,AW45
+2008,All final users,Coke oven gas,109.89766626425057,1.2781098586532342,reported,AX45
+2008,All final users,Town gas,0.0,0.0,reported,AY45
+2008,All final users,Natural gas,51502.340000000004,598.9722142,reported,AZ45
+2008,All final users,Electricity,29391.41,341.8220983,reported,BA45
+2008,All final users,Heat,1465.46,17.0432998,reported,BB45
+2008,All final users,Bioenergy & waste,2513.36,29.230376800000002,reported,BC45
+2008,All final users,Petroleum,66535.05,773.8026315,reported,BD45
+2008,All final users,Total,154239.19,1793.8017797,reported,BE45
+2009,All final users,Coal,1732.57,20.1497891,reported,AU46
+2009,All final users,Coke and breeze,394.60246993953785,4.589226725396825,reported,AV46
+2009,All final users,Other solid fuels,191.77925600595069,2.2303927473492062,reported,AW46
+2009,All final users,Coke oven gas,68.25293102292329,0.7937815877965979,reported,AX46
+2009,All final users,Town gas,0.0,0.0,reported,AY46
+2009,All final users,Natural gas,46827.6,544.6049879999999,reported,AZ46
+2009,All final users,Electricity,27665.35,321.7480205,reported,BA46
+2009,All final users,Heat,1206.34,14.029734199999998,reported,BB46
+2009,All final users,Bioenergy & waste,2750.83,31.992152899999997,reported,BC46
+2009,All final users,Petroleum,63729.22,741.1708286,reported,BD46
+2009,All final users,Total,144595.55,1681.6462464999997,reported,BE46
+2010,All final users,Coal,1889.16,21.9709308,reported,AU47
+2010,All final users,Coke and breeze,346.12060025385904,4.025382580952381,reported,AV47
+2010,All final users,Other solid fuels,221.26176647081303,2.5732743440555557,reported,AW47
+2010,All final users,Coke oven gas,113.60946196941845,1.3212780427043365,reported,AX47
+2010,All final users,Town gas,0.0,0.0,reported,AY47
+2010,All final users,Natural gas,51630.439999999995,600.4620171999999,reported,AZ47
+2010,All final users,Electricity,28274.92,328.83731959999994,reported,BA47
+2010,All final users,Heat,1266.38,14.727999400000002,reported,BB47
+2010,All final users,Bioenergy & waste,3201.32,37.2313516,reported,BC47
+2010,All final users,Petroleum,63794.590000000004,741.9310817,reported,BD47
+2010,All final users,Total,150824.67,1754.0909121000002,reported,BE47
+2011,All final users,Coal,1762.84,20.5018292,reported,AU48
+2011,All final users,Coke and breeze,312.468917004463,3.634013504761904,reported,AV48
+2011,All final users,Other solid fuels,191.8441841454094,2.2311478616111113,reported,AW48
+2011,All final users,Coke oven gas,76.629218663454,0.89119781305597,reported,AX48
+2011,All final users,Town gas,0.0,0.0,reported,AY48
+2011,All final users,Natural gas,42907.27,499.01155009999997,reported,AZ48
+2011,All final users,Electricity,27332.14,317.8727882,reported,BA48
+2011,All final users,Heat,1206.06,14.026477799999999,reported,BB48
+2011,All final users,Bioenergy & waste,3118.48,36.267922399999996,reported,BC48
+2011,All final users,Petroleum,62131.100000000006,722.584693,reported,BD48
+2011,All final users,Total,139102.94999999998,1617.7673084999997,reported,BE48
+2012,All final users,Coal,1747.32,20.321331599999997,reported,AU49
+2012,All final users,Coke and breeze,380.1671073714668,4.421343458730159,reported,AV49
+2012,All final users,Other solid fuels,179.809114493169,2.0911800015555553,reported,AW49
+2012,All final users,Coke oven gas,60.30521151746626,0.7013496099481326,reported,AX49
+2012,All final users,Town gas,0.0,0.0,reported,AY49
+2012,All final users,Natural gas,46853.100000000006,544.901553,reported,AZ49
+2012,All final users,Electricity,27366.43,318.2715809,reported,BA49
+2012,All final users,Heat,1207.64,14.0448532,reported,BB49
+2012,All final users,Bioenergy & waste,3043.22,35.392648599999994,reported,BC49
+2012,All final users,Petroleum,61774.24999999999,718.4345275,reported,BD49
+2012,All final users,Total,142638.02,1658.8801726,reported,BE49
+2013,All final users,Coal,2076.14,24.1455082,reported,AU50
+2013,All final users,Coke and breeze,508.51695478249036,5.914052184120362,reported,AV50
+2013,All final users,Other solid fuels,216.4773350839847,2.5176314070267423,reported,AW50
+2013,All final users,Coke oven gas,76.5111522375519,0.8898247005227286,reported,AX50
+2013,All final users,Town gas,0.0,0.0,reported,AY50
+2013,All final users,Natural gas,47429.36,551.6034568,reported,AZ50
+2013,All final users,Electricity,27194.44,316.2713372,reported,BA50
+2013,All final users,Heat,1192.22,13.8655186,reported,BB50
+2013,All final users,Bioenergy & waste,3526.81,41.0168003,reported,BC50
+2013,All final users,Petroleum,61815.91,718.9190333,reported,BD50
+2013,All final users,Total,144048.96,1675.2894047999998,reported,BE50
+2014,All final users,Coal,2076.88,24.1541144,reported,AU51
+2014,All final users,Coke and breeze,486.83572520438383,5.661899484126984,reported,AV51
+2014,All final users,Other solid fuels,177.8188897344034,2.0680336876111114,reported,AW51
+2014,All final users,Coke oven gas,69.12934036934627,0.803974228495497,reported,AX51
+2014,All final users,Town gas,0.0,0.0,reported,AY51
+2014,All final users,Natural gas,40427.41,470.17077830000005,reported,AZ51
+2014,All final users,Electricity,26034.9,302.785887,reported,BA51
+2014,All final users,Heat,1154.79,13.430207699999999,reported,BB51
+2014,All final users,Bioenergy & waste,3844.22,44.7082786,reported,BC51
+2014,All final users,Petroleum,61750.07,718.1533141,reported,BD51
+2014,All final users,Total,136035.86000000002,1582.0970518000001,reported,BE51
+2015,All final users,Coal,1833.85,21.327675499999998,reported,AU52
+2015,All final users,Coke and breeze,397.3025852679852,4.620629066666668,reported,AV52
+2015,All final users,Other solid fuels,165.11420907136716,1.9202782515,reported,AW52
+2015,All final users,Coke oven gas,88.2534945238859,1.026388141312793,reported,AX52
+2015,All final users,Town gas,0.0,0.0,reported,AY52
+2015,All final users,Natural gas,41895.689999999995,487.2468746999999,reported,AZ52
+2015,All final users,Electricity,26094.58,303.4799654,reported,BA52
+2015,All final users,Heat,1236.47,14.3801461,reported,BB52
+2015,All final users,Bioenergy & waste,3884.36,45.1751068,reported,BC52
+2015,All final users,Petroleum,62077.86,721.9655118,reported,BD52
+2015,All final users,Total,137699.98,1601.4507674000001,reported,BE52
+2016,All final users,Coal,1744.23,20.2853949,reported,AU53
+2016,All final users,Coke and breeze,224.84028620562586,2.6148925285714286,reported,AV53
+2016,All final users,Other solid fuels,167.62247253749882,1.9494493556111112,reported,AW53
+2016,All final users,Coke oven gas,66.6042706967014,0.7746076682026374,reported,AX53
+2016,All final users,Town gas,0.0,0.0,reported,AY53
+2016,All final users,Natural gas,42283.28,491.7545464,reported,AZ53
+2016,All final users,Electricity,26142.17,304.03343709999996,reported,BA53
+2016,All final users,Heat,1239.34,14.4135242,reported,BB53
+2016,All final users,Bioenergy & waste,4071.2,47.348056,reported,BC53
+2016,All final users,Petroleum,63469.73999999999,738.1530761999999,reported,BD53
+2016,All final users,Total,139431.93,1621.5933458999998,reported,BE53
+2017,All final users,Coal,1533.02,17.8290226,reported,AU54
+2017,All final users,Coke and breeze,210.3337984004149,2.446182075396825,reported,AV54
+2017,All final users,Other solid fuels,172.40530705550782,2.005073721055556,reported,AW54
+2017,All final users,Coke oven gas,65.00632827932517,0.7560235978885518,reported,AX54
+2017,All final users,Town gas,0.0,0.0,reported,AY54
+2017,All final users,Natural gas,41887.03,487.1461589,reported,AZ54
+2017,All final users,Electricity,25737.61,299.3284043,reported,BA54
+2017,All final users,Heat,1270.79,14.7792877,reported,BB54
+2017,All final users,Bioenergy & waste,4284.25,49.825827499999995,reported,BC54
+2017,All final users,Petroleum,64605.63,751.3634768999999,reported,BD54
+2017,All final users,Total,139786.72,1625.7195536,reported,BE54
+2018,All final users,Coal,1467.28,17.0644664,reported,AU55
+2018,All final users,Coke and breeze,192.92275723703065,2.2436916666666664,reported,AV55
+2018,All final users,Other solid fuels,170.86665251265882,1.987179168722222,reported,AW55
+2018,All final users,Coke oven gas,63.48658864733898,0.7383490259685523,reported,AX55
+2018,All final users,Town gas,0.0,0.0,reported,AY55
+2018,All final users,Natural gas,43435.45,505.15428349999996,reported,AZ55
+2018,All final users,Electricity,25826.68,300.3642884,reported,BA55
+2018,All final users,Heat,1284.51,14.9388513,reported,BB55
+2018,All final users,Bioenergy & waste,5047.07,58.69742409999999,reported,BC55
+2018,All final users,Petroleum,64000.46,744.3253498,reported,BD55
+2018,All final users,Total,141497.94,1645.6210422,reported,BE55
+2019,All final users,Coal,1299.83,15.117022899999998,reported,AU56
+2019,All final users,Coke and breeze,198.43605617655493,2.307811333333334,reported,AV56
+2019,All final users,Other solid fuels,142.02289314512277,1.6517262472777776,reported,AW56
+2019,All final users,Coke oven gas,86.11340896892105,1.0014989463085517,reported,AX56
+2019,All final users,Town gas,0.0,0.0,reported,AY56
+2019,All final users,Natural gas,42299.340000000004,491.94132420000005,reported,AZ56
+2019,All final users,Electricity,25549.49,297.1405687,reported,BA56
+2019,All final users,Heat,1240.73,14.4296899,reported,BB56
+2019,All final users,Bioenergy & waste,5744.22,66.80527860000001,reported,BC56
+2019,All final users,Petroleum,62391.12999999999,725.6088418999999,reported,BD56
+2019,All final users,Total,139040.35,1617.0392705,reported,BE56
+2020,All final users,Coal,1150.89,13.384850700000001,reported,AU57
+2020,All final users,Coke and breeze,207.73734594439665,2.415985333333333,reported,AV57
+2020,All final users,Other solid fuels,140.84867791153147,1.6380701241111109,reported,AW57
+2020,All final users,Coke oven gas,101.19092498500395,1.1768504575755958,reported,AX57
+2020,All final users,Town gas,0.0,0.0,reported,AY57
+2020,All final users,Natural gas,41813.39,486.28972569999996,reported,AZ57
+2020,All final users,Electricity,24037.46,279.5556598,reported,BA57
+2020,All final users,Heat,1249.88,14.536104400000001,reported,BB57
+2020,All final users,Bioenergy & waste,6019.7,70.00911099999999,reported,BC57
+2020,All final users,Petroleum,47716.64,554.9445231999999,reported,BD57
+2020,All final users,Total,122533.73,1425.0672799,reported,BE57
+2021,All final users,Coal,1109.72,12.9060436,reported,AU58
+2021,All final users,Coke and breeze,221.61881627973634,2.5774268333333334,reported,AV58
+2021,All final users,Other solid fuels,150.87533109509837,1.754680100635994,reported,AW58
+2021,All final users,Coke oven gas,104.41833053482375,1.2143851841200002,reported,AX58
+2021,All final users,Town gas,0.0,0.0,reported,AY58
+2021,All final users,Natural gas,44168.89000000001,513.6841907,reported,AZ58
+2021,All final users,Electricity,24525.24,285.2285412,reported,BA58
+2021,All final users,Heat,1250.45,14.5427335,reported,BB58
+2021,All final users,Bioenergy & waste,6165.25,71.7018575,reported,BC58
+2021,All final users,Petroleum,50225.65,584.1243095,reported,BD58
+2021,All final users,Total,128029.01,1488.9773862999998,reported,BE58
+2022,All final users,Coal,1047.74,12.1852162,reported,AU59
+2022,All final users,Coke and breeze,237.58289863380145,2.763089111111111,reported,AV59
+2022,All final users,Other solid fuels,159.917305588994,1.8598382640000002,reported,AW59
+2022,All final users,Coke oven gas,95.4262949372313,1.10980781012,reported,AX59
+2022,All final users,Town gas,0.0,0.0,reported,AY59
+2022,All final users,Natural gas,37549.270000000004,436.69801010000003,reported,AZ59
+2022,All final users,Electricity,23369.4,271.78612200000003,reported,BA59
+2022,All final users,Heat,1218.26,14.1683638,reported,BB59
+2022,All final users,Bioenergy & waste,6684.6,77.741898,reported,BC59
+2022,All final users,Petroleum,54652.06999999999,635.6035741,reported,BD59
+2022,All final users,Total,125079.01999999999,1454.6690025999999,reported,BE59
+2023,All final users,Coal,831.96,9.6756948,reported,AU60
+2023,All final users,Coke and breeze,157.17741950893284,1.827973388888889,reported,AV60
+2023,All final users,Other solid fuels,127.41708237794973,1.4818606680555553,reported,AW60
+2023,All final users,Coke oven gas,62.12893831126397,0.7225595525599999,reported,AX60
+2023,All final users,Town gas,0.0,0.0,reported,AY60
+2023,All final users,Natural gas,35595.73,413.97833990000004,reported,AZ60
+2023,All final users,Electricity,23230.31,270.1685053,reported,BA60
+2023,All final users,Heat,1194.68,13.8941284,reported,BB60
+2023,All final users,Bioenergy & waste,7136.66,82.99935579999999,reported,BC60
+2023,All final users,Petroleum,56397.27,655.9002501,reported,BD60
+2023,All final users,Total,124808.48,1451.5226223999998,reported,BE60
+2024,All final users,Coal,506.3,5.888269,reported,AU61
+2024,All final users,Coke and breeze,138.41184675647276,1.6097297777777781,reported,AV61
+2024,All final users,Other solid fuels,142.27751761795338,1.6546875298967978,reported,AW61
+2024,All final users,Coke oven gas,20.8373220241405,0.24233805514075402,reported,AX61
+2024,All final users,Town gas,0.0,0.0,reported,AY61
+2024,All final users,Natural gas,37126.16,431.7772408,reported,AZ61
+2024,All final users,Electricity,23418.37,272.3556431,reported,BA61
+2024,All final users,Heat,1222.82,14.221396599999999,reported,BB61
+2024,All final users,Bioenergy & waste,7326.11,85.2026593,reported,BC61
+2024,All final users,Petroleum,58167.75,676.4909325,reported,BD61
+2024,All final users,Total,128091.8,1489.707634,reported,BE61
