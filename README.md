@@ -1,8 +1,30 @@
-# UK Energy Consumption Analysis
+# UK Energy Consumption Forecasting — MSc Dissertation
 
-**Question:** How has UK final energy consumption changed across sectors between 1970 and 2024, and where should further demand analysis focus?
+This repository presents the independently verified historical analysis, the documented methodology and the reported findings from my MSc dissertation, **Predicting UK Renewable and Non-Renewable Energy Consumption Using Machine Learning**. Some original modelling artefacts are not currently available, so unsupported numerical outputs have intentionally not been reproduced.
 
-An analysis of the DESNZ Energy Consumption in the UK 2025 workbook, developed from my existing energy project with assisted code and documentation improvements. It demonstrates source inspection, reproducible cleaning, SQL comparisons, unit validation and communication of findings.
+## Research question
+
+How did UK energy consumption change between **1970 and 2024**, and how do ARIMA, Random Forest and XGBoost compare as approaches to forecasting renewable and non-renewable consumption?
+
+## Data and preparation
+
+The report uses DESNZ's *Energy Consumption in the UK* data, World Bank GDP/population indicators and UK Met Office temperature/rainfall series. It describes restructuring sector/fuel tables, handling missing values, aligning annual observations and joining indicators by year. The original transformed modelling dataset has not been recovered, so complete predictor coverage and the exact target construction remain unverified.
+
+The reproducible analysis in this repository retains original ktoe units, preserves missing values and source-cell references, and checks unique keys and sector reconciliation. Its outputs are distinct from the report's forecasting experiments.
+
+## Models, evaluation and findings
+
+The report compares an **ARIMA** baseline with **Random Forest** and **XGBoost** regressors using **MAE, RMSE and MAPE**. It describes cross-validation and hyperparameter tuning for the tree models. **XGBoost was reported as the strongest-performing approach**; the report attributes this to modelling nonlinear relationships and feature interactions.
+
+The report describes different time-based and shuffled/random evaluation arrangements, so this is a reported conclusion rather than an independently reproduced, matched out-of-time comparison. No unsupported model scores, R² values or exact future predictions are presented.
+
+## Practical relevance and limitations
+
+The study connects historical demand analysis with forecasting methods relevant to energy planning. It demonstrates research framing, Python/SQL analysis, visual communication and critical evaluation; no implemented policy or business impact is claimed.
+
+Original forecasting code, split indices and saved predictions are not currently available. Report unit conversions, renewable-target definitions, future-period descriptions and plot/table consistency require reconciliation before numerical forecasting results can be released. The complete dissertation and restricted university material are excluded.
+
+Read the [methodology and verification notes](docs/DISSERTATION-SUMMARY.md), then explore the independently reproduced historical findings below.
 
 ## Findings
 
@@ -76,3 +98,14 @@ These are descriptive comparisons, not causal estimates or forecasts. Weather, e
 ## Automated validation
 
 [Validation runs](https://github.com/Kelv-Ojo/uk-energy-analysis/actions/workflows/validate.yml) rebuild the analysis and check source fingerprints and fixed-snapshot totals. See [reproduction instructions and dependency pins](REPRODUCIBILITY.md). Python checks do not certify native Excel or Power BI behaviour.
+
+
+## Portfolio review notes
+
+This repository reproduces descriptive historical analysis, not the dissertation's forecasting experiments. A recovered MSc report describes ARIMA, Random Forest and XGBoost, but its absolute unit scale, renewable grouping, evaluation splits and forecast figure/table consistency need resolution. Its tables end in 2029 despite a 2030 aim. Do not relabel the historical charts as forecasts or add model scores to this README as independently reproduced results. Recover the original pipeline before extending this repository.
+
+## Business context and skills
+
+Energy planning starts with trustworthy historical demand comparisons. This repository checks the historical data and distinguishes it from the related report-described forecasting study.
+
+**Skills demonstrated:** Python and SQL; source-cell tracing; unit validation; time-series visualisation; critical review of model evaluation.
