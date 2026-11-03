@@ -2,6 +2,22 @@
 
 This repository presents the independently verified historical analysis, the documented methodology and the reported findings from my MSc dissertation, **Predicting UK Renewable and Non-Renewable Energy Consumption Using Machine Learning**. Some original modelling artefacts are not currently available, so unsupported numerical outputs have intentionally not been reproduced.
 
+
+
+
+## Visual evidence
+
+![UK final energy consumption by sector, 1970–2024](assets/screenshots/sector-trends.png)
+
+UK final energy consumption by sector, 1970–2024. Rebuilt from the verified DESNZ workbook; the chart converts source ktoe to TWh using 1 ktoe = 0.01163 TWh. Historical observations, not forecasts.
+
+![Long-term sector changes from the same source snapshot](assets/screenshots/sector-changes.png)
+
+Long-term sector changes from the same source snapshot. Original dissertation model predictions have not been regenerated.
+
+Images are static previews. Open them at full size for detail; follow the reproduction notes to inspect the underlying work.
+
+
 ## Research question
 
 How did UK energy consumption change between **1970 and 2024**, and how do ARIMA, Random Forest and XGBoost compare as approaches to forecasting renewable and non-renewable consumption?
@@ -31,10 +47,6 @@ Read the [methodology and verification notes](docs/DISSERTATION-SUMMARY.md), the
 - Total final consumption fell **12.3%** between 1970 and 2024.
 - Consumption increased **2.6%** from 2023 to 2024.
 - Transport represented **42.2%** of final consumption in 2024, making it a useful focus for further demand research.
-
-![Energy trends by sector](reports/sector_trends.png)
-
-![Long-term sector changes](reports/sector_changes.png)
 
 ## Worked example: long-term demand
 
@@ -109,3 +121,7 @@ This repository reproduces descriptive historical analysis, not the dissertation
 Energy planning starts with trustworthy historical demand comparisons. This repository checks the historical data and distinguishes it from the related report-described forecasting study.
 
 **Skills demonstrated:** Python and SQL; source-cell tracing; unit validation; time-series visualisation; critical review of model evaluation.
+
+## Portfolio evidence and interview summary
+
+**Demonstrated:** official-source tracing, SQL/Python reconciliation, unit checks and communication of long-run historical changes. The dissertation's ARIMA/Random Forest/XGBoost comparison is documented research, separate from the rerunnable historical pipeline. Explain why time-ordered evaluation and consistent targets are needed before comparing forecasting errors. The next recovery target is the original modelling notebook plus split indices, transformed inputs and saved predictions; these are still unavailable in this checkout. No new forecasting experiment is claimed.
