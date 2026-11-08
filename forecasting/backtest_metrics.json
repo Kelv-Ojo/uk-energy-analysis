@@ -1,0 +1,65 @@
+[
+  {
+    "horizon": 1,
+    "model": "Persistence",
+    "origins": 22,
+    "mae_ktoe": 3915.3004545454546,
+    "rmse_ktoe": 5663.789734300544
+  },
+  {
+    "horizon": 1,
+    "model": "Ridge",
+    "origins": 22,
+    "mae_ktoe": 3682.742183168627,
+    "rmse_ktoe": 5768.099906020994
+  },
+  {
+    "horizon": 1,
+    "model": "Random forest",
+    "origins": 22,
+    "mae_ktoe": 4671.265988938599,
+    "rmse_ktoe": 6696.037326453659
+  },
+  {
+    "horizon": 3,
+    "model": "Persistence",
+    "origins": 20,
+    "mae_ktoe": 6137.675999999997,
+    "rmse_ktoe": 8005.417574740872
+  },
+  {
+    "horizon": 3,
+    "model": "Ridge",
+    "origins": 20,
+    "mae_ktoe": 7301.815459129563,
+    "rmse_ktoe": 9220.569832782418
+  },
+  {
+    "horizon": 3,
+    "model": "Random forest",
+    "origins": 20,
+    "mae_ktoe": 8835.82860006134,
+    "rmse_ktoe": 10589.415937132395
+  },
+  {
+    "horizon": 5,
+    "model": "Persistence",
+    "origins": 18,
+    "mae_ktoe": 9411.212222222222,
+    "rmse_ktoe": 10900.130506839001
+  },
+  {
+    "horizon": 5,
+    "model": "Ridge",
+    "origins": 18,
+    "mae_ktoe": 11907.439927318464,
+    "rmse_ktoe": 13441.278873270147
+  },
+  {
+    "horizon": 5,
+    "model": "Random forest",
+    "origins": 18,
+    "mae_ktoe": 12416.146344752111,
+    "rmse_ktoe": 13935.37396859027
+  }
+]

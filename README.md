@@ -125,3 +125,7 @@ Energy planning starts with trustworthy historical demand comparisons. This repo
 ## Portfolio evidence and interview summary
 
 **Demonstrated:** official-source tracing, SQL/Python reconciliation, unit checks and communication of long-run historical changes. The dissertation's ARIMA/Random Forest/XGBoost comparison is documented research, separate from the rerunnable historical pipeline. Explain why time-ordered evaluation and consistent targets are needed before comparing forecasting errors. The next recovery target is the original modelling notebook plus split indices, transformed inputs and saved predictions; these are still unavailable in this checkout. No new forecasting experiment is claimed.
+
+## Independent chronological backtest
+
+A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge and Random Forest at 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the original modelling notebook remains unavailable.
