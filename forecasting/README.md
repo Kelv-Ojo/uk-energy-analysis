@@ -1,6 +1,6 @@
 # Historical chronological backtesting extension
 
-This new, independent experiment uses the verified 1970–2024 historical final-consumption series in original ktoe. It does not reproduce the MSc renewable/non-renewable targets, original ARIMA/XGBoost experiments or future forecasts. No original modelling notebook or split indices were recovered in the current workspace search.
+This new, independent experiment uses the verified 1970–2024 historical final-consumption series in original ktoe. It does not reproduce the MSc renewable/non-renewable targets, original ARIMA/XGBoost experiments or future forecasts. The original notebook was subsequently recovered privately from email. See [its audit](../docs/RECOVERED-NOTEBOOK-AUDIT.md); original predictor snapshots and a corrected target definition remain unresolved.
 
 Run `python forecasting/backtest.py` with forecasting/requirements.txt installed. It compares persistence, scaled Ridge regression and a constrained Random Forest using expanding training windows and direct horizons of 1, 3 and 5 years. The earliest origin is 2002. Each feature vector uses only the origin year's observed consumption and its two preceding observations. Only training targets available by that origin are included; an assertion enforces the label cutoff. Scaling is fitted afresh within each origin. Hyperparameters are fixed, not selected using reported test results.
 

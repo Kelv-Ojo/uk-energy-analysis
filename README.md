@@ -1,6 +1,6 @@
 # UK Energy Consumption Forecasting — MSc Dissertation
 
-This repository presents the independently verified historical analysis, the documented methodology and the reported findings from my MSc dissertation, **Predicting UK Renewable and Non-Renewable Energy Consumption Using Machine Learning**. Some original modelling artefacts are not currently available, so unsupported numerical outputs have intentionally not been reproduced.
+This repository presents the independently verified historical analysis, the documented methodology and the reported findings from my MSc dissertation, **Predicting UK Renewable and Non-Renewable Energy Consumption Using Machine Learning**. The original modelling notebook has now been recovered and audited. Some original input snapshots remain unavailable, so unsupported numerical outputs have intentionally not been reproduced.
 
 
 
@@ -24,7 +24,7 @@ How did UK energy consumption change between **1970 and 2024**, and how do ARIMA
 
 ## Data and preparation
 
-The report uses DESNZ's *Energy Consumption in the UK* data, World Bank GDP/population indicators and UK Met Office temperature/rainfall series. It describes restructuring sector/fuel tables, handling missing values, aligning annual observations and joining indicators by year. The original transformed modelling dataset has not been recovered, so complete predictor coverage and the exact target construction remain unverified.
+The report uses DESNZ's *Energy Consumption in the UK* data, World Bank GDP/population indicators and UK Met Office temperature/rainfall series. It describes restructuring sector/fuel tables, handling missing values, aligning annual observations and joining indicators by year. The recovered notebook exposes target construction and evaluation problems; the original joined modelling dataset and predictor snapshots remain unavailable. Read the [code audit](docs/RECOVERED-NOTEBOOK-AUDIT.md) before interpreting the reported model comparison.
 
 The reproducible analysis in this repository retains original ktoe units, preserves missing values and source-cell references, and checks unique keys and sector reconciliation. Its outputs are distinct from the report's forecasting experiments.
 
@@ -38,7 +38,7 @@ The report describes different time-based and shuffled/random evaluation arrange
 
 The study connects historical demand analysis with forecasting methods relevant to energy planning. It demonstrates research framing, Python/SQL analysis, visual communication and critical evaluation; no implemented policy or business impact is claimed.
 
-Original forecasting code, split indices and saved predictions are not currently available. Report unit conversions, renewable-target definitions, future-period descriptions and plot/table consistency require reconciliation before numerical forecasting results can be released. The complete dissertation and restricted university material are excluded.
+The original forecasting notebook is recovered; it has not been rerun. Original input snapshots and a matched chronological model comparison remain unavailable. Report unit conversions, renewable-target definitions, future-period descriptions and plot/table consistency require reconciliation before numerical forecasting results can be released. The complete dissertation and restricted university material are excluded.
 
 Read the [methodology and verification notes](docs/DISSERTATION-SUMMARY.md), then explore the independently reproduced historical findings below.
 
@@ -114,7 +114,7 @@ These are descriptive comparisons, not causal estimates or forecasts. Weather, e
 
 ## Portfolio review notes
 
-This repository reproduces descriptive historical analysis, not the dissertation's forecasting experiments. A recovered MSc report describes ARIMA, Random Forest and XGBoost, but its absolute unit scale, renewable grouping, evaluation splits and forecast figure/table consistency need resolution. Its tables end in 2029 despite a 2030 aim. Do not relabel the historical charts as forecasts or add model scores to this README as independently reproduced results. Recover the original pipeline before extending this repository.
+This repository reproduces descriptive historical analysis, not the dissertation's forecasting experiments. A recovered MSc report describes ARIMA, Random Forest and XGBoost, but its absolute unit scale, renewable grouping, evaluation splits and forecast figure/table consistency need resolution. Its tables end in 2029 despite a 2030 aim. Do not relabel the historical charts as forecasts or add model scores to this README as independently reproduced results. The recovered notebook audit documents the remaining target, input and evaluation corrections.
 
 ## Business context and skills
 
@@ -124,8 +124,8 @@ Energy planning starts with trustworthy historical demand comparisons. This repo
 
 ## Portfolio evidence and interview summary
 
-**Demonstrated:** official-source tracing, SQL/Python reconciliation, unit checks and communication of long-run historical changes. The dissertation's ARIMA/Random Forest/XGBoost comparison is documented research, separate from the rerunnable historical pipeline. Explain why time-ordered evaluation and consistent targets are needed before comparing forecasting errors. The next recovery target is the original modelling notebook plus split indices, transformed inputs and saved predictions; these are still unavailable in this checkout. No new forecasting experiment is claimed.
+**Demonstrated:** official-source tracing, SQL/Python reconciliation, unit checks and communication of long-run historical changes. The dissertation's ARIMA/Random Forest/XGBoost comparison is documented research, separate from the rerunnable historical pipeline. Explain why time-ordered evaluation and consistent targets are needed before comparing forecasting errors. The recovered notebook has been audited separately from the new historical backtest. Its original input snapshots and a corrected chronological dissertation comparison remain outstanding; saved notebook outputs are not a fresh reproduction.
 
 ## Independent chronological backtest
 
-A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge and Random Forest at 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the original modelling notebook remains unavailable.
+A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge and Random Forest at 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the recovered original notebook is audited in docs/RECOVERED-NOTEBOOK-AUDIT.md and has not been rerun.

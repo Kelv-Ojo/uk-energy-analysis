@@ -21,7 +21,7 @@ The repository's Python and SQL analysis checks DESNZ Table C1 for 1970–2024, 
 - Reported consumption conversions, electricity's inclusion in renewable grouping, ARIMA summary/table differences and plot/table alignment need original-code checks.
 - Shuffled/random model evaluation and ARIMA's time-based setup are not a matched forecasting test. Model ranking is attributed to the report.
 - LSTM/TFT appear as future work, not verified implementations.
-- The recovered report has not been matched to an original submitted file in Aula. No forecasting notebook, split indices or saved predictions were found in the inspected repositories and local leads.
+- The recovered report has not been matched to an original submitted file in Aula. The modelling notebook was subsequently recovered privately from email and [audited](RECOVERED-NOTEBOOK-AUDIT.md). It has not been rerun; original predictor input snapshots are still missing.
 
 ## Skills demonstrated
 
