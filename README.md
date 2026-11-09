@@ -7,6 +7,8 @@ This repository presents the independently verified historical analysis, the doc
 
 ## Visual evidence
 
+[**Explore the complete dissertation visual gallery: 63 visuals**](docs/VISUAL-GALLERY.md). Browse sector/fuel breakdowns, annual changes, correlations, model diagnostics, feature importance and forecast illustrations. Every image identifies whether it is verified analysis, the separate historical backtest, or an original figure that has not been reproduced.
+
 ![UK final energy consumption by sector, 1970–2024](assets/screenshots/sector-trends.png)
 
 UK final energy consumption by sector, 1970–2024. Rebuilt from the verified DESNZ workbook; the chart converts source ktoe to TWh using 1 ktoe = 0.01163 TWh. Historical observations, not forecasts.
@@ -17,6 +19,29 @@ Long-term sector changes from the same source snapshot. Original dissertation mo
 
 Images are static previews. Open them at full size for detail; follow the reproduction notes to inspect the underlying work.
 
+
+## More from the visual gallery
+
+![Validated fuel snapshots in 1970, 2000 and 2024](assets/dissertation-gallery/verified/fuel-snapshots.png)
+
+**Verified historical analysis.** Corrected TWh units and explicit missing values; delivered fuels are not renewable shares.
+
+![Matched model comparison in the separate total-consumption backtest](assets/dissertation-gallery/verified/backtest-model-comparison.png)
+
+**Verified separate historical backtest.** Matched chronological cases; this is not reproduction of the dissertation target groups or its reported ranking.
+
+<details>
+<summary>Original dissertation model diagnostics and forecasting examples</summary>
+
+![Original Random Forest feature importance, not reproduced](assets/dissertation-gallery/original/dissertation-36.png)
+
+**Original research figure; not reproduced.** Original targets, splits and predictor timing need correction. Importance is not causal influence.
+
+![Original multi-model forecast overlay, not reproduced](assets/dissertation-gallery/original/dissertation-44.png)
+
+**Original research figure; not reproduced.** The original kWh scale and renewable grouping are disputed. Future scenarios and their values are not independently validated.
+
+</details>
 
 ## Research question
 

@@ -28,6 +28,11 @@ jobs:
         run: |
           python src/reconcile_targets.py
           python src/test_target_reconciliation.py
+      - name: Build and verify visual gallery
+        run: |
+          python src/build_visual_gallery.py
+          python src/render_visual_gallery.py
+          python src/check_visual_gallery.py
       - name: Check chronological forecast isolation
         run: |
           python -m pip install -r forecasting/requirements.txt

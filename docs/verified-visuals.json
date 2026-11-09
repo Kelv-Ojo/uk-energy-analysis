@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sector-trends",
+    "title": "Final consumption by sector",
+    "caption": "Existing source-checked historical chart, reused unchanged. Original ktoe converted to TWh where shown; no forecasting claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-trends.png"
+  },
+  {
+    "id": "sector-changes",
+    "title": "Sector changes from 1970 to 2024",
+    "caption": "Existing source-checked historical chart, reused unchanged. Original ktoe converted to TWh where shown; no forecasting claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-changes.png"
+  },
+  {
+    "id": "industry-fuels",
+    "title": "Industry fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/industry-fuels.png"
+  },
+  {
+    "id": "transport-fuels",
+    "title": "Transport fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/transport-fuels.png"
+  },
+  {
+    "id": "domestic-fuels",
+    "title": "Domestic fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/domestic-fuels.png"
+  },
+  {
+    "id": "services-fuels",
+    "title": "Services fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/services-fuels.png"
+  },
+  {
+    "id": "national-fuels",
+    "title": "National fuel comparisons",
+    "caption": "All final users only; component sectors are not added again. Missing values remain gaps. The reported total has scope adjustments and need not equal the visible fuel sum.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/national-fuels.png"
+  },
+  {
+    "id": "fuel-snapshots",
+    "title": "Fuel snapshots in 1970, 2000 and 2024",
+    "caption": "Absolute consumption in TWh. Unavailable categories are explicitly labelled, not assigned zero. No pie normalisation conceals missing or out-of-scope fuel components.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/fuel-snapshots.png"
+  },
+  {
+    "id": "sector-yoy",
+    "title": "Year-on-year sector changes",
+    "caption": "Changes calculated from reported sector totals, 1971\u20132024. A descriptive annual comparison; no attribution to weather, policy or efficiency is inferred.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-yoy.png"
+  },
+  {
+    "id": "annual-sector-correlation",
+    "title": "Annual sector correlation",
+    "caption": "55 annual observations, 1970\u20132024. This is not the original notebook matrix, which correlated aggregated fuel profiles across sectors. Co-trending levels and autocorrelation limit interpretation; no causal claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/annual-sector-correlation.png"
+  },
+  {
+    "id": "major-fuels",
+    "title": "Major fuel trajectories",
+    "caption": "National delivered-fuel categories from All final users. Unlike an all-sector sum, this does not count aggregate and component sectors together.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/major-fuels.png"
+  },
+  {
+    "id": "backtest-model-comparison",
+    "title": "Matched chronological model comparison",
+    "caption": "New total-consumption experiment, not dissertation reproduction. The same 22/20/18 origin-target pairs are used at 1/3/5-year horizons. Fixed ARIMA has the lowest error here; no statistical significance is claimed.",
+    "status": "Verified separate historical backtest",
+    "path": "assets/dissertation-gallery/verified/backtest-model-comparison.png"
+  },
+  {
+    "id": "backtest-actual-predicted",
+    "title": "Actual versus predicted on matched years",
+    "caption": "22 one-year forecasts per model for target years 2003\u20132024. Current-vintage annual observations are assumed available at each origin. No future exogenous data or original dissertation target groups are used.",
+    "status": "Verified separate historical backtest",
+    "path": "assets/dissertation-gallery/verified/backtest-actual-predicted.png"
+  },
+  {
+    "id": "historical-error-bands",
+    "title": "Historical forecast uncertainty diagnostic",
+    "caption": "Nominal 80% prior-error bands, withheld until ten errors have matured. Only 12/8/4 bands per model are evaluable. Longer-horizon undercoverage and dependent errors prevent a calibrated 80% coverage claim; no future forecast is shown.",
+    "status": "Verified separate historical backtest; exploratory uncertainty",
+    "path": "assets/dissertation-gallery/verified/historical-error-bands.png"
+  }
+]

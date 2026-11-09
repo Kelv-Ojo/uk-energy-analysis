@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "sector-trends",
+    "title": "Final consumption by sector",
+    "caption": "Existing source-checked historical chart, reused unchanged. Original ktoe converted to TWh where shown; no forecasting claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-trends.png",
+    "width": 1600,
+    "height": 880,
+    "sha256": "47a5fe9f3e0128784b3529d696aacde8b5ed14368239d1b88bff6a27dce0ba37"
+  },
+  {
+    "id": "sector-changes",
+    "title": "Sector changes from 1970 to 2024",
+    "caption": "Existing source-checked historical chart, reused unchanged. Original ktoe converted to TWh where shown; no forecasting claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-changes.png",
+    "width": 1440,
+    "height": 800,
+    "sha256": "a534ca95f83372ab622ed942058fae1fe6080b1c1233339ea6267f2777233ea8"
+  },
+  {
+    "id": "industry-fuels",
+    "title": "Industry fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/industry-fuels.png",
+    "width": 2018,
+    "height": 959,
+    "sha256": "abdd04039bb3b05e68d810e0e551061e0f44044d611ae09329d7bbb88c763726"
+  },
+  {
+    "id": "transport-fuels",
+    "title": "Transport fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/transport-fuels.png",
+    "width": 2018,
+    "height": 959,
+    "sha256": "6a540a9ff34e082972a91b543045359c205242c63f3a9ddce8687ade258199e4"
+  },
+  {
+    "id": "domestic-fuels",
+    "title": "Domestic fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/domestic-fuels.png",
+    "width": 2018,
+    "height": 967,
+    "sha256": "4b077e6b573d2d7c93c83631e19dbb8b9b7ce3fb1babed30b4a567cb980329ab"
+  },
+  {
+    "id": "services-fuels",
+    "title": "Services fuel breakdown",
+    "caption": "Table C1 sector-specific fuel series, 1970\u20132024. Missing observations remain gaps. Delivered fuels are not a renewable/non-renewable classification; lines are not summed into a new total.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/services-fuels.png",
+    "width": 2018,
+    "height": 967,
+    "sha256": "7c03f23a2e95665bbdbeea68330d76b7b6ceecaa8818c24a2f0f9499989840a6"
+  },
+  {
+    "id": "national-fuels",
+    "title": "National fuel comparisons",
+    "caption": "All final users only; component sectors are not added again. Missing values remain gaps. The reported total has scope adjustments and need not equal the visible fuel sum.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/national-fuels.png",
+    "width": 2018,
+    "height": 959,
+    "sha256": "e1be44ad3e95d0e93ef95ac1dda605d26dcc2f2b49e56d4f3753b71720596228"
+  },
+  {
+    "id": "fuel-snapshots",
+    "title": "Fuel snapshots in 1970, 2000 and 2024",
+    "caption": "Absolute consumption in TWh. Unavailable categories are explicitly labelled, not assigned zero. No pie normalisation conceals missing or out-of-scope fuel components.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/fuel-snapshots.png",
+    "width": 2531,
+    "height": 1172,
+    "sha256": "78de191fc192de0223276dba4b3c61906130cfad3c286e78afdfec2602fb5890"
+  },
+  {
+    "id": "sector-yoy",
+    "title": "Year-on-year sector changes",
+    "caption": "Changes calculated from reported sector totals, 1971\u20132024. A descriptive annual comparison; no attribution to weather, policy or efficiency is inferred.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/sector-yoy.png",
+    "width": 2165,
+    "height": 658,
+    "sha256": "229a050da3f3932bdc9748f08ce3046614f58fb6aa7eff9695875939064d67b1"
+  },
+  {
+    "id": "annual-sector-correlation",
+    "title": "Annual sector correlation",
+    "caption": "55 annual observations, 1970\u20132024. This is not the original notebook matrix, which correlated aggregated fuel profiles across sectors. Co-trending levels and autocorrelation limit interpretation; no causal claim.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/annual-sector-correlation.png",
+    "width": 1170,
+    "height": 972,
+    "sha256": "2dddfb8b4febe7766bbc7fb13b6e8ef0289495aef5e2f872e48c4700ce575126"
+  },
+  {
+    "id": "major-fuels",
+    "title": "Major fuel trajectories",
+    "caption": "National delivered-fuel categories from All final users. Unlike an all-sector sum, this does not count aggregate and component sectors together.",
+    "status": "Verified historical analysis",
+    "path": "assets/dissertation-gallery/verified/major-fuels.png",
+    "width": 1848,
+    "height": 828,
+    "sha256": "8515d954c68177c5a6ec6316ccf15c551df559bf548ddfedef59c6762a496843"
+  },
+  {
+    "id": "backtest-model-comparison",
+    "title": "Matched chronological model comparison",
+    "caption": "New total-consumption experiment, not dissertation reproduction. The same 22/20/18 origin-target pairs are used at 1/3/5-year horizons. Fixed ARIMA has the lowest error here; no statistical significance is claimed.",
+    "status": "Verified separate historical backtest",
+    "path": "assets/dissertation-gallery/verified/backtest-model-comparison.png",
+    "width": 2358,
+    "height": 841,
+    "sha256": "ee0bd75dff6a6564ba3fe7a88a6b8c5bac32c5710e1f533d9cee5125d3c979ee"
+  },
+  {
+    "id": "backtest-actual-predicted",
+    "title": "Actual versus predicted on matched years",
+    "caption": "22 one-year forecasts per model for target years 2003\u20132024. Current-vintage annual observations are assumed available at each origin. No future exogenous data or original dissertation target groups are used.",
+    "status": "Verified separate historical backtest",
+    "path": "assets/dissertation-gallery/verified/backtest-actual-predicted.png",
+    "width": 2017,
+    "height": 1671,
+    "sha256": "024bef7ec16826db76ddcf057e321b39087a9e653f27531d47c1172e55e797f0"
+  },
+  {
+    "id": "historical-error-bands",
+    "title": "Historical forecast uncertainty diagnostic",
+    "caption": "Nominal 80% prior-error bands, withheld until ten errors have matured. Only 12/8/4 bands per model are evaluable. Longer-horizon undercoverage and dependent errors prevent a calibrated 80% coverage claim; no future forecast is shown.",
+    "status": "Verified separate historical backtest; exploratory uncertainty",
+    "path": "assets/dissertation-gallery/verified/historical-error-bands.png",
+    "width": 2017,
+    "height": 1672,
+    "sha256": "316af6b8c646f5873955dd6c903de854887f1404fc6b4b77ae71e94dce65cb1f"
+  },
+  {
+    "id": "doc-14",
+    "title": "Joined modelling data preview",
+    "category": "method",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original research artefact, not a verified modelling dataset or successful reproduction. Original target labels and units remain disputed; original input snapshots are incomplete.",
+    "source": "MSc dissertation",
+    "relationship": "rId14",
+    "paragraphs": [
+      165,
+      601
+    ],
+    "captions": [
+      "Figure 1: Data Overview"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-14.png",
+    "sha256": "f6393c85e1e7fcd5fb9bc7037904b225cf2896e796076ed4688bef2b0ea851ba",
+    "width": 573,
+    "height": 180
+  },
+  {
+    "id": "doc-16",
+    "title": "Sector consumption trends",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId16",
+    "paragraphs": [
+      170,
+      603
+    ],
+    "captions": [
+      "Figure 2: Energy Consumption Trend over the years w.r.t Sector"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-16.png",
+    "sha256": "1297783352a2d549e672e53145e2e9f4e407f8be390b1d2153b415f188533982",
+    "width": 1189,
+    "height": 590
+  },
+  {
+    "id": "doc-17",
+    "title": "Domestic fuel breakdown",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId17",
+    "paragraphs": [
+      203,
+      605
+    ],
+    "captions": [
+      "Figure 3: Domestic Energy Consumption breakdown over the years"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 34,
+        "output": 0,
+        "sha256": "d893b39d857a06e4308cfe3c3acebf44fd0e45d2f2bda02488081e36e5325e6d"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-17.png",
+    "sha256": "640fdd50898e3ac83b0ba64e40bcbe062f7b0602e0fe8eced7563ed7dea549f6",
+    "width": 1492,
+    "height": 590
+  },
+  {
+    "id": "doc-18",
+    "title": "Industry fuel breakdown",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId18",
+    "paragraphs": [
+      213,
+      609
+    ],
+    "captions": [
+      "Figure 4: Industrial Energy Consumption breakdown over the years"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 34,
+        "output": 1,
+        "sha256": "5f4a9b2a4a2bc59a0730a249c31abc9391bab8d4c4ae816728dcadfe96e5d4d5"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-18.png",
+    "sha256": "120bc0ae17fa1fc2a191864182b8934a9e8c7b849a9a450826b0b42f40480f01",
+    "width": 1492,
+    "height": 590
+  },
+  {
+    "id": "doc-19",
+    "title": "Services fuel breakdown",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId19",
+    "paragraphs": [
+      222,
+      612
+    ],
+    "captions": [
+      "Figure 5: Services Sector Energy Consumption breakdown over the years"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 34,
+        "output": 2,
+        "sha256": "d6d51143d2863fa7b8b886b407ad681826a16716787310f90517e6ba0987a27f"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-19.png",
+    "sha256": "503c094086a002f1218ab3dd9f46672d6aa146b9bf273a466fce3019de81019d",
+    "width": 1492,
+    "height": 590
+  },
+  {
+    "id": "doc-20",
+    "title": "Transport fuel breakdown",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId20",
+    "paragraphs": [
+      232,
+      614
+    ],
+    "captions": [
+      "Figure 6: Energy Consumption breakdown over the years in Transport Sector"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 34,
+        "output": 3,
+        "sha256": "493748941830049bd6efc19154d5cdc280f1cb690b026f23a617864ab8aac0d8"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-20.png",
+    "sha256": "82c6ce8e92927c77789cafbfc90f5925619c62cc426cce731e4b9acaa97648e5",
+    "width": 1492,
+    "height": 590
+  },
+  {
+    "id": "doc-21",
+    "title": "National fuel consumption",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId21",
+    "paragraphs": [
+      242,
+      616
+    ],
+    "captions": [
+      "Figure 7: Overall Energy Consumption breakdown w.r.t Fuel Type over the years"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-21.png",
+    "sha256": "ed77eeac45a74206bbc71289ec795899effc3463e52e0ba377e64b5ba6151e95",
+    "width": 1491,
+    "height": 590
+  },
+  {
+    "id": "doc-22",
+    "title": "Fuel mix in 1970",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId22",
+    "paragraphs": [
+      251,
+      619
+    ],
+    "captions": [
+      "Figure 8: Energy Consumption w.r.t Fuel Type in 1970"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-22.png",
+    "sha256": "509beb1dcbc35dc4f4377925d8b51b886427b6ef9e07f04d3fcdb0488bceaa2c",
+    "width": 688,
+    "height": 519
+  },
+  {
+    "id": "doc-23",
+    "title": "Fuel mix in 2000",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId23",
+    "paragraphs": [
+      251,
+      621
+    ],
+    "captions": [
+      "Figure 9: Energy Consumption w.r.t Fuel Type in 2000"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-23.png",
+    "sha256": "365bdbaad91a07a9988235abff25a6e0351f2f5e85c585cf2e56c0b45aaf5b60",
+    "width": 690,
+    "height": 553
+  },
+  {
+    "id": "doc-24",
+    "title": "Fuel mix in 2024",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId24",
+    "paragraphs": [
+      252,
+      624
+    ],
+    "captions": [
+      "Figure 10: Energy Consumption w.r.t Fuel Type in 2024"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-24.png",
+    "sha256": "21f976a5b22c2ca2c025c3f147dceeb916f36f9e521c4f9fc6cfbb54f2716815",
+    "width": 688,
+    "height": 509
+  },
+  {
+    "id": "doc-25",
+    "title": "Year-on-year sector changes",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId25",
+    "paragraphs": [
+      258,
+      626
+    ],
+    "captions": [
+      "Figure 11: Year-to-Year Change in Energy Consumption of Sectors"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-25.png",
+    "sha256": "673f4e0a47176156e263c55986f5df920703a12830f9c48a8624cadbcebb9257",
+    "width": 1073,
+    "height": 590
+  },
+  {
+    "id": "doc-26",
+    "title": "Correlation across aggregated fuel profiles",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId26",
+    "paragraphs": [
+      265,
+      628
+    ],
+    "captions": [
+      "Figure 12: Correlation map of Fuel Consumption across Sectors"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-26.png",
+    "sha256": "42408d5c5607badefa16b22a713ac704900c46bb026c893fb5e4d6a50ddad925",
+    "width": 555,
+    "height": 490
+  },
+  {
+    "id": "doc-27",
+    "title": "Major fuel trends",
+    "category": "historical",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "MSc dissertation",
+    "relationship": "rId27",
+    "paragraphs": [
+      270,
+      630
+    ],
+    "captions": [
+      "Figure 13: Rise and Decline in Consumption of major Fuels"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-27.png",
+    "sha256": "b16a7268c032dfea0aa274e9a40ce634e83b7983e18b312e6fd423efe8e4fcf7",
+    "width": 1189,
+    "height": 590
+  },
+  {
+    "id": "doc-28",
+    "title": "GDP and the two original target groups",
+    "category": "features",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "MSc dissertation",
+    "relationship": "rId28",
+    "paragraphs": [
+      284,
+      290,
+      632,
+      635
+    ],
+    "captions": [
+      "Figure 14: Scatter plot of Renewable Energy Consumption and Country\u2019s GDP",
+      "Figure 15: Scatter plot of Non-Renewable Energy Consumption and Country\u2019s GDP"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-28.png",
+    "sha256": "0cc2e43029da297b992711287c567d50479c7f34ee2f68ed95c42b2b75e2feb3",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "doc-29",
+    "title": "Population and the two original target groups",
+    "category": "features",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "MSc dissertation",
+    "relationship": "rId29",
+    "paragraphs": [
+      297,
+      303,
+      637,
+      639
+    ],
+    "captions": [
+      "Figure 16: Scatter plot of Renewable Energy Consumption and Country\u2019s Population",
+      "Figure 17: Scatter plot of Non-Renewable Energy Consumption and Country\u2019s Population"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-29.png",
+    "sha256": "2ac151ad734bb8b4365b416cacaa2edc809e69a7d841fe3057f01aacf697ce26",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "doc-30",
+    "title": "Temperature and the two original target groups",
+    "category": "features",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "MSc dissertation",
+    "relationship": "rId30",
+    "paragraphs": [
+      320,
+      327,
+      642,
+      644
+    ],
+    "captions": [
+      "Figure 18: Scatter plot of Renewable Energy Consumption and Average Temperature",
+      "Figure 19: Scatter plot of Non-Renewable Energy Consumption and Average Temperature"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-30.png",
+    "sha256": "f7ceb7e07da18e16ea85808839f77df76d6964edad60181e6980701f5fb0ce17",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "doc-31",
+    "title": "Rainfall and the two original target groups",
+    "category": "features",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "MSc dissertation",
+    "relationship": "rId31",
+    "paragraphs": [
+      333,
+      339,
+      646,
+      648
+    ],
+    "captions": [
+      "Figure 20: Scatter plot of Renewable Energy Consumption and Annual Rainfall",
+      "Figure 21: Scatter plot of Non-Renewable Energy Consumption and Annual Rainfall"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-31.png",
+    "sha256": "77a10e816ff518260bf354ac7e04d0f05cf1ca9dc4b340565de70c2973e7b579",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "doc-32",
+    "title": "Original feature correlation matrix",
+    "category": "features",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "MSc dissertation",
+    "relationship": "rId32",
+    "paragraphs": [
+      352,
+      650
+    ],
+    "captions": [
+      "Figure 22: Correlation map of Feature Space"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-32.png",
+    "sha256": "254d33f9952cfcd70ffbf0b7edfea4f4cbf4f71ad45dd6b7697cb4277b6fb731",
+    "width": 743,
+    "height": 635
+  },
+  {
+    "id": "doc-33",
+    "title": "ARIMA historical series and forecast bars",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId33",
+    "paragraphs": [
+      410,
+      413,
+      653,
+      655
+    ],
+    "captions": [
+      "Figure 23: Historical and Forecasted Consumption by ARIMA modelling",
+      "Figure 24: Consumption Forecast by ARIMA modelling"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 99,
+        "output": 0,
+        "sha256": "456cdb5676b94e4991c2774266ef6dacc40926fcb08f83762aa6177a362daf6d"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-33.png",
+    "sha256": "e06eafa75ed61eae494a0369a82c91ce66cfd98a92a07cd6bfb1b01f0827f8a0",
+    "width": 989,
+    "height": 790
+  },
+  {
+    "id": "doc-34",
+    "title": "Random Forest historical and test predictions",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId34",
+    "paragraphs": [
+      433
+    ],
+    "captions": [],
+    "notebook_outputs": [
+      {
+        "cell": 121,
+        "output": 0,
+        "sha256": "c5f67c4392c403041985f8a5ba33d59338b62ced374dc351e16e8d971585a674"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-34.png",
+    "sha256": "4ea70cfa1f51afe61ac46b049404d5ffa1cb77a7cda1909123ac02256745c024",
+    "width": 989,
+    "height": 390
+  },
+  {
+    "id": "doc-35",
+    "title": "Random Forest actual versus predicted",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId35",
+    "paragraphs": [
+      435,
+      656
+    ],
+    "captions": [
+      "Figure 25:Diagnosis plot comparing Actual vs Predicted values of Random Forest Regressor"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 123,
+        "output": 0,
+        "sha256": "e2af8a83e636b960f22813182aa20fa860085621c148a89c1016c752842df300"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-35.png",
+    "sha256": "edfa201f5d436ca1c5a7e6460e07b9ebf5384a95a48fa897e6204b486901c32f",
+    "width": 804,
+    "height": 390
+  },
+  {
+    "id": "doc-36",
+    "title": "Random Forest feature importance",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId36",
+    "paragraphs": [
+      438,
+      658
+    ],
+    "captions": [
+      "Figure 26: Feature Importace scores by Random Forest Regressor"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-36.png",
+    "sha256": "f439d2dc6e2b19ad093ad5a4aa7ad25d45d8806e89b8d7ede9f5092a4275a0dd",
+    "width": 790,
+    "height": 358
+  },
+  {
+    "id": "doc-37",
+    "title": "Original XGBoost pipeline diagram",
+    "category": "method",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original research artefact, not a verified modelling dataset or successful reproduction. Original target labels and units remain disputed; original input snapshots are incomplete.",
+    "source": "MSc dissertation",
+    "relationship": "rId37",
+    "paragraphs": [
+      448
+    ],
+    "captions": [],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-37.png",
+    "sha256": "7c70d13b9b920f15c5fdbff9f1f727f57fc5a1e43fd8f4608350aed4d0d980aa",
+    "width": 238,
+    "height": 172
+  },
+  {
+    "id": "doc-38",
+    "title": "XGBoost learning curves",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId38",
+    "paragraphs": [
+      466,
+      664
+    ],
+    "captions": [
+      "Figure 28: XGBoost Regressor Learning Curve"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 156,
+        "output": 0,
+        "sha256": "042a024599c66d887e5d1170c64798410aa5d0c612f42fd1147f9eaf4988f5f8"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-38.png",
+    "sha256": "dc0ddb96627378b87bee2e537b6d4b8616b44540e1d212b411c870ccf2ccc0d3",
+    "width": 1001,
+    "height": 393
+  },
+  {
+    "id": "doc-39",
+    "title": "XGBoost historical and test predictions",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId39",
+    "paragraphs": [
+      471
+    ],
+    "captions": [],
+    "notebook_outputs": [
+      {
+        "cell": 146,
+        "output": 0,
+        "sha256": "04a42696edd5c55c812455369193fe6808175a98c90211fc78c5c55c10d4e662"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-39.png",
+    "sha256": "eb2522da540e9013acaa74f7ccd001930051bc580a45427881f9b8973d0248bf",
+    "width": 989,
+    "height": 390
+  },
+  {
+    "id": "doc-40",
+    "title": "XGBoost actual versus predicted",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId40",
+    "paragraphs": [
+      473,
+      666
+    ],
+    "captions": [
+      "Figure 29: Diagnosis plot comparing Actual vs Predicted values of XGBoost Regressor"
+    ],
+    "notebook_outputs": [
+      {
+        "cell": 148,
+        "output": 0,
+        "sha256": "6eab60133a83376355f210e38cc114afce0c00852fc0301c788bf86925588346"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-40.png",
+    "sha256": "5ab52dbb275aaf7ab2956ea7fc0be1a4e437509440fa1700d4eb9abe1867d27d",
+    "width": 804,
+    "height": 390
+  },
+  {
+    "id": "doc-41",
+    "title": "XGBoost feature importance",
+    "category": "model",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "MSc dissertation",
+    "relationship": "rId41",
+    "paragraphs": [
+      482,
+      668
+    ],
+    "captions": [
+      "Figure 30: Feature Importace scores by XGBoost Regressor"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-41.png",
+    "sha256": "c87172ae79d1d5ad5bc7a0dcc8ef73653107d2d24657e9d600d255d4ecbdf426",
+    "width": 1189,
+    "height": 390
+  },
+  {
+    "id": "doc-42",
+    "title": "Original target-group forecast comparison bars",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId42",
+    "paragraphs": [
+      494
+    ],
+    "captions": [],
+    "notebook_outputs": [
+      {
+        "cell": 169,
+        "output": 0,
+        "sha256": "882806035ced2eaacbc645095523052583da5f14a82b43bb043c7f80f1ac320f"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-42.png",
+    "sha256": "7bb845c6b7d6fdda4d0ad927becf92196b6613f009be0ccb80f0d161f1d44446",
+    "width": 1189,
+    "height": 390
+  },
+  {
+    "id": "doc-43",
+    "title": "Original second target-group forecast bars",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId43",
+    "paragraphs": [
+      495
+    ],
+    "captions": [],
+    "notebook_outputs": [
+      {
+        "cell": 170,
+        "output": 0,
+        "sha256": "680c26bab4a5a9f4d11a5ccb48c1717ace7ee3d4f46557121fddb6478298db39"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-43.png",
+    "sha256": "e8a9ebe770f1d10bb7bc3e8068b80e223c168f0eae88106810e85dc827103126",
+    "width": 1189,
+    "height": 390
+  },
+  {
+    "id": "doc-44",
+    "title": "Model forecast overlay in the dissertation body",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId44",
+    "paragraphs": [
+      499
+    ],
+    "captions": [],
+    "notebook_outputs": [
+      {
+        "cell": 167,
+        "output": 0,
+        "sha256": "7b1c09748bbe2d4d54c6b8cdc84d0e7078eda36e76af657d8d0b858d9c1e1f5d"
+      }
+    ],
+    "path": "assets/dissertation-gallery/original/dissertation-44.png",
+    "sha256": "c0a1dd6261bb4720ed2940cde1fb475ca540ad13d1c287249efcbe944d762933",
+    "width": 989,
+    "height": 790
+  },
+  {
+    "id": "doc-69",
+    "title": "Random Forest historical, test and future curves",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId69",
+    "paragraphs": [
+      661
+    ],
+    "captions": [
+      "Figure 27: Historical and Forecasted Consumption by Random Forest Regressor"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-69.png",
+    "sha256": "5fa75ae829a03d364572f88075ef742cc013244d33014a164f98795f0c1cf039",
+    "width": 1190,
+    "height": 590
+  },
+  {
+    "id": "doc-70",
+    "title": "XGBoost historical, test and future curves",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId70",
+    "paragraphs": [
+      671
+    ],
+    "captions": [
+      "Figure 31: Historical and Forecasted Consumption by XGBoost Regressor"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-70.png",
+    "sha256": "0477873f7724b71e4c4c8132e51fbfa6fff7d052a0818576a999b9b684db4657",
+    "width": 1190,
+    "height": 590
+  },
+  {
+    "id": "doc-71",
+    "title": "ARIMA forecast image under the final comparison caption",
+    "category": "forecast",
+    "status": "Original research figure; not reproduced",
+    "limitations": "Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025\u20132029; it is not a verified 2030 forecast or a calibrated uncertainty interval.",
+    "source": "MSc dissertation",
+    "relationship": "rId71",
+    "paragraphs": [
+      674
+    ],
+    "captions": [
+      "Figure 31: Comparison of Forecasted Results by trained models"
+    ],
+    "notebook_outputs": [],
+    "path": "assets/dissertation-gallery/original/dissertation-71.png",
+    "sha256": "ee9e352b125b9535c8f4e4c4ea244187a1bbe25edd564d689e4b4bf71f530169",
+    "width": 989,
+    "height": 790
+  },
+  {
+    "id": "notebook-30-0",
+    "title": "Sector consumption trends",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 30,
+        "output": 0,
+        "sha256": "7f9ffffad58c46598cc5ebaa9f000117e5432f24942b5803b76afdf04b11cc49"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-30-0.png",
+    "sha256": "7f9ffffad58c46598cc5ebaa9f000117e5432f24942b5803b76afdf04b11cc49",
+    "width": 1189,
+    "height": 590
+  },
+  {
+    "id": "notebook-36-0",
+    "title": "National fuel consumption",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 36,
+        "output": 0,
+        "sha256": "5f103c8f2c99bde72739552138824c71495c8ea4c6104a51f3b5342e008e0e55"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-36-0.png",
+    "sha256": "5f103c8f2c99bde72739552138824c71495c8ea4c6104a51f3b5342e008e0e55",
+    "width": 1489,
+    "height": 590
+  },
+  {
+    "id": "notebook-40-0",
+    "title": "Fuel mix snapshot",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 40,
+        "output": 0,
+        "sha256": "ff6165463708cb2022392a88ee7aa9c5d78e1fc51ee0a63fbde023ea1274cc7d"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-40-0.png",
+    "sha256": "ff6165463708cb2022392a88ee7aa9c5d78e1fc51ee0a63fbde023ea1274cc7d",
+    "width": 688,
+    "height": 511
+  },
+  {
+    "id": "notebook-40-1",
+    "title": "Fuel mix snapshot",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 40,
+        "output": 1,
+        "sha256": "958c3e46f06bbae196791c79dbfea7aa8b666eef6244c1436c104dfdbe203ad0"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-40-1.png",
+    "sha256": "958c3e46f06bbae196791c79dbfea7aa8b666eef6244c1436c104dfdbe203ad0",
+    "width": 690,
+    "height": 547
+  },
+  {
+    "id": "notebook-40-2",
+    "title": "Fuel mix snapshot",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 40,
+        "output": 2,
+        "sha256": "b295406a29c8a60a70d9deb5b6bee3b0d082acfd1f37f97d0ae000d79784fc9c"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-40-2.png",
+    "sha256": "b295406a29c8a60a70d9deb5b6bee3b0d082acfd1f37f97d0ae000d79784fc9c",
+    "width": 687,
+    "height": 497
+  },
+  {
+    "id": "notebook-46-0",
+    "title": "Year-on-year sector changes",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 46,
+        "output": 0,
+        "sha256": "1239069250c328ece9ac6df4810f216b518a0380e0fa060f7e4ac84dae5a9297"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-46-0.png",
+    "sha256": "1239069250c328ece9ac6df4810f216b518a0380e0fa060f7e4ac84dae5a9297",
+    "width": 1084,
+    "height": 590
+  },
+  {
+    "id": "notebook-49-0",
+    "title": "Correlation across aggregated fuel profiles",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 49,
+        "output": 0,
+        "sha256": "9ed23694d43325cf54860a0332bfb9f5b9a4d823ad3d006d47393e9ce0171a50"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-49-0.png",
+    "sha256": "9ed23694d43325cf54860a0332bfb9f5b9a4d823ad3d006d47393e9ce0171a50",
+    "width": 562,
+    "height": 490
+  },
+  {
+    "id": "notebook-52-1",
+    "title": "Major fuel trends",
+    "category": "historical",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The notebook mislabels ktoe \u00d7 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 52,
+        "output": 1,
+        "sha256": "4f210ea5551df2ca6b646a5bb1de219d599fa2edba307f4bb070afa425bc098a"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-52-1.png",
+    "sha256": "4f210ea5551df2ca6b646a5bb1de219d599fa2edba307f4bb070afa425bc098a",
+    "width": 1189,
+    "height": 590
+  },
+  {
+    "id": "notebook-67-0",
+    "title": "Original two-target area chart",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 67,
+        "output": 0,
+        "sha256": "001f3d7c6f09352eff1c294db118218d61ab0678fbebc046a5816f935e478d57"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-67-0.png",
+    "sha256": "001f3d7c6f09352eff1c294db118218d61ab0678fbebc046a5816f935e478d57",
+    "width": 1189,
+    "height": 590
+  },
+  {
+    "id": "notebook-85-0",
+    "title": "GDP or population scatter plots",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 85,
+        "output": 0,
+        "sha256": "4add259a5539faf8f8b4b4285d066fb6174f30a08b0e9a0f22d8bcc0281bafdc"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-85-0.png",
+    "sha256": "4add259a5539faf8f8b4b4285d066fb6174f30a08b0e9a0f22d8bcc0281bafdc",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "notebook-85-1",
+    "title": "GDP or population scatter plots",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 85,
+        "output": 1,
+        "sha256": "9fad4ba84fe50864004a62dc7b4733dea9367624275fc63896e605bdeae1a39b"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-85-1.png",
+    "sha256": "9fad4ba84fe50864004a62dc7b4733dea9367624275fc63896e605bdeae1a39b",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "notebook-86-0",
+    "title": "Temperature scatter plots",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 86,
+        "output": 0,
+        "sha256": "b940cad139c530c34cafa0bc3c4ce9bdfcfa199a151c2302ec92e72da5708e59"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-86-0.png",
+    "sha256": "b940cad139c530c34cafa0bc3c4ce9bdfcfa199a151c2302ec92e72da5708e59",
+    "width": 1189,
+    "height": 474
+  },
+  {
+    "id": "notebook-87-0",
+    "title": "Rainfall scatter plots",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 87,
+        "output": 0,
+        "sha256": "e82151ea17a28af930bc0bab60597cb47e0155687d05ae905281cc4dbaf95a20"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-87-0.png",
+    "sha256": "e82151ea17a28af930bc0bab60597cb47e0155687d05ae905281cc4dbaf95a20",
+    "width": 1189,
+    "height": 490
+  },
+  {
+    "id": "notebook-88-0",
+    "title": "Original feature correlation matrix",
+    "category": "features",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 88,
+        "output": 0,
+        "sha256": "f8dfd9fdc6145c44d9814057e006a2dddc25bb3d0b39b01bb82620c6c54082cd"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-88-0.png",
+    "sha256": "f8dfd9fdc6145c44d9814057e006a2dddc25bb3d0b39b01bb82620c6c54082cd",
+    "width": 773,
+    "height": 655
+  },
+  {
+    "id": "notebook-125-0",
+    "title": "Random Forest feature importance",
+    "category": "model",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 125,
+        "output": 0,
+        "sha256": "dfa3a053a2f9702349530290fac0f3c0b05acf7dd49bd4122704d87ec395bf5c"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-125-0.png",
+    "sha256": "dfa3a053a2f9702349530290fac0f3c0b05acf7dd49bd4122704d87ec395bf5c",
+    "width": 790,
+    "height": 358
+  },
+  {
+    "id": "notebook-150-0",
+    "title": "XGBoost feature importance",
+    "category": "model",
+    "status": "Original saved notebook plot; not rerun",
+    "limitations": "Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.",
+    "source": "Recovered modelling notebook",
+    "notebook_outputs": [
+      {
+        "cell": 150,
+        "output": 0,
+        "sha256": "97ce2e097e68c72007345c60da69321ca33ae8a6d89444122a6d18ad2e6119f0"
+      }
+    ],
+    "captions": [],
+    "path": "assets/dissertation-gallery/original/notebook-150-0.png",
+    "sha256": "97ce2e097e68c72007345c60da69321ca33ae8a6d89444122a6d18ad2e6119f0",
+    "width": 1189,
+    "height": 390
+  }
+]
