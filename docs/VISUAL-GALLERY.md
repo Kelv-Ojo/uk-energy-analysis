@@ -167,7 +167,7 @@ Expand a subject to view its original figures. Click any image for full resoluti
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId16; paragraph(s) 170, 603. 
+Dissertation rId16; paragraph(s) 170, 603.
 
 ### Domestic fuel breakdown
 
@@ -177,7 +177,7 @@ Dissertation rId16; paragraph(s) 170, 603.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId17; paragraph(s) 203, 605. Notebook cell 34, output 0. 
+Dissertation rId17; paragraph(s) 203, 605. Notebook cell 34, output 0.
 
 ### Industry fuel breakdown
 
@@ -187,7 +187,7 @@ Dissertation rId17; paragraph(s) 203, 605. Notebook cell 34, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId18; paragraph(s) 213, 609. Notebook cell 34, output 1. 
+Dissertation rId18; paragraph(s) 213, 609. Notebook cell 34, output 1.
 
 ### Services fuel breakdown
 
@@ -197,7 +197,7 @@ Dissertation rId18; paragraph(s) 213, 609. Notebook cell 34, output 1.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId19; paragraph(s) 222, 612. Notebook cell 34, output 2. 
+Dissertation rId19; paragraph(s) 222, 612. Notebook cell 34, output 2.
 
 ### Transport fuel breakdown
 
@@ -207,7 +207,7 @@ Dissertation rId19; paragraph(s) 222, 612. Notebook cell 34, output 2.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId20; paragraph(s) 232, 614. Notebook cell 34, output 3. 
+Dissertation rId20; paragraph(s) 232, 614. Notebook cell 34, output 3.
 
 ### National fuel consumption
 
@@ -217,7 +217,7 @@ Dissertation rId20; paragraph(s) 232, 614. Notebook cell 34, output 3.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId21; paragraph(s) 242, 616. 
+Dissertation rId21; paragraph(s) 242, 616.
 
 ### Fuel mix in 1970
 
@@ -227,7 +227,7 @@ Dissertation rId21; paragraph(s) 242, 616.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId22; paragraph(s) 251, 619. 
+Dissertation rId22; paragraph(s) 251, 619.
 
 ### Fuel mix in 2000
 
@@ -237,7 +237,7 @@ Dissertation rId22; paragraph(s) 251, 619.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId23; paragraph(s) 251, 621. 
+Dissertation rId23; paragraph(s) 251, 621.
 
 ### Fuel mix in 2024
 
@@ -247,7 +247,7 @@ Dissertation rId23; paragraph(s) 251, 621.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId24; paragraph(s) 252, 624. 
+Dissertation rId24; paragraph(s) 252, 624.
 
 ### Year-on-year sector changes
 
@@ -257,7 +257,7 @@ Dissertation rId24; paragraph(s) 252, 624.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId25; paragraph(s) 258, 626. 
+Dissertation rId25; paragraph(s) 258, 626.
 
 ### Correlation across aggregated fuel profiles
 
@@ -267,7 +267,7 @@ Dissertation rId25; paragraph(s) 258, 626.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId26; paragraph(s) 265, 628. 
+Dissertation rId26; paragraph(s) 265, 628.
 
 ### Major fuel trends
 
@@ -277,7 +277,7 @@ Dissertation rId26; paragraph(s) 265, 628.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Dissertation rId27; paragraph(s) 270, 630. 
+Dissertation rId27; paragraph(s) 270, 630.
 
 </details>
 
@@ -292,7 +292,7 @@ Dissertation rId27; paragraph(s) 270, 630.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Dissertation rId28; paragraph(s) 284, 290, 632, 635. 
+Dissertation rId28; paragraph(s) 284, 290, 632, 635.
 
 ### Population and the two original target groups
 
@@ -302,7 +302,7 @@ Dissertation rId28; paragraph(s) 284, 290, 632, 635.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Dissertation rId29; paragraph(s) 297, 303, 637, 639. 
+Dissertation rId29; paragraph(s) 297, 303, 637, 639.
 
 ### Temperature and the two original target groups
 
@@ -312,7 +312,7 @@ Dissertation rId29; paragraph(s) 297, 303, 637, 639.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Dissertation rId30; paragraph(s) 320, 327, 642, 644. 
+Dissertation rId30; paragraph(s) 320, 327, 642, 644.
 
 ### Rainfall and the two original target groups
 
@@ -322,7 +322,7 @@ Dissertation rId30; paragraph(s) 320, 327, 642, 644.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Dissertation rId31; paragraph(s) 333, 339, 646, 648. 
+Dissertation rId31; paragraph(s) 333, 339, 646, 648.
 
 ### Original feature correlation matrix
 
@@ -332,7 +332,7 @@ Dissertation rId31; paragraph(s) 333, 339, 646, 648.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Dissertation rId32; paragraph(s) 352, 650. 
+Dissertation rId32; paragraph(s) 352, 650.
 
 </details>
 
@@ -347,7 +347,7 @@ Dissertation rId32; paragraph(s) 352, 650.
 
 Original research artefact, not a verified modelling dataset or successful reproduction. Original target labels and units remain disputed; original input snapshots are incomplete.
 
-Dissertation rId14; paragraph(s) 165, 601. 
+Dissertation rId14; paragraph(s) 165, 601.
 
 ### Original XGBoost pipeline diagram
 
@@ -357,7 +357,7 @@ Dissertation rId14; paragraph(s) 165, 601.
 
 Original research artefact, not a verified modelling dataset or successful reproduction. Original target labels and units remain disputed; original input snapshots are incomplete.
 
-Dissertation rId37; paragraph(s) 448. 
+Dissertation rId37; paragraph(s) 448.
 
 </details>
 
@@ -372,7 +372,7 @@ Dissertation rId37; paragraph(s) 448.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId34; paragraph(s) 433. Notebook cell 121, output 0. 
+Dissertation rId34; paragraph(s) 433. Notebook cell 121, output 0.
 
 ### Random Forest actual versus predicted
 
@@ -382,7 +382,7 @@ Dissertation rId34; paragraph(s) 433. Notebook cell 121, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId35; paragraph(s) 435, 656. Notebook cell 123, output 0. 
+Dissertation rId35; paragraph(s) 435, 656. Notebook cell 123, output 0.
 
 ### Random Forest feature importance
 
@@ -392,7 +392,7 @@ Dissertation rId35; paragraph(s) 435, 656. Notebook cell 123, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId36; paragraph(s) 438, 658. 
+Dissertation rId36; paragraph(s) 438, 658.
 
 ### XGBoost learning curves
 
@@ -402,7 +402,7 @@ Dissertation rId36; paragraph(s) 438, 658.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId38; paragraph(s) 466, 664. Notebook cell 156, output 0. 
+Dissertation rId38; paragraph(s) 466, 664. Notebook cell 156, output 0.
 
 ### XGBoost historical and test predictions
 
@@ -412,7 +412,7 @@ Dissertation rId38; paragraph(s) 466, 664. Notebook cell 156, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId39; paragraph(s) 471. Notebook cell 146, output 0. 
+Dissertation rId39; paragraph(s) 471. Notebook cell 146, output 0.
 
 ### XGBoost actual versus predicted
 
@@ -422,7 +422,7 @@ Dissertation rId39; paragraph(s) 471. Notebook cell 146, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId40; paragraph(s) 473, 666. Notebook cell 148, output 0. 
+Dissertation rId40; paragraph(s) 473, 666. Notebook cell 148, output 0.
 
 ### XGBoost feature importance
 
@@ -432,7 +432,7 @@ Dissertation rId40; paragraph(s) 473, 666. Notebook cell 148, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Dissertation rId41; paragraph(s) 482, 668. 
+Dissertation rId41; paragraph(s) 482, 668.
 
 </details>
 
@@ -447,7 +447,7 @@ Dissertation rId41; paragraph(s) 482, 668.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId33; paragraph(s) 410, 413, 653, 655. Notebook cell 99, output 0. 
+Dissertation rId33; paragraph(s) 410, 413, 653, 655. Notebook cell 99, output 0.
 
 ### Original target-group forecast comparison bars
 
@@ -457,7 +457,7 @@ Dissertation rId33; paragraph(s) 410, 413, 653, 655. Notebook cell 99, output 0.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId42; paragraph(s) 494. Notebook cell 169, output 0. 
+Dissertation rId42; paragraph(s) 494. Notebook cell 169, output 0.
 
 ### Original second target-group forecast bars
 
@@ -467,7 +467,7 @@ Dissertation rId42; paragraph(s) 494. Notebook cell 169, output 0.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId43; paragraph(s) 495. Notebook cell 170, output 0. 
+Dissertation rId43; paragraph(s) 495. Notebook cell 170, output 0.
 
 ### Model forecast overlay in the dissertation body
 
@@ -477,7 +477,7 @@ Dissertation rId43; paragraph(s) 495. Notebook cell 170, output 0.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId44; paragraph(s) 499. Notebook cell 167, output 0. 
+Dissertation rId44; paragraph(s) 499. Notebook cell 167, output 0.
 
 ### Random Forest historical, test and future curves
 
@@ -487,7 +487,7 @@ Dissertation rId44; paragraph(s) 499. Notebook cell 167, output 0.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId69; paragraph(s) 661. 
+Dissertation rId69; paragraph(s) 661.
 
 ### XGBoost historical, test and future curves
 
@@ -497,7 +497,7 @@ Dissertation rId69; paragraph(s) 661.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId70; paragraph(s) 671. 
+Dissertation rId70; paragraph(s) 671.
 
 ### ARIMA forecast image under the final comparison caption
 
@@ -507,7 +507,7 @@ Dissertation rId70; paragraph(s) 671.
 
 Original forecast illustration, not reproduced or validated. Original target definitions, unit scale and future predictor assumptions are unresolved. With observations through 2024, the five-year scenario is 2025–2029; it is not a verified 2030 forecast or a calibrated uncertainty interval.
 
-Dissertation rId71; paragraph(s) 674. 
+Dissertation rId71; paragraph(s) 674.
 
 </details>
 
@@ -522,7 +522,7 @@ Dissertation rId71; paragraph(s) 674.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 30, output 0. 
+Notebook cell 30, output 0.
 
 ### National fuel consumption
 
@@ -532,7 +532,7 @@ Notebook cell 30, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 36, output 0. 
+Notebook cell 36, output 0.
 
 ### Fuel mix snapshot
 
@@ -542,7 +542,7 @@ Notebook cell 36, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 40, output 0. 
+Notebook cell 40, output 0.
 
 ### Fuel mix snapshot
 
@@ -552,7 +552,7 @@ Notebook cell 40, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 40, output 1. 
+Notebook cell 40, output 1.
 
 ### Fuel mix snapshot
 
@@ -562,7 +562,7 @@ Notebook cell 40, output 1.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 40, output 2. 
+Notebook cell 40, output 2.
 
 ### Year-on-year sector changes
 
@@ -572,7 +572,7 @@ Notebook cell 40, output 2.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 46, output 0. 
+Notebook cell 46, output 0.
 
 ### Correlation across aggregated fuel profiles
 
@@ -582,7 +582,7 @@ Notebook cell 46, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 49, output 0. 
+Notebook cell 49, output 0.
 
 ### Major fuel trends
 
@@ -592,7 +592,7 @@ Notebook cell 49, output 0.
 
 Original figure, not reproduced. The notebook mislabels ktoe × 11,630 as kWh and some preparation fills missing cells with zero or merges fuel categories. See the separately validated charts for corrected units and scope.
 
-Notebook cell 52, output 1. 
+Notebook cell 52, output 1.
 
 ### Original two-target area chart
 
@@ -602,7 +602,7 @@ Notebook cell 52, output 1.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 67, output 0. 
+Notebook cell 67, output 0.
 
 ### GDP or population scatter plots
 
@@ -612,7 +612,7 @@ Notebook cell 67, output 0.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 85, output 0. 
+Notebook cell 85, output 0.
 
 ### GDP or population scatter plots
 
@@ -622,7 +622,7 @@ Notebook cell 85, output 0.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 85, output 1. 
+Notebook cell 85, output 1.
 
 ### Temperature scatter plots
 
@@ -632,7 +632,7 @@ Notebook cell 85, output 1.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 86, output 0. 
+Notebook cell 86, output 0.
 
 ### Rainfall scatter plots
 
@@ -642,7 +642,7 @@ Notebook cell 86, output 0.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 87, output 0. 
+Notebook cell 87, output 0.
 
 ### Original feature correlation matrix
 
@@ -652,7 +652,7 @@ Notebook cell 87, output 0.
 
 Original figure, not reproduced. The Renewable label combines all electricity with bioenergy and waste; this is not measured renewable consumption. Original predictor indicator/vintage files are missing. Correlation is not causation.
 
-Notebook cell 88, output 0. 
+Notebook cell 88, output 0.
 
 ### Random Forest feature importance
 
@@ -662,7 +662,7 @@ Notebook cell 88, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Notebook cell 125, output 0. 
+Notebook cell 125, output 0.
 
 ### XGBoost feature importance
 
@@ -672,7 +672,7 @@ Notebook cell 125, output 0.
 
 Original saved result, not reproduced. Targets and absolute unit scale need correction; ARIMA and tree-model splits are not matched. Shuffled holdouts, tuning and predictor timing prevent an independently verified model ranking. Feature importance is model-specific association, not causal influence.
 
-Notebook cell 150, output 0. 
+Notebook cell 150, output 0.
 
 </details>
 

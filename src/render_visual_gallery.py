@@ -45,7 +45,7 @@ def main():
             provenance += 'Notebook ' + ', '.join(f"cell {r['cell']}, output {r['output']}" for r in item['notebook_outputs']) + '. '
         return [f"### {item['title']}", '', f"**{item['status']}**", '',
                 f"[![{item['title']}](../{item['path']})](../{item['path']})", '',
-                item.get('caption', item.get('limitations', '')), '', provenance, '']
+                item.get('caption', item.get('limitations', '')), '', provenance.strip(), '']
 
     for item in verified:
         lines += markdown(item)
