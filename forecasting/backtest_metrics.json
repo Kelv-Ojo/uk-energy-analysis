@@ -4,62 +4,119 @@
     "model": "Persistence",
     "origins": 22,
     "mae_ktoe": 3915.3004545454546,
-    "rmse_ktoe": 5663.789734300544
+    "rmse_ktoe": 5663.789734300544,
+    "mae_skill_vs_persistence": 0.0
   },
   {
     "horizon": 1,
     "model": "Ridge",
     "origins": 22,
     "mae_ktoe": 3682.742183168627,
-    "rmse_ktoe": 5768.099906020994
+    "rmse_ktoe": 5768.099906020994,
+    "mae_skill_vs_persistence": 0.05939729889869372
   },
   {
     "horizon": 1,
     "model": "Random forest",
     "origins": 22,
     "mae_ktoe": 4671.265988938599,
-    "rmse_ktoe": 6696.037326453659
+    "rmse_ktoe": 6696.037326453659,
+    "mae_skill_vs_persistence": -0.1930798269939944
+  },
+  {
+    "horizon": 1,
+    "model": "ARIMA(1,1,0)",
+    "origins": 22,
+    "mae_ktoe": 3573.7362441464675,
+    "rmse_ktoe": 5454.948219140807,
+    "mae_skill_vs_persistence": 0.08723831398493298
+  },
+  {
+    "horizon": 1,
+    "model": "XGBoost",
+    "origins": 22,
+    "mae_ktoe": 5113.4616051136345,
+    "rmse_ktoe": 6867.517297991431,
+    "mae_skill_vs_persistence": -0.30602023126403455
   },
   {
     "horizon": 3,
     "model": "Persistence",
     "origins": 20,
     "mae_ktoe": 6137.675999999997,
-    "rmse_ktoe": 8005.417574740872
+    "rmse_ktoe": 8005.417574740872,
+    "mae_skill_vs_persistence": 0.0
   },
   {
     "horizon": 3,
     "model": "Ridge",
     "origins": 20,
     "mae_ktoe": 7301.815459129563,
-    "rmse_ktoe": 9220.569832782418
+    "rmse_ktoe": 9220.569832782418,
+    "mae_skill_vs_persistence": -0.1896710512463622
   },
   {
     "horizon": 3,
     "model": "Random forest",
     "origins": 20,
     "mae_ktoe": 8835.82860006134,
-    "rmse_ktoe": 10589.415937132395
+    "rmse_ktoe": 10589.415937132395,
+    "mae_skill_vs_persistence": -0.43960492539217544
+  },
+  {
+    "horizon": 3,
+    "model": "ARIMA(1,1,0)",
+    "origins": 20,
+    "mae_ktoe": 6060.358345168247,
+    "rmse_ktoe": 7993.573811922402,
+    "mae_skill_vs_persistence": 0.012597219995279962
+  },
+  {
+    "horizon": 3,
+    "model": "XGBoost",
+    "origins": 20,
+    "mae_ktoe": 9394.63528125,
+    "rmse_ktoe": 11114.624705781633,
+    "mae_skill_vs_persistence": -0.5306502463228762
   },
   {
     "horizon": 5,
     "model": "Persistence",
     "origins": 18,
     "mae_ktoe": 9411.212222222222,
-    "rmse_ktoe": 10900.130506839001
+    "rmse_ktoe": 10900.130506839001,
+    "mae_skill_vs_persistence": 0.0
   },
   {
     "horizon": 5,
     "model": "Ridge",
     "origins": 18,
     "mae_ktoe": 11907.439927318464,
-    "rmse_ktoe": 13441.278873270147
+    "rmse_ktoe": 13441.278873270147,
+    "mae_skill_vs_persistence": -0.26523976360898804
   },
   {
     "horizon": 5,
     "model": "Random forest",
     "origins": 18,
     "mae_ktoe": 12416.146344752111,
-    "rmse_ktoe": 13935.37396859027
+    "rmse_ktoe": 13935.37396859027,
+    "mae_skill_vs_persistence": -0.3192929934609794
+  },
+  {
+    "horizon": 5,
+    "model": "ARIMA(1,1,0)",
+    "origins": 18,
+    "mae_ktoe": 9334.41492970795,
+    "rmse_ktoe": 10823.886281684461,
+    "mae_skill_vs_persistence": 0.00816019134420698
+  },
+  {
+    "horizon": 5,
+    "model": "XGBoost",
+    "origins": 18,
+    "mae_ktoe": 11533.815868055557,
+    "rmse_ktoe": 13208.896449825921,
+    "mae_skill_vs_persistence": -0.22553987687381416
   }
 ]

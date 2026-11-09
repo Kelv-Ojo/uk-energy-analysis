@@ -1,0 +1,18 @@
+{
+  "years": 55,
+  "years_with_unavailable_fuels": 29,
+  "latest_year": {
+    "year": 2024,
+    "total_final_consumption_ktoe": 128091.8,
+    "electricity_ktoe": 23418.37,
+    "bioenergy_and_waste_ktoe": 7326.11,
+    "electricity_plus_bioenergy_waste_ktoe": 30744.48,
+    "diagnostic_share_of_final_total_pct": 24.00191112936191,
+    "complete_fuel_sum_minus_total_ktoe": -22.763313601433765,
+    "unavailable_fuels": "",
+    "total_source_cell": "BE61",
+    "electricity_source_cell": "BA61",
+    "bioenergy_waste_source_cell": "BC61"
+  },
+  "interpretation": "Electricity plus bioenergy and waste is a diagnostic fuel grouping, not renewable consumption."
+}

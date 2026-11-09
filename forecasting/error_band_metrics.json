@@ -1,0 +1,122 @@
+[
+  {
+    "model": "ARIMA(1,1,0)",
+    "horizon": 1,
+    "nominal_level": 0.8,
+    "evaluated_bands": 12,
+    "observed_coverage": 0.9166666666666666,
+    "median_width_ktoe": 15390.277888752236
+  },
+  {
+    "model": "ARIMA(1,1,0)",
+    "horizon": 3,
+    "nominal_level": 0.8,
+    "evaluated_bands": 8,
+    "observed_coverage": 0.625,
+    "median_width_ktoe": 25242.80598879041
+  },
+  {
+    "model": "ARIMA(1,1,0)",
+    "horizon": 5,
+    "nominal_level": 0.8,
+    "evaluated_bands": 4,
+    "observed_coverage": 0.75,
+    "median_width_ktoe": 30441.35156562098
+  },
+  {
+    "model": "Persistence",
+    "horizon": 1,
+    "nominal_level": 0.8,
+    "evaluated_bands": 12,
+    "observed_coverage": 0.9166666666666666,
+    "median_width_ktoe": 16026.19999999996
+  },
+  {
+    "model": "Persistence",
+    "horizon": 3,
+    "nominal_level": 0.8,
+    "evaluated_bands": 8,
+    "observed_coverage": 0.625,
+    "median_width_ktoe": 24892.26000000001
+  },
+  {
+    "model": "Persistence",
+    "horizon": 5,
+    "nominal_level": 0.8,
+    "evaluated_bands": 4,
+    "observed_coverage": 0.75,
+    "median_width_ktoe": 30681.359999999986
+  },
+  {
+    "model": "Random forest",
+    "horizon": 1,
+    "nominal_level": 0.8,
+    "evaluated_bands": 12,
+    "observed_coverage": 0.8333333333333334,
+    "median_width_ktoe": 21699.526635096816
+  },
+  {
+    "model": "Random forest",
+    "horizon": 3,
+    "nominal_level": 0.8,
+    "evaluated_bands": 8,
+    "observed_coverage": 0.5,
+    "median_width_ktoe": 28507.20421414863
+  },
+  {
+    "model": "Random forest",
+    "horizon": 5,
+    "nominal_level": 0.8,
+    "evaluated_bands": 4,
+    "observed_coverage": 0.5,
+    "median_width_ktoe": 35375.724830455845
+  },
+  {
+    "model": "Ridge",
+    "horizon": 1,
+    "nominal_level": 0.8,
+    "evaluated_bands": 12,
+    "observed_coverage": 0.9166666666666666,
+    "median_width_ktoe": 18120.753407384444
+  },
+  {
+    "model": "Ridge",
+    "horizon": 3,
+    "nominal_level": 0.8,
+    "evaluated_bands": 8,
+    "observed_coverage": 0.625,
+    "median_width_ktoe": 24395.84217805689
+  },
+  {
+    "model": "Ridge",
+    "horizon": 5,
+    "nominal_level": 0.8,
+    "evaluated_bands": 4,
+    "observed_coverage": 0,
+    "median_width_ktoe": 29395.566708909697
+  },
+  {
+    "model": "XGBoost",
+    "horizon": 1,
+    "nominal_level": 0.8,
+    "evaluated_bands": 12,
+    "observed_coverage": 0.8333333333333334,
+    "median_width_ktoe": 21067.868750000023
+  },
+  {
+    "model": "XGBoost",
+    "horizon": 3,
+    "nominal_level": 0.8,
+    "evaluated_bands": 8,
+    "observed_coverage": 0.375,
+    "median_width_ktoe": 28936.493750000023
+  },
+  {
+    "model": "XGBoost",
+    "horizon": 5,
+    "nominal_level": 0.8,
+    "evaluated_bands": 4,
+    "observed_coverage": 0.25,
+    "median_width_ktoe": 29713.71749999997
+  }
+]

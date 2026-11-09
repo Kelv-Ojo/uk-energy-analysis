@@ -24,9 +24,17 @@ jobs:
       - run: python -m pip install -r requirements-ci.txt
       - run: python -m pip check
       - run: python ci_validate.py
+      - name: Check target definitions and source keys
+        run: |
+          python src/reconcile_targets.py
+          python src/test_target_reconciliation.py
       - name: Check chronological forecast isolation
         run: |
           python -m pip install -r forecasting/requirements.txt
+          python forecasting/backtest.py
+          python forecasting/check_results.py
+          python forecasting/error_bands.py
+          python forecasting/test_error_bands.py
           python forecasting/test_no_lookahead.py
       - name: Record resolved dependency versions
         run: python -m pip freeze

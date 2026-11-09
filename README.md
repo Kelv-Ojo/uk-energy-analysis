@@ -129,3 +129,7 @@ Energy planning starts with trustworthy historical demand comparisons. This repo
 ## Independent chronological backtest
 
 A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge and Random Forest at 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the recovered original notebook is audited in docs/RECOVERED-NOTEBOOK-AUDIT.md and has not been rerun.
+
+## Verified chronological extension
+
+The separate [historical backtest](forecasting/README.md) now compares persistence, Ridge, ARIMA, Random Forest and XGBoost on matched origins for the verified total-consumption target. The executed results and leakage checks are available there; they do not reproduce the dissertation. [Target reconciliation](docs/TARGET-RECONCILIATION.md) explains the unsupported renewable grouping, source scope differences and missing original predictor metadata.

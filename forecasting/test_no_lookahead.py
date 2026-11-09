@@ -41,11 +41,11 @@ def main():
         changed = run_probe(Path(directory) / 'changed', True)
     assert normal.keys() == changed.keys()
     early = [key for key in normal if key[2] < 2020]
-    assert len(early) == 162
+    assert len(early) == 270
     assert all(normal[key] == changed[key] for key in early), 'Future data changed an earlier forecast'
     for model in {key[0] for key in normal}:
         assert any(normal[k] != changed[k] for k in normal if k[0] == model and k[2] >= 2020), model
-    print('Passed: 162 pre-2020 predictions unchanged; all three models respond after the perturbation.')
+    print('Passed: 270 pre-2020 predictions unchanged; all five models respond after the perturbation.')
 
 
 if __name__ == '__main__':

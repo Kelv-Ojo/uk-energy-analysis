@@ -1,30 +1,32 @@
-"""Check saved backtest scope, temporal cutoffs and independently recomputed errors."""
+"""Independently reconcile saved metrics and matched evaluation scopes."""
 import csv
 import json
 import math
 from pathlib import Path
 
-root = Path(__file__).resolve().parents[1]
-with (root / 'reports/sector_totals_ktoe.csv').open() as f:
-    actual = {int(r['year']): float(r['All final users']) for r in csv.DictReader(f)}
-with (root / 'forecasting/backtest_predictions.csv').open() as f:
-    rows = list(csv.DictReader(f))
-metrics = json.loads((root / 'forecasting/backtest_metrics.json').read_text())
-assert len(rows) == 180 and len(metrics) == 9
-keys = {(r['model'], int(r['horizon']), int(r['origin_year'])) for r in rows}
-assert len(keys) == len(rows)
-for row in rows:
-    origin, target, horizon = map(int, (row['origin_year'], row['target_year'], row['horizon']))
-    assert target == origin + horizon
-    assert int(row['last_training_target_year']) <= origin
-    assert float(row['actual_ktoe']) == actual[target]
-    assert math.isfinite(float(row['predicted_ktoe']))
-    if row['model'] == 'Persistence':
-        assert float(row['predicted_ktoe']) == actual[origin]
-for metric in metrics:
-    selected = [r for r in rows if r['model'] == metric['model'] and int(r['horizon']) == metric['horizon']]
-    assert len(selected) == metric['origins']
-    errors = [float(r['predicted_ktoe']) - float(r['actual_ktoe']) for r in selected]
-    assert math.isclose(sum(abs(e) for e in errors) / len(errors), metric['mae_ktoe'], rel_tol=1e-10)
-    assert math.isclose(math.sqrt(sum(e*e for e in errors) / len(errors)), metric['rmse_ktoe'], rel_tol=1e-10)
-print('Verified 180 predictions, temporal cutoffs, persistence baseline and nine error summaries.')
+ROOT = Path(__file__).resolve().parent
+rows = list(csv.DictReader((ROOT / 'backtest_predictions.csv').open(newline='')))
+metrics = json.loads((ROOT / 'backtest_metrics.json').read_text())
+models = {'Persistence', 'Ridge', 'Random forest', 'ARIMA(1,1,0)', 'XGBoost'}
+assert {r['model'] for r in rows} == models
+assert len(rows) == 300 and len(metrics) == 15
+keys = [(r['model'], r['origin_year'], r['horizon']) for r in rows]
+assert len(set(keys)) == len(keys)
+for horizon, count in [(1, 22), (3, 20), (5, 18)]:
+    groups = {model: [r for r in rows if int(r['horizon']) == horizon and r['model'] == model] for model in models}
+    scopes = [{(r['origin_year'], r['target_year'], r['actual_ktoe']) for r in group} for group in groups.values()]
+    assert all(scope == scopes[0] and len(scope) == count for scope in scopes)
+    for row in [r for group in groups.values() for r in group]:
+        assert int(row['target_year']) - int(row['origin_year']) == horizon
+        assert int(row['last_training_target_year']) <= int(row['origin_year'])
+        assert math.isfinite(float(row['predicted_ktoe']))
+    naive_mae = sum(abs(float(r['predicted_ktoe']) - float(r['actual_ktoe'])) for r in groups['Persistence']) / count
+    for model, group in groups.items():
+        errors = [float(r['predicted_ktoe']) - float(r['actual_ktoe']) for r in group]
+        metric, = [m for m in metrics if m['model'] == model and m['horizon'] == horizon]
+        assert metric['origins'] == count
+        mae = sum(map(abs, errors)) / count
+        rmse = math.sqrt(sum(e * e for e in errors) / count)
+        for name, expected in [('mae_ktoe', mae), ('rmse_ktoe', rmse), ('mae_skill_vs_persistence', 1 - mae / naive_mae)]:
+            assert math.isclose(metric[name], expected, rel_tol=1e-10, abs_tol=1e-8), (model, horizon, name)
+print('Passed: 300 matched forecasts, training cutoffs and all 15 error/skill summaries.')
