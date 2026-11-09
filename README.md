@@ -38,7 +38,7 @@ The report describes different time-based and shuffled/random evaluation arrange
 
 The study connects historical demand analysis with forecasting methods relevant to energy planning. It demonstrates research framing, Python/SQL analysis, visual communication and critical evaluation; no implemented policy or business impact is claimed.
 
-The original forecasting notebook is recovered; it has not been rerun. Original input snapshots and a matched chronological model comparison remain unavailable. Report unit conversions, renewable-target definitions, future-period descriptions and plot/table consistency require reconciliation before numerical forecasting results can be released. The complete dissertation and restricted university material are excluded.
+The original forecasting notebook is recovered; it has not been rerun. Original input snapshots and a matched chronological reproduction of the dissertation targets remain unavailable. A separate total-consumption comparison is available below. Report unit conversions, renewable-target definitions, future-period descriptions and plot/table consistency require reconciliation before numerical forecasting results can be released. The complete dissertation and restricted university material are excluded.
 
 Read the [methodology and verification notes](docs/DISSERTATION-SUMMARY.md), then explore the independently reproduced historical findings below.
 
@@ -128,7 +128,7 @@ Energy planning starts with trustworthy historical demand comparisons. This repo
 
 ## Independent chronological backtest
 
-A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge and Random Forest at 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the recovered original notebook is audited in docs/RECOVERED-NOTEBOOK-AUDIT.md and has not been rerun.
+A [new historical backtesting extension](forecasting/README.md) compares persistence, Ridge, ARIMA, Random Forest and XGBoost at matched 1, 3 and 5-year horizons using past consumption only. This is separate from the dissertation experiments; the recovered original notebook is audited in docs/RECOVERED-NOTEBOOK-AUDIT.md and has not been rerun.
 
 ## Verified chronological extension
 
