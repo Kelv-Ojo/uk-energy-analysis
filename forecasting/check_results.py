@@ -5,6 +5,8 @@ import math
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+with (ROOT.parent / 'reports/sector_totals_ktoe.csv').open(newline='') as stream:
+    source_actual = {int(r['year']): float(r['All final users']) for r in csv.DictReader(stream)}
 rows = list(csv.DictReader((ROOT / 'backtest_predictions.csv').open(newline='')))
 metrics = json.loads((ROOT / 'backtest_metrics.json').read_text())
 models = {'Persistence', 'Ridge', 'Random forest', 'ARIMA(1,1,0)', 'XGBoost'}
@@ -20,6 +22,9 @@ for horizon, count in [(1, 22), (3, 20), (5, 18)]:
         assert int(row['target_year']) - int(row['origin_year']) == horizon
         assert int(row['last_training_target_year']) <= int(row['origin_year'])
         assert math.isfinite(float(row['predicted_ktoe']))
+        assert float(row['actual_ktoe']) == source_actual[int(row['target_year'])]
+        if row['model'] == 'Persistence':
+            assert float(row['predicted_ktoe']) == source_actual[int(row['origin_year'])]
     naive_mae = sum(abs(float(r['predicted_ktoe']) - float(r['actual_ktoe'])) for r in groups['Persistence']) / count
     for model, group in groups.items():
         errors = [float(r['predicted_ktoe']) - float(r['actual_ktoe']) for r in group]
